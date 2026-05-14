@@ -26,9 +26,5 @@ jobs:
       run: |
         bundle install --jobs=4 --retry=3
 
-    - name: Update Algolia index
-      # REMOVED: working-directory: docs/
-      run: bundle exec jekyll algolia push
-      env:
-        ALGOLIA_API_KEY: ${{ secrets.ALGOLIA_API_KEY }}
-      continue-on-error: true
+   search: true
+search_provider: lunr # Instead of 'algolia'
