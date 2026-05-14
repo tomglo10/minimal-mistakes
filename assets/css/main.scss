@@ -26,8 +26,7 @@ $sidebar-width: 275px; margin: 0 10px;
 // Force the main article container to hit your 925px target
 .page {
   @include breakpoint($large) {
-    max-width: 925px; 
-    padding-right: 20px;
+    max-width: 1000px;    
   }
 }
 
