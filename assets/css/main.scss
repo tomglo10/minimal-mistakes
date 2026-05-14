@@ -5,5 +5,59 @@ search: false
 
 @charset "utf-8";
 
-@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
-@import "minimal-mistakes"; // main partials
+/**
+ * 1. SET VARIABLES FIRST
+ * These must be defined BEFORE the theme imports to take effect.
+ */
+
+// Sets the outer container to your image width
+$max-width: 925px; 
+
+// Adjusting sidebar widths so they don't squeeze your clinical data
+$sidebar-width: 250px;
+$right-sidebar-width-narrow: 150px;
+
+/**
+ * 2. IMPORT THEME
+ */
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'mint' }}"; 
+@import "minimal-mistakes"; 
+
+/**
+ * 3. CUSTOM OVERRIDES
+ * Fine-tuning for geriatric health literacy (High readability)
+ */
+
+#main {
+  max-width: $max-width;
+  // Center the layout
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.page__content {
+  // Enhancing typography for senior readers
+  font-size: 1.15rem; 
+  line-height: 1.8;
+  color: #1a1a1a; // Deeper contrast for easier reading
+
+  h1, h2, h3, h4 {
+    margin-top: 1.5em;
+    color: #000;
+  }
+
+  // Ensure your medical illustrations stay crisp and centered
+  img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 4px;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+  }
+}
+
+// Ensure the author profile sidebar doesn't overlap on smaller screens
+.sidebar {
+  font-size: 0.9rem;
+}
