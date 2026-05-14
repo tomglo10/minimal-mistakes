@@ -9,9 +9,9 @@ search: false
  * 1. LAYOUT VARIABLES
  * To get 925px of CONTENT, the TOTAL width needs to be wider (~1280px).
  */
-$max-width: 1400px; 
-$right-sidebar-width: 260px; // Standard width for "On this page"
-$sidebar-width: 275px;       // Standard width for Author Bio
+$max-width: 1500px;margin:auto; 
+$right-sidebar-width: 260px; margin: 0 10px;
+$sidebar-width: 275px; margin: 0 10px;
 
 /**
  * 2. IMPORT THEME
@@ -27,7 +27,7 @@ $sidebar-width: 275px;       // Standard width for Author Bio
 .page {
   @include breakpoint($large) {
     max-width: 925px; 
-  margin:auto;
+    padding-right: 20px;
   }
 }
 
