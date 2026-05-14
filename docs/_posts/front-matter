@@ -1,0 +1,65 @@
+---
+# ════════════════════════════════════════════════════════════
+#  POST FRONT-MATTER TEMPLATE — Aging Health / Minimal Mistakes
+#  Required fields marked with *
+# ════════════════════════════════════════════════════════════
+
+# * Always "single" for Minimal Mistakes post pages
+layout: single
+
+# * Shown in browser tab, grid cards, and sidebar lists
+title: "Your Post Title Here"
+
+# * Must match the filename date  (YYYY-MM-DD HH:MM:SS ±HHMM)
+date: 2026-05-14 08:00:00 -0500
+
+# ── SEO ─────────────────────────────────────────────────────
+description: >
+  One or two sentences for search engines and social previews
+  (aim for 150–160 characters).
+
+# ── Images ──────────────────────────────────────────────────
+header:
+  # Full-width hero at the top of the post page
+  overlay_image: /assets/images/posts/your-post-hero.jpg
+  overlay_filter: "linear-gradient(135deg, rgba(8,28,58,0.80) 0%, rgba(0,96,150,0.45) 100%)"
+  caption: "Image credit: Source Name"
+
+  # ↓ THIS IS THE KEY ONE — drives all three sidebar/grid thumbnails
+  # Recommended size: 400×225 px (16:9)
+  teaser: /assets/images/posts/your-post-teaser.jpg
+
+# ── Taxonomy ────────────────────────────────────────────────
+# First entry drives the "· Category" label on grid cards
+categories:
+  - Heart Health
+  # Heart Health | Nutrition | Exercise | Longevity |
+  # Mental Health | Medication | Preventive Care | Healthy Aging
+
+tags:
+  - cardiovascular
+  - blood-pressure
+  - seniors
+
+# ── Popular Posts flag ──────────────────────────────────────
+# Must be the STRING "true" (quoted) — not a bare boolean
+# Remove this line entirely to exclude from Popular Posts sidebar
+popular: "true"
+
+# ── Post page behaviour ─────────────────────────────────────
+show_date:  true    # display publish date under the title
+read_time:  true    # auto reading-time estimate
+related:    true    # show related posts at the bottom
+share:      true    # Twitter / Facebook / LinkedIn buttons
+comments:   true    # requires comment provider in _config.yml
+
+sidebar:
+  nav: "main"       # remove to hide sidebar on this post
+
+# ── Open Graph ──────────────────────────────────────────────
+og_image: /assets/images/posts/your-post-teaser.jpg
+
+last_modified_at: 2026-05-14
+---
+
+Post content starts here…
