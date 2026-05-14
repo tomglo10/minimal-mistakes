@@ -26,7 +26,7 @@ $sidebar-width: 275px; margin: 0 10px;
 // Force the main article container to hit your 925px target
 .page {
   @include breakpoint($large) {
-    max-width: 1000px;    
+    max-width: 1000px;  margin:auto;  
   }
 }
 
@@ -56,7 +56,7 @@ $sidebar-width: 275px; margin: 0 10px;
 // Typography for clinical data interpretation
 .page__content {
   p, li {
-    font-size: 1.15rem;
+    font-size: 1.12rem;
     line-height: 1.8;
     letter-spacing: 0.01rem;
     color: #222;
