@@ -27,7 +27,7 @@ $sidebar-width: 275px;       // Standard width for Author Bio
 .page {
   @include breakpoint($large) {
     max-width: 925px; 
-    padding-right: 20px;
+  margin:auto;
   }
 }
 
