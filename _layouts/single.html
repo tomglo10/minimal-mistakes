@@ -50,6 +50,12 @@ layout: default
           </aside>
         {% endif %}
         {{ content }}
+        <div class="post-content">
+  {{ content }}
+</div>
+
+<!-- This auto-adds the glossary to every post -->
+{% include glossary.md %}
         {% if page.link %}<div><a href="{{ page.link }}" class="btn btn--primary">{{ site.data.ui-text[locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
       </section>
 
