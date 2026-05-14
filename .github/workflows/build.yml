@@ -3,9 +3,8 @@ name: build
 on:
   push:
     branches:
-      - master # Double-check if your branch is 'master' or 'main'
+      - master # If your branch is actually 'main', change this to 'main'
   workflow_dispatch: {}
-  repository_dispatch: {}
 
 jobs:
   build:
@@ -18,10 +17,9 @@ jobs:
     - uses: ruby/setup-ruby@v1
       with:
         ruby-version: '3.2'
-        bundler-cache: true # This handles your Gemfile install and caching automatically
+        bundler-cache: true 
 
     - name: Build Site
-      run: |
-        bundle exec jekyll build
+      run: bundle exec jekyll build
       env:
         JEKYLL_ENV: production
