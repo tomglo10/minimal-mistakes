@@ -3,13 +3,12 @@ name: build
 on:
   push:
     branches:
-      - master # Ensure your main branch is actually named 'master' and not 'main'
+      - master # Double-check if your branch is 'master' or 'main'
   workflow_dispatch: {}
   repository_dispatch: {}
 
 jobs:
   build:
-    # REMOVED: the "if: github.repository" line so it runs on YOUR repo
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v4
@@ -19,12 +18,10 @@ jobs:
     - uses: ruby/setup-ruby@v1
       with:
         ruby-version: '3.2'
-        bundler-cache: true # This simplifies the caching steps significantly
+        bundler-cache: true # This handles your Gemfile install and caching automatically
 
-    - name: Install Dependencies
-      # REMOVED: working-directory: docs/ (unless your Gemfile is actually in a docs folder)
+    - name: Build Site
       run: |
-        bundle install --jobs=4 --retry=3
-
-   search: true
-search_provider: 
+        bundle exec jekyll build
+      env:
+        JEKYLL_ENV: production
