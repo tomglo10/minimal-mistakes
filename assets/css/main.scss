@@ -8,7 +8,7 @@ search: false
 /**
  * 1. VARIABLES (No brackets needed here)
  */
-$max-width: 1280px; // Total container width
+$max-width: 1480px; // Total container width
 $sidebar-width: 240px;
 
 /**
@@ -29,13 +29,13 @@ $sidebar-width: 240px;
 // This ensures your content area hits the 925px target
 .page {
   @include breakpoint($large) {
-    max-width: 925px; 
+    max-width: 995px; 
   }
 }
 
 // Global typography for health literacy
 .page__content {
-  font-size: 1.15rem;
+  font-size: 1.12rem;
   line-height: 1.8;
   color: #222;
 
