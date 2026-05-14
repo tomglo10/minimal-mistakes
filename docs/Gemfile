@@ -1,13 +1,19 @@
 source "https://rubygems.org"
 
+# Use the github-pages gem to match the GitHub Pages environment
 gem "github-pages", group: :jekyll_plugins
-gem "minimal-mistakes-jekyll", path: ".."
+
+# If you want to use the latest version of the theme via the gem:
+gem "minimal-mistakes-jekyll"
+
 gem "rake"
+
+# This specific syntax prevents the "undefined local variable 'linux'" error
+gem "google-protobuf", "3.25.8", platforms: [:mri, :x86_64_linux]
 
 gem "tzinfo-data"
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
-# If you have any plugins, put them here!
 group :jekyll_plugins do
   gem "jekyll-paginate"
   gem "jekyll-sitemap"
