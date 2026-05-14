@@ -3,13 +3,13 @@ name: build
 on:
   push:
     branches:
-      - master
+      - master # Ensure your main branch is actually named 'master' and not 'main'
   workflow_dispatch: {}
   repository_dispatch: {}
 
 jobs:
   build:
-    if: github.repository == 'mmistakes/minimal-mistakes'
+    # REMOVED: the "if: github.repository" line so it runs on YOUR repo
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v4
@@ -19,28 +19,15 @@ jobs:
     - uses: ruby/setup-ruby@v1
       with:
         ruby-version: '3.2'
-    - name: Setup cache for Bundler
-      id: cache
-      uses: actions/cache@v4
-      with:
-        path: |
-          docs/Gemfile.lock
-          docs/vendor/bundle
-        key: ${{ runner.os }}-bundler-${{ hashFiles('docs/Gemfile') }}
-        restore-keys: |
-          ${{ runner.os }}-bundler-
+        bundler-cache: true # This simplifies the caching steps significantly
 
-    - name: Install - Bundler
-      env:
-        MAKE: make -j2
-      working-directory: docs/
+    - name: Install Dependencies
+      # REMOVED: working-directory: docs/ (unless your Gemfile is actually in a docs folder)
       run: |
-        bundle config set path vendor/bundle
         bundle install --jobs=4 --retry=3
-        bundle clean
 
     - name: Update Algolia index
-      working-directory: docs/
+      # REMOVED: working-directory: docs/
       run: bundle exec jekyll algolia push
       env:
         ALGOLIA_API_KEY: ${{ secrets.ALGOLIA_API_KEY }}
