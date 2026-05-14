@@ -1,63 +1,72 @@
 ---
-# Only the main Sass file needs front matter (the dashes are enough)
+# Minimal Mistakes Main SCSS
 search: false
 ---
 
 @charset "utf-8";
 
 /**
- * 1. SET VARIABLES FIRST
- * These must be defined BEFORE the theme imports to take effect.
+ * 1. LAYOUT VARIABLES
+ * To get 925px of CONTENT, the TOTAL width needs to be wider (~1280px).
  */
-
-// Sets the outer container to your image width
-$max-width: 925px; 
-
-// Adjusting sidebar widths so they don't squeeze your clinical data
-$sidebar-width: 250px;
-$right-sidebar-width-narrow: 150px;
+$max-width: 1480px; 
+$right-sidebar-width: 260px; // Standard width for "On this page"
+$sidebar-width: 275px;       // Standard width for Author Bio
 
 /**
  * 2. IMPORT THEME
  */
-
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'mint' }}"; 
 @import "minimal-mistakes"; 
 
 /**
- * 3. CUSTOM OVERRIDES
- * Fine-tuning for geriatric health literacy (High readability)
+ * 3. CUSTOM REFINEMENTS FOR AGING-HEALTH
  */
 
-#main {
-  max-width: $max-width;
-  // Center the layout
-  margin-left: auto;
-  margin-right: auto;
+// Force the main article container to hit your 925px target
+.page {
+  @include breakpoint($large) {
+    max-width: 925px; 
+    padding-right: 20px;
+  }
 }
 
+// Medical Disclaimer Box Styling (Matches your screenshot)
+.notice--info {
+  font-size: 0.95rem;
+  border-left: 5px solid #009688; // Matches 'mint' theme
+  background-color: #f0f9f8;
+  padding: 1.5em;
+  margin: 2em 0;
+  border-radius: 4px;
+}
+
+// Clean up the "On this page" TOC (The teal box in your screenshot)
+.toc {
+  background-color: #f9f9f9;
+  border: 1px solid #e2e2e2;
+  border-radius: 8px;
+  
+  .nav__title {
+    background: #009688; // Teal header
+    color: #fff;
+    border-radius: 7px 7px 0 0;
+  }
+}
+
+// Typography for clinical data interpretation
 .page__content {
-  // Enhancing typography for senior readers
-  font-size: 1.15rem; 
-  line-height: 1.8;
-  color: #1a1a1a; // Deeper contrast for easier reading
-
-  h1, h2, h3, h4 {
-    margin-top: 1.5em;
-    color: #000;
+  p, li {
+    font-size: 1.15rem;
+    line-height: 1.8;
+    letter-spacing: 0.01rem;
+    color: #222;
   }
-
-  // Ensure your medical illustrations stay crisp and centered
+  
+  // Ensure your medical diagrams fill the 925px perfectly
   img {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    border-radius: 4px;
-    box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+    width: 100%;
+    height: auto;
+    margin: 2em 0;
   }
-}
-
-// Ensure the author profile sidebar doesn't overlap on smaller screens
-.sidebar {
-  font-size: 0.9rem;
 }
