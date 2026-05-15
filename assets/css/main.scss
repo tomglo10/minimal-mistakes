@@ -8,7 +8,7 @@
  * 1. VARIABLES
  */
 $max-width: 1280px; 
-$sidebar-width: 260px;
+$sidebar-width: 240px;
 
 /**
  * 2. IMPORTS
@@ -17,60 +17,46 @@ $sidebar-width: 260px;
 @import "minimal-mistakes"; 
 
 /**
- * 3. GLOBAL CENTERING
+ * 3. GLOBAL CENTERING & SIDEBAR FIX
  */
+
+/* Centers the entire unit: Bio + Text + TOC */
 .wrapper {
   max-width: $max-width;
-  margin-left: auto;
-  margin-right: auto;
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
 }
 
 #main {
-  max-width: $max-width;
-  margin-left: auto;
-  margin-right: auto;
-  padding-left: 20px;
-  padding-right: 20px;
+  width: 100%;
+  margin: 0 auto;
 }
 
-.page {
-  @include breakpoint($large) {
-    max-width: 925px; 
-    margin-left: auto;
-    margin-right: auto;
-    float: none !important; 
-    font-size: 1.12rem;
-  }
+/* Centers your 925px content and removes the 'right lean' */
+.initial-content, 
+.page__content {
+  max-width: 925px !important;
+  margin: 0 auto !important;
+  float: none !important; 
+  padding: 0 40px;
 }
 
-/**
- * 4. SIDEBARS & TOC
- */
+/* Pulls the sidebars in tight against the content */
 .sidebar {
-  width: $sidebar-width;
+  width: $sidebar-width !important;
   margin-right: 20px;
+  float: none !important;
 }
 
 .sidebar__right {
-  width: $sidebar-width;
+  width: $sidebar-width !important;
   margin-left: 20px;
-}
-
-.toc {
-  background-color: #f9f9f9;
-  border: 1px solid #e2e2e2;
-  border-radius: 4px;
-
-  .nav__title {
-    background-color: #009688; 
-    color: #fff;
-    border-radius: 4px 4px 0 0;
-    padding: 0.5em 1em;
-  }
+  float: none !important;
 }
 
 /**
- * 5. TYPOGRAPHY
+ * 4. TYPOGRAPHY & DISCLAIMERS
  */
 .page__content {
   font-size: 1.15rem;
@@ -83,4 +69,11 @@ $sidebar-width: 260px;
     max-width: 100%;
     border-radius: 4px;
   }
+}
+
+.notice--info {
+  font-size: 0.95rem;
+  border-left: 5px solid #009688;
+  background-color: #f0f9f8;
+  margin: 2em 0;
 }
