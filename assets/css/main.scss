@@ -1,11 +1,12 @@
 ---
-# Jekyll Front Matter
+# Front matter is required for Jekyll to process these theme imports
 ---
 
 @charset "utf-8";
 
 /**
  * 1. SET THE MASTER WIDTH
+ * Widened to 1600px to give sidebars and content plenty of room.
  */
 $max-width: 1600px;
 $sidebar-width: 260px;
@@ -15,6 +16,7 @@ $sidebar-width: 260px;
 
 /**
  * 2. THE CENTERING WRAPPER
+ * This ensures the Bio, the Research, and the TOC sit as one unit.
  */
 .wrapper {
   max-width: $max-width;
@@ -25,7 +27,7 @@ $sidebar-width: 260px;
 
 /**
  * 3. THE CONTENT COLUMN
- * Widened to 1150px so your clinical data has room to breathe.
+ * Boosted to 1150px for better clinical data visibility.
  */
 .initial-content, 
 .page__content, 
