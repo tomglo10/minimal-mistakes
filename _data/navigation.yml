@@ -1,7 +1,12 @@
-# main links
+# Main Navigation Links
 main:
-[Brain & Mind](/categories/#brain-mind)
-[Heart & Metabolic](/categories/#heart-metabolic)
-[Longevity](/categories/#longevity)
+  - title: "Home"
+    url: /
+  - title: "Brain & Mind"
+    url: "/categories/#brain-mind"
+  - title: "Heart & Metabolic"
+    url: "/categories/#heart-metabolic"
+  - title: "Longevity"
+    url: "/categories/#longevity"
   - title: "About"
     url: /about/
