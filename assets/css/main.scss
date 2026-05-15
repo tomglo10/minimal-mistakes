@@ -28,7 +28,7 @@ $sidebar-width: 240px;
 // This ensures your content area hits the 925px target
 .page {
   @include breakpoint($large) {
-    max-width: 950px; margin:auto;padding-left:-20px;
+    max-width: 950px; margin:auto;padding-left:-20px;font-size: 1.12rem;
   }
 }
 
