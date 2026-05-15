@@ -7,7 +7,7 @@ tags: [Walking, Heart Health, Diabetes, Mental Health, Sarcopenia]
 header:
  overlay-_image: /assets/images/heart-rhythm.webp
  teaser: /assets/images/heart-rhythm.webp
- excerb: "Medical infographic showing an older couple walking with illustrated health benefits."
+ excerpt: "Medical infographic showing an older couple walking with illustrated health benefits."
 description: "Discover why walking is the ultimate longevity tool for seniors, from blood sugar control to cognitive resilience and immune support."
 last_modified_at: 2026-05-07
 
