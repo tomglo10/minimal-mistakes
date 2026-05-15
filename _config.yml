@@ -70,7 +70,9 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
-
+# Pagination Settings
+paginate: 12              # Number of research posts per page
+paginate_path: "/page:num/" # This creates your /page2/, /page3/ links
 # Defaults
 defaults:
   - scope:
