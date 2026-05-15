@@ -4,14 +4,11 @@ title: "Understanding Heart Rate Variability (HRV): Your Body’s Built-in Stres
 date: 2026-05-14
 categories: [Clinical Data, Health Literacy]
 tags: [Longevity, Seniors, Wellness, HRV]
-author_profile: true
-read_time: true
-share: true
-related: true
-# Suggested Image Path (you will need to add the asset):
 header:
-  image: /assets/images/understanding-hrv-senior-stress-header.png
-  og_image: /assets/images/understanding-hrv-senior-stress-header.png
+  overlay_image: /assets/images/understanding-hrv-senior-stress-header.webp
+  teaser: /assets/images/understanding-hrv-senior-stress-header.webp
+  overlay_filter: 0.5
+toc: true
 ---
 
 As an independent researcher, I often examine data that can provide a window into systemic health. While many metrics require complex clinical tests, **Heart Rate Variability (HRV)** is a powerful tool you can now track with a simple wearable device.
@@ -19,7 +16,10 @@ As an independent researcher, I often examine data that can provide a window int
 However, HRV is frequently misunderstood. It is not your heart rate. Instead, it is a measurement of the complex variation in time between each heartbeat. For seniors, understanding this number is vital for managing stress and monitoring resilience.
 
 ---
-![Human silhouette with glowing heart and smartwatch showing HRV readings; calm and stressed icons, balanced vs erratic heart lines, and title “Understanding Heart Rate Variability (HRV): Your Body’s Built-in Stress Monitor.”]({{ '/assets/images/understanding-hrv-senior-stress-header.png' | relative_url }})Learn how HRV reveals your body’s stress and recovery balance — your built‑in wellness monitor.
+
+![HRV Data Visualization]({{ '/assets/images/understanding-hrv-senior-stress-header.webp' | relative_url }})
+*Learn how HRV reveals your body’s stress and recovery balance — your built-in wellness monitor.*
+
 ---
 
 ## What Exactly Is HRV?
