@@ -3,7 +3,7 @@ name: Build and Deploy
 on:
   push:
     branches:
-      - master # Change to 'main' if that is your branch name
+      - master # Or main
 
 permissions:
   contents: write
@@ -24,6 +24,7 @@ jobs:
           bundler-cache: true
 
       - name: Build Site
+        # No more "docs" references needed here!
         run: bundle exec jekyll build
         env:
           JEKYLL_ENV: production
