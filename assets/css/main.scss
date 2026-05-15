@@ -8,7 +8,7 @@ search: false
 /**
  * 1. VARIABLES (No brackets needed here)
  */
-$max-width: 1580px; // Total container width
+$max-width: 1350px; // Total container width
 $sidebar-width: 240px;
 
 /**
@@ -28,7 +28,7 @@ $sidebar-width: 240px;
 // This ensures your content area hits the 925px target
 .page {
   @include breakpoint($large) {
-    max-width: 995px; margin:auto;padding-left:-20px;
+    max-width: 950px; margin:auto;padding-left:-20px;
   }
 }
 
