@@ -3,10 +3,15 @@ title: "Planning for Resilience: Top Ten Long-Term Care Tips for 2026"
 date: 2026-05-05 20:42:00 -0600
 categories: [Senior Advocacy, Long-Term Care]
 tags: [NIA, NIH, Caregiving, Aging in Place, Health Literacy]
-image: 
-  path: /assets/images/elderly-waiting.webp
-  alt: "An elderly man in a wheelchair, illustrating the importance of proactive care planning."
+header:
+ overlay_image: /assets/images/elderly-waiting.webp
+ teaser: "An elderly man in a wheelchair, illustrating the importance of proactive care planning."
 description: "A 2026 guide to long-term care planning based on National Institute on Aging (NIA) standards, featuring a decision tree for families and caregivers."
+author_profile: true
+read_time: true
+share: true
+related: true
+
 math: true
 toc: true
 last_modified_at: 2026-05-07
@@ -19,7 +24,7 @@ For independent researchers and advocates, the NIA provides the evidence-based b
 
 ---
 
-![An elderly man in a wheelchair, illustrating the importance of proactive care planning.]({{ site.urlimg }}{{ site.urlimg }}/assets/images/elderly-waiting.webp)
+![An elderly man in a wheelchair, illustrating the importance of proactive care planning.]({{ '/assets/images/elderly-waiting.webp' | relative_url }})  
 **Figure 1** The presence of an elderly man in a wheelchair in a room serves as a poignant reminder of the critical importance of extended care. This powerful image underscores the need for ongoing support and assistance for those who can no longer fully care for themselves.
 
 ---
