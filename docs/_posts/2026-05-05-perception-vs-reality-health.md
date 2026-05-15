@@ -1,23 +1,25 @@
 ---
 title: "Reality vs. Perception: The Fabric of Our Experiences"
 date: 2026-05-05 14:28:00 -0600
-categories: "[Cognitive Health, Mental Wellness]"
+categories: [Cognitive Health, Mental Wellness]
 tags: [Perception, Stress Response, Healthspan, Psychology, Cortisol]
-image: 
-  path: /assets/img/perception-reality.webp
-  alt: "Illustration of the contrast between subjective perception and objective reality."
-description: "Unravel the layers of perception to understand how your brain's interpretation of the world shapes your physical health and long-term resilience."
+header:
+  overlay_image: /assets/images/perception-reality.webp
+  teaser: /assets/images/perception-reality.webp
+  overlay_filter: 0.5 # Makes text easier to read over the image
+excerpt: "Unravel the layers of perception to understand how your brain shapes your physical health."
 math: true
 toc: true
 last_modified_at: 2026-05-07
 ---
+
 ## The Complex Link Between Reality and Perception
 
 Have you ever truly questioned the essence of reality? In the journey of health advocacy, this is not just a philosophical pursuit—it is deeply connected to our **mental and physical health.** The way we perceive the world shapes our stress levels, emotional responses, and even long-term health outcomes. When we unravel the layers of perception, we begin to distinguish between what is "real" and what is a construct of our nervous system. This inquiry challenges our understanding of the world and opens the door to healthier thinking patterns and improved emotional resilience.
 
 ---
 
-![Perception vs Reality Infographic]({{ site.urlimg }}{{ site.urlimg }}/assets/img/perception-reality.webp)
+![Perception vs Reality Infographic]({{ '/assets/images/perception-reality.webp' | relative_url }})
 _Figure 1: Our perception filters experiences through beliefs and emotions. What we expect often becomes what we see._
 
 ---
