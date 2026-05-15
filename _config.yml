@@ -83,4 +83,9 @@ defaults:
       comments: true
       share: true
       related: true
+      # Add these four lines to fix the right sidebar:
+      toc: true
+      toc_label: "On this page"
+      toc_icon: "heart-pulse"
+      toc_sticky: true
 permalink: /posts/:title/
