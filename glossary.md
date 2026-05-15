@@ -2,9 +2,16 @@
 layout: single
 title: "Clinical Data Glossary"
 permalink: /glossary/
-author_profile: true
-toc: true
 ---
+
+{% assign sorted_glossary = site.data.glossary | sort: 'term' %}
+
+{% for entry in sorted_glossary %}
+### {{ entry.term }}
+{{ entry.definition }}
+*Category: {{ entry.category }}*
+---
+{% endfor %}
 
 This glossary provides "Health Literacy" translations for complex clinical terms found throughout our research library.
 
