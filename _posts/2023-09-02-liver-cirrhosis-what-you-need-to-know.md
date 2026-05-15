@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Liver Cirrhosis: What You Need to Know"
 permalink: /posts/liver-cirrhosis-what-you-need-to-know/
 date: 2023-09-02
