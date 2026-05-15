@@ -1,94 +1,14 @@
 ---
-# Minimal Mistakes Main SCSS
----
-
-@charset "utf-8";---
-# Minimal Mistakes Main SCSS
+# Front matter is required for Jekyll to process this file
 ---
 
 @charset "utf-8";
-
-/* 1. IMPORTS */
-@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'mint' }}"; 
-@import "minimal-mistakes"; 
-
-/* 2. MASTER ALIGNMENT (Centers the Bio + Text + TOC as one unit) */
-.wrapper {
-  max-width: 1350px; /* Adjust this to fit your screen preference */
-  margin: 0 auto;
-  display: flex;
-  justify-content: center;
-  overflow: visible;}
-
-#main {
-  width: 100%;
-  margin: 0 auto;
-}
-
-/* 3. CENTER THE CONTENT AREA (The 925px Target) */
-.initial-content, 
-.page__content {
-  max-width: 925px !important;
-  margin: 0 auto !important;
-  float: none !important; /* Disables the 'left lean' */
-  padding: 0 40px;
-}
-
-/* 4. TIGHTEN THE SIDEBARS */
-.sidebar {
-  width: 260px !important;
-  margin-right: 20px;
-  float: none !important;
-  z-index: 10;
-}
-
-.sidebar__right {
-  width: 260px !important;
-  margin-left: 20px;
-  float: none !important;
-}
-
-/* 5. TYPOGRAPHY & VISUALS */
-.page__content {
-  font-size: 1.15rem;
-  line-height: 1.8;
-  color: #222;
-
-  img {
-    display: block;
-    margin: 2em auto;
-    max-width: 100%;
-    border-radius: 4px;
-  }
-}
-
-/* Style the Table of Contents (Teal Header) */
-.toc {
-  background-color: #f9f9f9;
-  border: 1px solid #e2e2e2;
-  border-radius: 4px;
-
-  .nav__title {
-    background-color: #009688; /* Mint Teal */
-    color: #fff;
-    border-radius: 4px 4px 0 0;
-    padding: 0.5em 1em;
-  }
-}
-
-/* Clinical Medical Disclaimer */
-.notice--info {
-  font-size: 0.95rem;
-  border-left: 5px solid #009688;
-  background-color: #f0f9f8;
-  margin: 2em 0;
-}
 
 /**
  * 1. VARIABLES
  */
 $max-width: 1280px; 
-$sidebar-width: 240px;
+$sidebar-width: 260px;
 
 /**
  * 2. IMPORTS
@@ -97,46 +17,62 @@ $sidebar-width: 240px;
 @import "minimal-mistakes"; 
 
 /**
- * 3. GLOBAL CENTERING & SIDEBAR FIX
+ * 3. GLOBAL CENTERING & ALIGNMENT
  */
-
-/* Centers the entire unit: Bio + Text + TOC */
 .wrapper {
   max-width: $max-width;
-  margin: 0 auto;
+  margin-left: auto;
+  margin-right: auto;
   display: flex;
   justify-content: center;
 }
 
 #main {
-  width: 100%;
-  margin: 0 auto;
+  max-width: $max-width;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 20px;
+  padding-right: 20px;
 }
 
-/* Centers your 925px content and removes the 'right lean' */
-.initial-content, 
-.page__content {
-  max-width: 925px !important;
-  margin: 0 auto !important;
-  float: none !important; 
-  padding: 0 40px;
+.page {
+  @include breakpoint($large) {
+    max-width: 925px; 
+    margin-left: auto;
+    margin-right: auto;
+    float: none !important; 
+    font-size: 1.12rem;
+  }
 }
 
-/* Pulls the sidebars in tight against the content */
+/**
+ * 4. SIDEBARS & TOC
+ */
 .sidebar {
   width: $sidebar-width !important;
   margin-right: 20px;
-  float: none !important;
 }
 
 .sidebar__right {
   width: $sidebar-width !important;
   margin-left: 20px;
-  float: none !important;
+}
+
+.toc {
+  background-color: #f9f9f9;
+  border: 1px solid #e2e2e2;
+  border-radius: 4px;
+
+  .nav__title {
+    background-color: #009688; 
+    color: #fff;
+    border-radius: 4px 4px 0 0;
+    padding: 0.5em 1em;
+  }
 }
 
 /**
- * 4. TYPOGRAPHY & DISCLAIMERS
+ * 5. TYPOGRAPHY
  */
 .page__content {
   font-size: 1.15rem;
