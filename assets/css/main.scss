@@ -1,5 +1,5 @@
 ---
-# Jekyll needs these dashes to process the theme variables
+# Jekyll Front Matter
 ---
 
 @charset "utf-8";
@@ -25,6 +25,7 @@ $sidebar-width: 260px;
 
 /**
  * 3. THE CONTENT COLUMN
+ * Widened to 1150px so your clinical data has room to breathe.
  */
 .initial-content, 
 .page__content, 
