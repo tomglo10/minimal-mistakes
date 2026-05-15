@@ -96,6 +96,6 @@ _**Figure 2:** The AgingHealth Decision Tree: A strategic roadmap combining Medi
 ---
 
 ### Cite This Research
-*Douglas, T. T. (2026). **The Ultimate 5-Step Guide to Choosing Your Medical Partner**. Aging Health: Clinical Health Literacy and Patient Advocacy. Retrieved from: [https://www.aginghealth.website/2026/03/choosing-medical-partner-guide-medicare-nih.md](https://www.aginghealth.website/2026/03/choosing-medical-partner-guide-medicare-nih.md)*
+*Douglas, T. T. (2026). **The Ultimate 5-Step Guide to Choosing Your Medical Partner**. Aging Health: Clinical Health Literacy and Patient Advocacy. Retrieved from: [https://www.aginghealth.website/2026/03/choosing-medical-partner-guide-medicare-nih.md]({% post_url choosing-medical-partner-guide-medicare-nih %})*
 
 **Keywords:** #PatientAdvocacy #HealthLiteracy #AgingHealth #ClinicalResearch

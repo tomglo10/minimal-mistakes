@@ -27,7 +27,7 @@ _**Figure 1:** In a brightly lit equipment room, an elderly man engages in balan
 
 ## What Is Intrinsic Capacity?
 
-The [WHO defines intrinsic capacity (IC)](https://www.aginghealth.website/2023/10/the-top-ten-growing-lifestyle-trends-in.md) as *the composite of all the physical and mental capacities that an individual can draw on at any point in time*. Rather than focusing solely on diseases (e.g., arthritis, diabetes), this framework focuses on **what a person can actually do**.
+The [WHO defines intrinsic capacity (IC)]({% post_url the-top-ten-growing-lifestyle-trends-in %}) as *the composite of all the physical and mental capacities that an individual can draw on at any point in time*. Rather than focusing solely on diseases (e.g., arthritis, diabetes), this framework focuses on **what a person can actually do**.
 
 ### The Fundamental Shift
 * **Capacity over Diagnosis:** Two people with the same diagnosis can function very differently.

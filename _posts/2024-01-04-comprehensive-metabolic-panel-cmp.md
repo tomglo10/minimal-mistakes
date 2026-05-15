@@ -26,7 +26,7 @@ The Comprehensive Metabolic Panel (CMP) is a standard blood test that provides a
 * **Kidney Function (BUN and Creatinine):** These measure waste products in the blood to evaluate how effectively your kidneys are filtering toxins.
 * **Liver Function (ALP, ALT, AST, and Bilirubin):** These enzymes and proteins indicate liver health. Elevations can signal inflammation or biliary issues.
 * **Proteins (Albumin and Total Protein):** Essential for tissue repair and immune support. Low levels can indicate nutritional deficiencies or liver/kidney strain.
-* **Blood Glucose:** Your primary energy source. Monitoring this is critical for identifying [insulin resistance or Type 2 Diabetes](https://www.aginghealth.website/2023/10/warning-signs-type-2-diabetes.md).
+* **Blood Glucose:** Your primary energy source. Monitoring this is critical for identifying [insulin resistance or Type 2 Diabetes]({% post_url warning-signs-type-2-diabetes %}).
 * **Calcium:** Beyond bone health, calcium is required for heart and muscle function.
 
 ---

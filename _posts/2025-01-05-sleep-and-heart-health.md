@@ -18,7 +18,7 @@ last_modified_at: 2026-05-07
 
 Sleep frequently gets sidelined by work, social activities, and various responsibilities. Yet, growing research highlights the vital importance of sleep for cardiovascular well-being. Recent findings suggest that making up for lost sleep on weekends could potentially reduce the risk of heart disease. 
 
-This research explores the complex connection between sleep and heart health, examining the [latest clinical research](https://www.aginghealth.website/2024/03/sugar-substitutes-latest-research.md) and offering actionable advice to enhance your sleep patterns.
+This research explores the complex connection between sleep and heart health, examining the [latest clinical research]({% post_url sugar-substitutes-latest-research %}) and offering actionable advice to enhance your sleep patterns.
 
 ---
 
@@ -29,7 +29,7 @@ This research explores the complex connection between sleep and heart health, ex
 
 ## The Importance of Sleep for Heart Health
 
-Understanding the significance of sleep extends beyond simply "recharging"; it plays a crucial role in [maintaining cardiovascular function](https://www.aginghealth.website/2024/03/cardiologists-heart-health.md). While we slumber, our [heart rate and blood pressure naturally lower](https://www.aginghealth.website/2024/10/in-the-blood.md), providing a vital opportunity for the cardiovascular system to rejuvenate.
+Understanding the significance of sleep extends beyond simply "recharging"; it plays a crucial role in [maintaining cardiovascular function]({% post_url cardiologists-heart-health %}). While we slumber, our [heart rate and blood pressure naturally lower](https://www.aginghealth.website/2024/10/in-the-blood.md), providing a vital opportunity for the cardiovascular system to rejuvenate.
 
 However, when we consistently fail to get adequate sleep, these restorative processes are compromised, which can significantly elevate the likelihood of developing serious heart-related issues, including **heart disease and stroke**. 
 
@@ -39,7 +39,7 @@ However, when we consistently fail to get adequate sleep, these restorative proc
 
 ## How Sleep Duration Affects Heart Health
 
-An article from *Circulation* highlights the [link between sleep duration and cardiovascular disease](https://www.aginghealth.website/2024/01/psoriasis-sleep-link.md). It notes that both insufficient and excessive sleep can increase the [risk of cardiovascular events and mortality](https://www.aginghealth.website/2024/04/psoriasis-metabolic-syndrome-mortality-risk.md). 
+An article from *Circulation* highlights the [link between sleep duration and cardiovascular disease]({% post_url psoriasis-sleep-link %}). It notes that both insufficient and excessive sleep can increase the [risk of cardiovascular events and mortality]({% post_url psoriasis-metabolic-syndrome-mortality-risk %}). 
 
 *   **Insufficient Sleep:** Less than 6.5 hours is associated with higher all-cause mortality.
 *   **Excessive Sleep:** More than 7.5 to 9 hours can also signal underlying health risks.
@@ -85,7 +85,7 @@ For those sleeping less than 6 hours on weekdays, getting **more than 2 hours of
 Making sleep a top priority is crucial for lowering the chances of developing cardiovascular issues. By treating rest as a vital component of your clinical daily routine, you can greatly enhance your long-term health outcomes.
 
 ### Fact-Check Sources
-*   [CDC: Sleep and Heart Health](https://www.cdc.gov/heart-disease/about/sleep-and-heart-health.md)
+*   [CDC: Sleep and Heart Health]({% post_url sleep-and-heart-health %})
 *   [PubMed: Association between weekend catch-up sleep and cardiovascular disease](https://pubmed.ncbi.nlm.nih.gov/38000943/)
 *   [European Society of Cardiology: ESC Congress 2024 Report](https://www.escardio.org/The-ESC/Press-Office/Press-releases/Catching-up-on-sleep-on-weekends-may-lower-heart-disease-risk-by-up-to-20)
 

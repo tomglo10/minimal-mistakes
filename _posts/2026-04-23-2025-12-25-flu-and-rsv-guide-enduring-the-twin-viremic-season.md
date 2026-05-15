@@ -27,7 +27,7 @@ Every year, as the temperature drops, a familiar sense of anxiety ripples throug
 {: .notice--info}
 **Medical Disclaimer:** This content is for informational and educational purposes only. It does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider regarding any medical condition.
 
-Understanding the nuance between flu and RSV symptoms is not just a [matter of curiosity](https://www.aginghealth.website/2024/07/mind-over-matter-brain-immune-system.md)—it is a critical tool for patient advocacy. When you walk into a [doctor's office or an urgent care center](https://www.aginghealth.website/2024/12/when-to-seek-treatment-at-urgent-care.html), being able to articulate specific symptoms and understand the diagnostic process can significantly improve the quality of care you receive.
+Understanding the nuance between flu and RSV symptoms is not just a [matter of curiosity]({% post_url mind-over-matter-brain-immune-system %})—it is a critical tool for patient advocacy. When you walk into a [doctor's office or an urgent care center](https://www.aginghealth.website/2024/12/when-to-seek-treatment-at-urgent-care.html), being able to articulate specific symptoms and understand the diagnostic process can significantly improve the quality of care you receive.
 
 This guide aims to demystify these pathogens, explore the current treatment landscape, and look ahead at the **future of respiratory medicine**.
 

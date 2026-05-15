@@ -119,7 +119,7 @@ Yes, you can switch back during the Annual Enrollment Period (October 15 to Dece
 ### About the Author  
 **Tommy T. Douglas** is an independent health researcher and patient advocate. Having survived a major heart attack in 2008 and managing Type 2 Diabetes, he focuses on translating complex medical information into practical health guidance tailored for seniors.  
 
-**Discover more articles:** [Heart](/2026/02/diabetes-heart-attack-survivor-lessons.md) | [Metabolism](/2026/02/alzheimers-type-3-diabetes-insulin-resistance.md) | [Brain](/2025/07/wisdom-aging-brain-cognitive-shifts.md) | [Liver](/2023/09/liver-cirrhosis-what-you-need-to-know.md)  
+**Discover more articles:** [Heart]({% post_url diabetes-heart-attack-survivor-lessons %}) | [Metabolism]({% post_url alzheimers-type-3-diabetes-insulin-resistance %}) | [Brain]({% post_url wisdom-aging-brain-cognitive-shifts %}) | [Liver]({% post_url liver-cirrhosis-what-you-need-to-know %})  
 
 ---  
 

@@ -45,7 +45,7 @@ Always consult a qualified healthcare provider regarding any medical condition.
 ---
 ## Inflation: The Silent Tax on Retirees
 
-Inflation—the steady rise in prices—functions as a **stealth tax** on retirees. In 2026, this pressure has widened the gap between **Social Security income** and the [soaring costs of modern medicine](https://www.aginghealth.website/2024/03/genomic-medicine.md).
+Inflation—the steady rise in prices—functions as a **stealth tax** on retirees. In 2026, this pressure has widened the gap between **Social Security income** and the [soaring costs of modern medicine]({% post_url genomic-medicine %}).
 
 When grocery bills compete with heart‑medication co‑pays, seniors often delay care. Over time, those delays significantly increase hospitalization risk, disability, and avoidable medical expenses.
 
@@ -146,7 +146,7 @@ Preventive care:
 - Reduces ER visits  
 - Lowers long‑term healthcare spending  
 
-Routine [check‑ups and screenings](https://www.aginghealth.website/2025/09/seniors-health-screenings-ai-sepsis-alerts.md) protect both **physical health and financial security**.
+Routine [check‑ups and screenings]({% post_url seniors-health-screenings-ai-sepsis-alerts %}) protect both **physical health and financial security**.
 
 ---
 
@@ -168,7 +168,7 @@ By refusing to delay preventive care, advocating for affordable medications, and
   [Daily Glucose Tracker →](https://docs.google.com/document/d/1V-LyZEo4kh6KtSfjfhPWiGfaigwlRvmAGoYCJ2aaTdM/edit)
 
 - **The Foundation**  
-  [Beginner’s Guide to Diabetes →](https://www.aginghealth.website/2024/01/diabetes.md)
+  [Beginner’s Guide to Diabetes →]({% post_url diabetes %})
 
 - **Liver Health**  
   [Metabolic Syndrome & Cirrhosis →](https://www.aginghealth.website/2023/09/liver-cirrhosis-what-you-need-to-know.md)

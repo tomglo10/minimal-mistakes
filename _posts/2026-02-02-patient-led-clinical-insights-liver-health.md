@@ -43,8 +43,8 @@ In my research and advocacy, I follow the most current clinical guidelines to en
 ---
 
 ## 📘 Essential Research Resources
-* **The Foundation:** New to these concepts? Start with my [Beginner’s Guide to Diabetes](https://www.aginghealth.website/2024/01/diabetes.md).
-* **The Watchman:** Learn about [minimally invasive stroke prevention](https://www.aginghealth.website/2024/01/watchman-device-minimally-invasive-heart-technology.md) for complex patients.
+* **The Foundation:** New to these concepts? Start with my [Beginner’s Guide to Diabetes]({% post_url diabetes %}).
+* **The Watchman:** Learn about [minimally invasive stroke prevention]({% post_url watchman-device-minimally-invasive-heart-technology %}) for complex patients.
 * **The Log:** Track your daily metrics with the [Daily Glucose Tracker](https://docs.google.com/document/d/1V-LyZEo4kh6KtSfjfhPWiGfaigwlRvmAGoYCJ2aaTdM/edit?usp=sharing).
 
 <div style="background:#e8f4f8; padding:15px; border-left:5px solid #2980b9; margin-top:20px; font-family: sans-serif; color: #333;">

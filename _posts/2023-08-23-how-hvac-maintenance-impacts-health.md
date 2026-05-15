@@ -11,9 +11,9 @@ last_modified_at: 2026-05-07
 ---
 ## Discover the Surprising Link Between Your HVAC System and Well-being
 
-In today's world, where we spend a significant portion of our lives indoors, indoor air quality has a [profound impact on our health](/2025/05/medicaid-cuts-rural-hospitals-health-impact.md). While we often think about outdoor pollution, the air within our homes can be even more concentrated with irritants. 
+In today's world, where we spend a significant portion of our lives indoors, indoor air quality has a [profound impact on our health]({% post_url medicaid-cuts-rural-hospitals-health-impact %}). While we often think about outdoor pollution, the air within our homes can be even more concentrated with irritants. 
 
-Your HVAC (Heating, Ventilation, and Air Conditioning) system is your home's primary "lung." Regular maintenance is not just about efficiency; it is a vital step in [safeguarding your respiratory health](/2025/09/essential-health-screenings-seniors-aging.md).
+Your HVAC (Heating, Ventilation, and Air Conditioning) system is your home's primary "lung." Regular maintenance is not just about efficiency; it is a vital step in [safeguarding your respiratory health]({% post_url essential-health-screenings-seniors-aging %}).
 
 ![HVAC maintenance ensures health]({{ site.urlimg }}{{ site.urlimg }}/assets/images/air-quality.webp)
 Figure 1: Regular HVAC maintenance ensures a healthy and comfortable home environment.
@@ -24,20 +24,20 @@ Figure 1: Regular HVAC maintenance ensures a healthy and comfortable home enviro
 A poorly maintained system can become a breeding ground for various contaminants:
 
 * **Dust Mites:** These thrive in warm, humid areas. When disturbed, they become airborne, leading to inhalation and allergic reactions.
-* **Mold and Mildew:** These fungi thrive in the dark, moist interiors of neglected units. They produce spores that can trigger [insurance-related home health crises](/2023/11/what-types-of-insurance-should-i-have.md).
-* **Bacteria and Viruses:** Pathogens can travel through ducts, spreading from room to room and [increasing health risks](/2025/06/digital-doctor-dilemma-online-health-risks.md).
+* **Mold and Mildew:** These fungi thrive in the dark, moist interiors of neglected units. They produce spores that can trigger [insurance-related home health crises]({% post_url what-types-of-insurance-should-i-have %}).
+* **Bacteria and Viruses:** Pathogens can travel through ducts, spreading from room to room and [increasing health risks]({% post_url digital-doctor-dilemma-online-health-risks %}).
 * **Allergens:** Pollen and pet dander accumulate in the system, circulating through your living space and causing chronic discomfort.
 
 ## The Clinical Benefits of Regular Maintenance
-Proper maintenance is a cornerstone of [maintaining a healthy living environment](/2024/03/healthy-after-65.md). By cleaning filter ducts, you prevent the buildup of pollutants that cause respiratory distress.
+Proper maintenance is a cornerstone of [maintaining a healthy living environment]({% post_url healthy-after-65 %}). By cleaning filter ducts, you prevent the buildup of pollutants that cause respiratory distress.
 
 
 
 ### Key Health Benefits:
 1.  **Reduced Allergens:** Properly functioning filters trap irritants before they reach your lungs.
-2.  **Respiratory Support:** Maintenance can help [alleviate symptoms of asthma and allergies](/2024/01/alleviate-nausea.md).
+2.  **Respiratory Support:** Maintenance can help [alleviate symptoms of asthma and allergies]({% post_url alleviate-nausea %}).
 3.  **Fewer Illnesses:** Clean systems reduce the transmission of airborne colds and flu.
-4.  **Restorative Sleep:** [Fresh air promotes better sleep quality](/2024/02/sleep-apnea.md), essential for geriatric recovery.
+4.  **Restorative Sleep:** [Fresh air promotes better sleep quality]({% post_url sleep-apnea %}), essential for geriatric recovery.
 
 ## Tips for Maintaining Your HVAC System
 * **Change Air Filters:** Aim for every 1–3 months. If you have pets, check them monthly.

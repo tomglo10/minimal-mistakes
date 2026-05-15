@@ -47,7 +47,7 @@ last_modified_at: 2026-05-07
 
 ## Don't Ignore the Warning Signs
 
-Type 2 diabetes often develops slowly, and many people miss the early clues. Catching symptoms early facilitates more [productive conversations with your healthcare team](https://www.aginghealth.website/2025/07/ai-in-healthcare.md) and clarifies which lifestyle changes are necessary. 
+Type 2 diabetes often develops slowly, and many people miss the early clues. Catching symptoms early facilitates more [productive conversations with your healthcare team]({% post_url ai-in-healthcare %}) and clarifies which lifestyle changes are necessary. 
 
 ---
 
@@ -56,7 +56,7 @@ Type 2 diabetes often develops slowly, and many people miss the early clues. Cat
 ---
 
 ![Belly fat contributes to developing diabetes]({{ site.urlimg }}{{ site.urlimg }}/assets/images/prediabetes.webp)
-*Reducing abdominal fat is a key strategy to [lower the likelihood](https://www.aginghealth.website/2023/11/foods-raise-lower-testosterone.md) of developing prediabetes.*
+*Reducing abdominal fat is a key strategy to [lower the likelihood]({% post_url foods-raise-lower-testosterone %}) of developing prediabetes.*
 
 ---
 

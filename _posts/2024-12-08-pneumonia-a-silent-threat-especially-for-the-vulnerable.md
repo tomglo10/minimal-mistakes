@@ -21,7 +21,7 @@ Pneumonia is a serious lung infection that causes inflammation and fluid buildup
 ###Understanding Pneumonia and Its Impact
 
 <p>
-Pneumonia occurs when bacteria, viruses, or fungi infect the lungs, leading to inflammation and impaired oxygen exchange. Symptoms can range from mild to life‑threatening and may develop suddenly or gradually depending on the cause and the person’s overall health. /www.who.int/news-room/fact-sheets/detail/pneumonia)[3](https://www.cdc.gov/pneumonia/risk-factors/index.md)
+Pneumonia occurs when bacteria, viruses, or fungi infect the lungs, leading to inflammation and impaired oxygen exchange. Symptoms can range from mild to life‑threatening and may develop suddenly or gradually depending on the cause and the person’s overall health. /www.who.int/news-room/fact-sheets/detail/pneumonia)[3]({% post_url index %})
 </p>
 
 <ul>
@@ -43,10 +43,10 @@ While pneumonia can affect anyone, certain groups face a significantly higher ri
 </p>
 
 <ul>
-  <li>**Older adults (65+)</strong>, due to age‑related decline in immune and lung function [3](https://www.cdc.gov/pneumonia/risk-factors/index.md)</li>
+  <li>**Older adults (65+)</strong>, due to age‑related decline in immune and lung function [3]({% post_url index %})</li>
   <li>**Children under five</strong>, whose immune systems are still developing [1](https://www.who.int/news-room/fact-sheets/detail/pneumonia)</li>
-  <li>**People with chronic conditions</strong>, including heart disease, lung disease, diabetes, or weakened immune systems [3](https://www.cdc.gov/pneumonia/risk-factors/index.md)</li>
-  <li>**Smokers</strong>, because smoking damages lung defenses and increases susceptibility to infection [3](https://www.cdc.gov/pneumonia/risk-factors/index.md)</li>
+  <li>**People with chronic conditions</strong>, including heart disease, lung disease, diabetes, or weakened immune systems [3]({% post_url index %})</li>
+  <li>**Smokers</strong>, because smoking damages lung defenses and increases susceptibility to infection [3]({% post_url index %})</li>
 </ul>
 
 ### The Role of Vaccination in Pneumonia Prevention

@@ -75,7 +75,7 @@ To advocate for your metabolic health, you must look past the "front of the box"
 ### About the Researcher
 **Tommy T. Douglas** is an independent health researcher and heart attack survivor (2008). He manages Type 2 Diabetes with Metformin and GLP-1 therapy and specializes in translating clinical data for senior patient advocacy.
 
-**Explore more by topic:** [Pathology](https://www.aginghealth.website/2026/03/pathology-disease-diagnosis.md) | [Metabolism](https://www.aginghealth.website/2026/02/alzheimers-type-3-diabetes-insulin-resistance.md) | [GLP-1/Ozempic](https://www.aginghealth.website/2026/03/ozempic-older-adults-benefits-medicare.md) | [Liver](https://www.aginghealth.website/2023/09/liver-cirrhosis-what-you-need-to-know.md)
+**Explore more by topic:** [Pathology]({% post_url pathology-disease-diagnosis %}) | [Metabolism](https://www.aginghealth.website/2026/02/alzheimers-type-3-diabetes-insulin-resistance.md) | [GLP-1/Ozempic]({% post_url ozempic-older-adults-benefits-medicare %}) | [Liver](https://www.aginghealth.website/2023/09/liver-cirrhosis-what-you-need-to-know.md)
 
 ### Sources and Clinical Citations
 1. **Scientific Reports (2025):** Emulsifiers and the T2D Correlation in NutriNet-Santé.

@@ -62,8 +62,8 @@ Guided through a tiny incision in the groin, the device is deployed into the LAA
 
 ## 📘 Related Patient Resources
 * **The Log:** Track your metabolic metrics with the [Daily Glucose Tracker](https://docs.google.com/document/d/1V-LyZEo4kh6KtSfjfhPWiGfaigwlRvmAGoYCJ2aaTdM/edit?usp=sharing).
-* **The Foundation:** New to these topics? Read the [Beginner’s Guide to Diabetes](https://www.aginghealth.website/2024/01/diabetes.md).
-* **Liver Health:** Learn how [metabolic syndrome impacts liver cirrhosis](https://www.aginghealth.website/2023/09/liver-cirrhosis-what-you-need-to-know.md).
+* **The Foundation:** New to these topics? Read the [Beginner’s Guide to Diabetes]({% post_url diabetes %}).
+* **Liver Health:** Learn how [metabolic syndrome impacts liver cirrhosis]({% post_url liver-cirrhosis-what-you-need-to-know %}).
 
 <div style="background:#e8f4f8; padding:15px; border-left:5px solid #2980b9; margin-top:20px; font-family: sans-serif; color: #333;">
 **March 2026 Clinical Update:** Current advocacy for liver health emphasizes high-protein intake ($1.2\text{--}1.5 \text{ g/kg}$) to prevent sarcopenia. Portal hypertension targets for esophageal varices now align with a systemic blood pressure of $<130/80 \text{ mmHg}$.

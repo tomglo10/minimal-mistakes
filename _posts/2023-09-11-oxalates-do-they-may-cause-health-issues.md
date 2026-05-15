@@ -73,9 +73,9 @@ This is typically only recommended for people with a clinical history of calcium
 ---
 
 ### Researcher Insights
-**Case Study:** [My 2008 Heart Attack Survival Story](/2026/02/diabetes-heart-attack-survivor-lessons.md) and the [Diabetes Link](/2024/01/diabetes.md).
+**Case Study:** [My 2008 Heart Attack Survival Story]({% post_url diabetes-heart-attack-survivor-lessons %}) and the [Diabetes Link]({% post_url diabetes %}).
 
-**Recent Research:** [Is Alzheimer’s Really Type 3 Diabetes?](/2026/02/alzheimers-type-3-diabetes-insulin-resistance.md)
+**Recent Research:** [Is Alzheimer’s Really Type 3 Diabetes?]({% post_url alzheimers-type-3-diabetes-insulin-resistance %})
 
 **The Log:** Start tracking your "Mental Clarity" score on my [Daily Glucose Tracker](https://docs.google.com/document/d/1V-LyZEo4kh6KtSfjfhPWiGfaigwlRvmAGoYCJ2aaTdM/edit?usp=sharing).
 

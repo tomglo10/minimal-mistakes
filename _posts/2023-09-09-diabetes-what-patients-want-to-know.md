@@ -126,6 +126,6 @@ Diabetes affects millions, and patients want clear, trustworthy answers about ma
 
 ---
 
-**Case Study:** My [2008 Heart Attack Survival Story](https://www.aginghealth.website/2026/02/diabetes-heart-attack-survivor-lessons.md) and the [Diabetes Link](https://www.aginghealth.website/2024/01/diabetes.md).
+**Case Study:** My [2008 Heart Attack Survival Story]({% post_url diabetes-heart-attack-survivor-lessons %}) and the [Diabetes Link](https://www.aginghealth.website/2024/01/diabetes.md).
 
 **The Log:** Track your “Mental Clarity” score using my [Daily Glucose Tracker](https://docs.google.com/document/d/1V-LyZEo4kh6KtSfjfhPWiGfaigwlRvmAGoYCJ2aaTdM/edit?usp=sharing).
