@@ -71,3 +71,47 @@ div.sidebar.sticky {width:300px;margin-right:-30px;}
   border-left: 5px solid #009688;
   background-color: #f0f9f8;
 }
+/* 1. Center the Main Site Container */
+#main {
+  max-width: 1280px; /* Provides room for sidebars + 925px content */
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+/* 2. Adjust the Wrapper to stop the "Right Lean" */
+.wrapper {
+  max-width: 1280px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* 3. Center the Content Column */
+.page {
+  @include breakpoint($large) {
+    /* This ensures the 925px content area is centered 
+       between the two sidebars */
+    float: none;
+    margin-left: auto;
+    margin-right: auto;
+    width: 925px; 
+  }
+}
+
+/* 4. Fine-tune Sidebar Spacing */
+.sidebar {
+  @include breakpoint($large) {
+    /* Prevents the bio from pushing the text too far right */
+    width: 200px; 
+    margin-right: 40px;
+  }
+}
+
+/* 5. Fix for the Right Sidebar (TOC) */
+.sidebar__right {
+  @include breakpoint($large) {
+    width: 200px;
+    margin-left: 40px;
+  }
+}
