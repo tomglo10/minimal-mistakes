@@ -1,11 +1,17 @@
 ---
-layout: archive
+layout: single
 ---
 {%- assign locale = page.locale | default: layout.locale | default: site.locale %}
 
-{{ content }}
+<div class="archive__container">
+  {% if content %}
+    <div class="archive__content">
+      {{ content }}
+    </div>
+  {% endif %}
 
-{% assign entries_layout = page.entries_layout | default: 'list' %}
-<div class="entries-{{ entries_layout }}">
-  {% include posts-category.html locale=locale taxonomy=page.taxonomy type=entries_layout %}
+  {% assign entries_layout = page.entries_layout | default: 'list' %}
+  <div class="entries-{{ entries_layout }}">
+    {% include posts-category.html locale=locale taxonomy=page.taxonomy type=entries_layout %}
+  </div>
 </div>
