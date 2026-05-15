@@ -1,5 +1,5 @@
 ---
-# Jekyll Front Matter - This is what makes the site widen and center
+# Jekyll Front Matter
 ---
 
 @charset "utf-8";
@@ -30,11 +30,4 @@ $right-sidebar-width: 260px;
   margin: 0 auto;
   display: flex;
   justify-content: center;
-}
-
-/* 4. GRID COLUMN BALANCE (3 Cards Across) */
-.grid__item {
-  @include breakpoint($medium) {
-    width: span(4 of 12) !important;
-  }
 }
