@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Scientists and the Public: Bridging the Gap for Better Health"
 date: 2024-07-16T12:21:00+00:00
 description: "Examining medical research, its steps, the different methods, goals, and how scientists and the public can collaborate through improved communication."

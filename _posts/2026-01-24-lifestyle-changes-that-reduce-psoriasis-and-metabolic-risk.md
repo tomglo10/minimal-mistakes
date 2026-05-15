@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Lifestyle Changes That Reduce Psoriasis and Metabolic Risk"
 date: 2026-01-24
 description: "How targeted lifestyle interventions can reduce systemic inflammation and improve treatment effectiveness in psoriasis."

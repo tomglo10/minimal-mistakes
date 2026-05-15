@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Nurse Practitioner vs. Physician Assistant: Decoding Healthcare Roles"
 date: 2024-03-24T03:46:00+00:00
 description: ""

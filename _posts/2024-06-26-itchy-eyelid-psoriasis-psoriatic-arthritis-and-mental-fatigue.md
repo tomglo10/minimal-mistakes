@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Itchy Eyelid Psoriasis, Psoriatic Arthritis, and Mental Fatigue"
 date: 2024-06-26T00:00:00+00:00
 description: ""

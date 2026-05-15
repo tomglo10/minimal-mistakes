@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Food Additives & Type 2 Diabetes: Identifying Metabolic Disruptors"
 date: 2026-04-30
 description: "A 2026 clinical update on how ultra-processed food additives disrupt insulin signaling and degrade gut health."

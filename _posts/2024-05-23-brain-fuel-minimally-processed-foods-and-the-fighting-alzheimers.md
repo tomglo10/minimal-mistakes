@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Brain Fuel: Minimally Processed Foods and the Fighting Alzheimer's"
 date: 2024-05-23T22:18:00+00:00
 description: "New research suggests a diet rich in minimally processed foods may reduce brain risk while scientists explore harnessing immunity to combat Alzheimer'"

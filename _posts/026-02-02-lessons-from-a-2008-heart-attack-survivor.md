@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Heart Health in Later Years: Managing Valve Disease and Biological Aging"
 permalink: /posts/seniors-heart-health-tips/
 date: 2026-02-17

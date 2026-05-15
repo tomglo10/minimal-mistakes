@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "What You Need to Know About Osteoarthritis (OA)"
 date: 2026-02-01T02:45:00+00:00
 description: "Osteoarthritis (OA) is the most common form of arthritis. Learn causes, symptoms, risk factors, treatment options, and how to manage joint pain effectively."

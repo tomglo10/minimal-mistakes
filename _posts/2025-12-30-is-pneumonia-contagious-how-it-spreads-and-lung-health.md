@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Is Pneumonia Contagious? How It Spreads and Lung Health"
 date: 2025-12-30T03:26:00+00:00
 description: ""

@@ -9,7 +9,7 @@ tags:
 ---
 
 ---
-layout: post
+layout: single
 title: "Senior Care: AI's Early Sepsis Detection Saves Lives"
 date: 2025-09-19T00:13:00+00:00
 description: ""

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Internal Medicine: A Cornerstone of Adult Healthcare"
 date: 2024-03-15T01:17:00+00:00
 description: ""

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: " Powerful Eye Care Tips for Crystal-Clear Vision"
 date: 2024-03-30T06:33:00+00:00
 description: "See the world in stunning clarity for years to come! This guide unlocks eye care secrets from leading optometrists, empowering you to safeguard you"

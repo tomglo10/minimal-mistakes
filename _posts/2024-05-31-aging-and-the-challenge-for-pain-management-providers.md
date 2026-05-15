@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Aging and the Challenge for Pain Management Providers"
 date: 2024-05-31T20:18:00+00:00
 description: ""

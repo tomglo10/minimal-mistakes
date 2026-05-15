@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Hearing Aids: A Necessity for Cognitive Preservation"
 date: 2024-03-23
 description: "Why modern hearing technology in 2026 is a critical tool for preventing social withdrawal and slowing cognitive decline."

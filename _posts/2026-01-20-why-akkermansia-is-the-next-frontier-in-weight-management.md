@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Why Akkermansia is the Next Frontier in Weight Management"
 date: 2026-01-20T21:06:00+00:00
 description: ""

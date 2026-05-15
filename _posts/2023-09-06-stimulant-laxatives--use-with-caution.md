@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Stimulant Laxatives: Use With Caution"
 date: 2023-09-06
 description: "Stimulant laxatives may relieve constipation quickly, but frequent use can pose risks for seniors. Learn about dependency and safer alternatives."

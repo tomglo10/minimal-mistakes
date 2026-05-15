@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "The 2026 Gut-Brain Nutrition Protocol: Fueling the Vagus Nerve"
 date: 2026-05-01
 description: "A clinical dietary framework for supporting the enteric nervous system and reducing alpha-synuclein misfolding."

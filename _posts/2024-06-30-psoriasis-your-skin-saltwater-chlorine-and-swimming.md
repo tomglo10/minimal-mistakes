@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: " Psoriasis: Your Skin, Saltwater, Chlorine, and Swimming "
 date: 2024-06-30T16:03:00+00:00
 description: ""

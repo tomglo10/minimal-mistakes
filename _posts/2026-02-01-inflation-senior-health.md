@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Inflation's Impact on Health and Healthcare: A Senior Citizen’s Guide"
 date: 2026-02-01 01:00:00 +0000
 description: "How inflation in 2026 increases healthcare costs for seniors—and what older adults can do to protect their health on a fixed income."

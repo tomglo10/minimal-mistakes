@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "The Connection Between Falls and Traumatic Brain Injury"
 date: 2025-10-06
 description: "A 2026 guide for aging adults on why falls are a leading cause of TBI and strategies for neuro-protective prevention."

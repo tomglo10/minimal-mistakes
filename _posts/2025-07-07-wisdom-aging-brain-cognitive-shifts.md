@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "The Evolving Mind: Embracing the Wisdom of the Aging Brain"
 permalink: /posts/wisdom-aging-brain-cognitive-shifts/
 date: 2025-07-07

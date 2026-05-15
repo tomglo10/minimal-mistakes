@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Understanding Diabetes And Managing Blood Sugar"
 date: 2026-02-02T00:06:00+00:00
 description: "Understanding how everyday foods influence blood sugar and energy balance."

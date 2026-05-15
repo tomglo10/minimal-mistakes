@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "New Science Reveals How Ultra-Processed Foods Damage Your Body"
 date: 2025-11-19T18:36:00+00:00
 description: ""

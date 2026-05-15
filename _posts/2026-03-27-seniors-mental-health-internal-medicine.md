@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Seniors' Mental Health: Stress, Depression, and Internal Medicine's Role"
 date: 2026-03-27
 description: "How internal medicine serves as the first line of defense in detecting and managing geriatric depression and stress."

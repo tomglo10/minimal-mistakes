@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Plexin-B1 Clinical Trials: The 2026 Update"
 date: 2026-04-03
 description: "A research summary regarding metabolic waste clearance and neuro-inflammatory markers."

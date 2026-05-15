@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Senior Mental and Physical Health in a Fast-Changing World"
 permalink: /posts/senior-mental-and-physical-health-fast-changing-world/
 date: 2025-12-28

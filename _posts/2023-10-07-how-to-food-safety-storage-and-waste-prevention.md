@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "How to: Food Safety, Storage and Waste Prevention"
 date: 2023-10-07T00:06:00+00:00
 description: "Keep your food safe, fresh, and reduce waste. Clean, store, cook, and chill your food properly to prevent foodborne illness and save money."

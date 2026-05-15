@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Why Older Adults Need Extra Protection In Hot Weather"
 date: 2024-06-02T19:54:00+00:00
 description: ""

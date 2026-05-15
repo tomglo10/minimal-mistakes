@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Systemic Inflammation in Psoriasis: Beyond the Skin"
 permalink: /posts/systemic-inflammation-in-psoriasis/
 date: 2026-01-24

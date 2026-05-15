@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "What Foods Can Lower or Raise Testosterone Levels?"
 date: 2023-12-01T20:48:00+00:00
 description: "Optimize your hormones with evidence-informed foods that may influence testosterone levels and support healthy aging"

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Sarcopenia Guide: Reversing Age-Related Muscle Loss in 2026"
 date: 2024-06-13T19:54:00+00:00
 description: ""

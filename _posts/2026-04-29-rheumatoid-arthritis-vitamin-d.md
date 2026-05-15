@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Rheumatoid Arthritis & Vitamin D: The 2026 Deep Dive"
 date: 2026-04-29
 description: "A clinical look at RA diagnostics and the lifestyle catalysts that calm the immune system."

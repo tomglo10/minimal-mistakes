@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "The Ultimate 5-Step Guide to Choosing Your Medical Partner"
 date: 2026-03-30
 description: "A collaboration between Medicare Data, NIH Standards, and the AgingHealth Advocacy Model for senior longevity."

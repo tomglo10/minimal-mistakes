@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Neuropathy: A Silent Threat—Possibly Underdiagnosed and Undertreated"
 date: 2024-05-17T06:40:00+00:00
 description: ""

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "The ApoB Analysis: The Ultimate Predictor of Heart Health"
 date: 2026-01-20 22:33:00 +0000
 description: "ApoB predicts heart disease better than LDL cholesterol. Learn to optimize longevity and reduce your particle count through lifestyle and science."

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Mini-Stroke Symptoms? The First 48 Hours Matter Most"
 date: 2026-01-31
 description: "Identify TIA using BE-FAST: Balance, Eyes, Face, Arm, Speech, Time. Learn why 2026 guidelines treat mini-strokes as a 911 emergency."

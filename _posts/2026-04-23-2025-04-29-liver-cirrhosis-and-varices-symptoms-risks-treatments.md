@@ -9,7 +9,7 @@ tags:
 ---
 
 ---
-layout: post
+layout: single
 title: "Liver Cirrhosis and Varices: Symptoms, Risks, Treatments"
 date: 2025-04-29T03:44:00+00:00
 description: ""

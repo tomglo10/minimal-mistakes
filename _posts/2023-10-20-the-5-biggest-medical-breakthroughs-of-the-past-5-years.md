@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "The 5 Biggest Medical Breakthroughs of the Past 5 Years"
 date: 2023-10-20T00:53:00+00:00
 description: "Explore the top medical breakthroughs of the past five years, from mRNA vaccines to AI diagnostics and organ transplantation advances."

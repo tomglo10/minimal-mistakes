@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "The Vagus Highway: How the Gut-Brain Axis Drives Neurodegeneration"
 date: 2026-05-01
 description: "Why 2026 clinical research treats the gut as the 'Ground Zero' for Lewy Body Dementia and Parkinson's Disease."

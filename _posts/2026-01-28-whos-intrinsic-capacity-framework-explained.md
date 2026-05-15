@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "WHO’s Intrinsic Capacity Framework Explained"
 date: 2026-01-28
 description: "A comprehensive look at the WHO's shift from disease-centered care to a function-centered approach for older adults."

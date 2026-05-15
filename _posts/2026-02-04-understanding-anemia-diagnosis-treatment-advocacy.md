@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Understanding Anemia: A Guide to Diagnosis, Treatment, and Advocacy"
 permalink: /posts/anemia-what-you-need-to-know/
 date: 2026-02-04

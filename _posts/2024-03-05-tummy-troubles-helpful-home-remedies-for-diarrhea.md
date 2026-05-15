@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Tummy Troubles: Helpful Home Remedies for Diarrhea"
 date: 2024-03-05T02:00:00+00:00
 description: ""

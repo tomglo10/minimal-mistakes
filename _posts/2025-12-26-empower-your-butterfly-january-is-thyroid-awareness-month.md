@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Empower Your Butterfly: January is Thyroid Awareness Month "
 date: 2025-12-26T10:47:00+00:00
 description: ""

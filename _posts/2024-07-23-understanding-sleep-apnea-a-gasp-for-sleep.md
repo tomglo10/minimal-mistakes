@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Understanding Sleep Apnea: A Gasp For Sleep"
 date: 2024-07-23T18:06:00+00:00
 description: "Discover the impact of sleep apnea on your daily life, heart health, and memory, and the importance of seeking treatment for a restful night's sleep."

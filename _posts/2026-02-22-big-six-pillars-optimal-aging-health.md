@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "The Big 6 of Health: Building a Vascular Safety Net"
 permalink: /posts/big-six-pillars-optimal-aging-health/
 date: 2026-02-22

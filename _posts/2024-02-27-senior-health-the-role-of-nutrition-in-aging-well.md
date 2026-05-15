@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Senior Health: The Role of Nutrition in Aging Well"
 date: 2024-02-27T02:05:00+00:00
 description: ""

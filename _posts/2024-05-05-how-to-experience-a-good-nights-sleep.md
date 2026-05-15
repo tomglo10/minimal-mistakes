@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "How to Experience a Good Night's Sleep"
 date: 2024-05-05T22:14:00+00:00
 description: ""

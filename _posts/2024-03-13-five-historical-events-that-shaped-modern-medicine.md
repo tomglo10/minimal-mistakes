@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Five Historical Events That Shaped Modern Medicine"
 date: 2024-03-13T01:23:00+00:00
 description: "Journey through history to the pivotal moments that changed the course of medicine and healthcare, leading us to the path to modern medical practices."

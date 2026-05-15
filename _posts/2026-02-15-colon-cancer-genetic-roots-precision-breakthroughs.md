@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Colon Cancer: From Genetic Roots to Precision Breakthroughs"
 permalink: /posts/colon-cancer-genetic-roots-precision-breakthroughs/
 date: 2026-02-15

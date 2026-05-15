@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Unlocking Brain Potential: Surprising Links Between Liver and Neurology"
 permalink: /posts/mini-stroke-prevention-liver-pressure-carvedilol/
 date: 2026-02-22

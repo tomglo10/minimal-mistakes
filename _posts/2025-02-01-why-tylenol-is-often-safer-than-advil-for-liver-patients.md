@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Why Tylenol is often safer than Advil for liver patients."
 date: 2025-02-01T09:15:00+00:00
 description: ""

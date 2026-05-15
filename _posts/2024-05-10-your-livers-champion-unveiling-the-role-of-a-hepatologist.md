@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Your Liver's Champion: Unveiling the Role of a Hepatologist"
 date: 2024-05-10T01:23:00+00:00
 description: ""

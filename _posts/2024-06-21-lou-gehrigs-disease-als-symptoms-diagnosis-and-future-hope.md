@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Lou Gehrig's Disease (ALS): Symptoms, Diagnosis, and Future Hope"
 date: 2024-06-21T01:22:00+00:00
 description: ""

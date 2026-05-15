@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Psoriasis and Cardiovascular Disease: What Patients Need to Know"
 permalink: /posts/psoriasis-and-cardiovascular-disease/
 date: 2026-01-24

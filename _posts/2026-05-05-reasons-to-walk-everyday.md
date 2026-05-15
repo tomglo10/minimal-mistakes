@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Step Up Your Wellness: 10 Reasons to Walk Every Day in 2026"
 date: 2026-05-05 16:57:00 -0600
 categories: [Exercise, Longevity]

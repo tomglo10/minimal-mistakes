@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Patient-Led Clinical Insights: Advocating for Liver Health"
 date: 2026-02-02
 description: "Translating high-level clinical data into health literacy for seniors managing cirrhosis and portal hypertension."

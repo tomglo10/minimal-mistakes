@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "The Vagus Nerve Exercise Guide: Physical Resets for Longevity"
 date: 2026-05-02
 description: "Three evidence-based physical exercises to stimulate the Vagus nerve and improve autonomic balance in seniors."

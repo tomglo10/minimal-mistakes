@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "2026 Guide: The Biggest Health Challenges in the United States"
 date: 2026-01-30
 description: "Navigating chronic disease, medical affordability, and AI integration in the 2026 U.S. healthcare landscape."

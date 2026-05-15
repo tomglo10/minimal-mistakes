@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "The Great Protein Flip: Why 'Resting the Liver' in 2026 is Outdated"
 date: 2026-03-28
 description: "Muscle Matters: Rethinking nutrition for liver disease and why protein restriction is outdated in 2026."

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Mind Matters: Cultivating Mental Health in 2026"
 date: 2026-03-07
 description: "Why prioritizing mental wellness is a critical health investment and evidence-based strategies for emotional resilience."

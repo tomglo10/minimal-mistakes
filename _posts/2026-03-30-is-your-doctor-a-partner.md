@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "How to Tell if You Need a New Doctor: A Checklist for Proactive Patients"
 date: 2026-03-30
 description: "Five essential questions to ask your doctor to ensure they support your health autonomy and longevity goals."

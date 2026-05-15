@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Skin to Joints: The Progression of Psoriasis to Psoriatic Arthritis"
 date: 2024-06-01T17:13:00+00:00
 description: ""

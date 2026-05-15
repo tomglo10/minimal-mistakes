@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Mind Matters: Cognitive Reframing Techniques"
 date: 2026-03-09
 description: "A practical guide to identifying and challenging distorted thought patterns using evidence-based CBT techniques."

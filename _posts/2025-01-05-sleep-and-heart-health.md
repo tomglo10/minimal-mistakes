@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Sleep and Heart Health: Catching Up on Sleep Protects Your Heart"
 date: 2025-01-05 16:50:00 +0000
 description: "New clinical data suggests that making up for lost sleep on weekends can significantly reduce cardiovascular risk."

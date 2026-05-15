@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Vitamin D and Sarcopenia: The 2026 Muscle Health Update"
 date: 2026-04-26
 description: "A research update on how Vitamin D deficiency accelerates muscle loss in seniors."

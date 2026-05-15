@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Medical Questionnaires: Why They Confuse Patients and Fixes"
 date: 2026-01-27
 description: "Why high-level medical forms lead to inaccurate data and how plain-language redesign improves patient safety."

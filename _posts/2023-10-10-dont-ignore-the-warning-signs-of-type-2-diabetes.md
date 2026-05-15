@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Don't Ignore the Warning Signs of Type 2 Diabetes"
 date: 2023-10-10
 description: "How identifying early insulin resistance and losing abdominal fat can improve long-term metabolic health."
