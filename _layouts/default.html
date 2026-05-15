@@ -1,37 +1,49 @@
 ---
+# Front matter required for Jekyll to process this file
 ---
-{%- assign locale = page.locale | default: layout.locale | default: site.locale %}
 
-<!doctype html>
-{% include copyright.html %}
-<html lang="{{ locale | replace: '_', '-' | default: 'en' }}" class="no-js" dir="{{ page.direction | default: layout.direction | default: site.direction | default: 'ltr' }}">
-  <head>
-    {% include head.html locale=locale %}
-    {% include head/custom.html %}
-  </head>
+@charset "utf-8";
 
-  <body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %}">
-    {% include_cached skip-links.html locale=locale %}
-    {% include_cached masthead.html locale=locale %}
+/**
+ * 1. SET THE MASTER WIDTH
+ * This allows the site to expand up to 1600px on large monitors.
+ */
+$max-width: 1600px; 
+$sidebar-width: 260px;
 
-    <div class="initial-content">
-      {{ content }}
-      {% include after-content.html %}
-    </div>
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'mint' }}"; 
+@import "minimal-mistakes"; 
 
-    {% if site.search == true %}
-      <div class="search-content">
-        {% include_cached search/search_form.html locale=locale %}
-      </div>
-    {% endif %}
+/* 2. THE CENTERING WRAPPER */
+.wrapper {
+  max-width: $max-width;
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+}
 
-    <div id="footer" class="page__footer">
-      <footer>
-        {% include footer/custom.html %}
-        {% include_cached footer.html locale=locale %}
-      </footer>
-    </div>
+/* 3. THE CONTENT COLUMN (Wider for clinical data)
+   Increasing this from 925px to 1150px gives your 
+   research room to breathe. */
+.initial-content, 
+.page__content,
+.page {
+  @include breakpoint($large) {
+    max-width: 1150px !important; 
+    margin-left: auto;
+    margin-right: auto;
+    float: none !important; 
+    padding: 0 50px;
+  }
+}
 
-    {% include scripts.html locale=locale %}
-  </body>
-</html>
+/* 4. KEEP SIDEBARS PINNED */
+.sidebar {
+  width: $sidebar-width !important;
+  margin-right: 20px;
+}
+
+.sidebar__right {
+  width: $sidebar-width !important;
+  margin-left: 20px;
+}
