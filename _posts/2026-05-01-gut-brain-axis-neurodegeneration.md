@@ -4,7 +4,7 @@ title: "The Vagus Highway: How the Gut-Brain Axis Drives Neurodegeneration"
 date: 2026-05-01
 description: "Why 2026 clinical research treats the gut as the 'Ground Zero' for Lewy Body Dementia and Parkinson's Disease."
 image: 
-  path: /assets/img/vagus-nerve-pathway.webp
+  path: /assets/images/vagus-nerve-pathway.webp
   alt: "Vagus Nerve Pathway"
 category: "[Health Research, Longevity Series]"
 tags: [gut-brain-axis, neurodegeneration, alpha-synuclein, vagus-nerve, microbiome]
@@ -17,7 +17,7 @@ last_modified_at: 2026-05-07
 {: .prompt-info }
 ---
 
-![Vagus Nerve Pathway]({{ site.urlimg }}{{ site.urlimg }}{{ '/assets/img/vagus-nerve-pathway.webp' | relative_url }})
+![Vagus Nerve Pathway]({{ site.urlimg }}{{ site.urlimg }}{{ '/assets/images/vagus-nerve-pathway.webp' | relative_url }})
 {: .normal }
 _**Figure 1:** The Vagus nerve acts as a bidirectional highway, carrying alpha-synuclein "seeds" from the gut to the brain._
 

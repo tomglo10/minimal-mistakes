@@ -4,7 +4,7 @@ title: "The 2026 Gut-Brain Nutrition Protocol: Fueling the Vagus Nerve"
 date: 2026-05-01
 description: "A clinical dietary framework for supporting the enteric nervous system and reducing alpha-synuclein misfolding."
 image: 
-  path: /assets/img/microbiome-fiber.webp
+  path: /assets/images/microbiome-fiber.webp
   alt: "The 2026 Gut-Brain Nutrition Protocol"
 category: "[Health Research, Nutrition]"
 tags: [gut-brain-axis, clinical-nutrition, vagus-nerve, microbiome, neuroprotection]
@@ -20,7 +20,7 @@ last_modified_at: 2026-05-07
 
 In senior health, we often face a "tug-of-war" between preventing **Sarcopenia** (muscle loss) and maintaining **Microbiome Diversity**. The 2026 protocol prioritizes both by focusing on high-quality amino acids paired with fermentable fibers.
 
-![Gut Microbiome Fueling]({{ site.urlimg }}{{ site.urlimg }}{{ '/assets/img/microbiome-fiber.webp' | relative_url }})
+![Gut Microbiome Fueling]({{ site.urlimg }}{{ site.urlimg }}{{ '/assets/images/microbiome-fiber.webp' | relative_url }})
 {: .normal }
 _**Figure 1:** Short-chain fatty acids (SCFAs) like Butyrate act as the primary energy source for the cells lining the gut, effectively 'sealing' the barrier against neuro-toxins._
 
@@ -56,7 +56,7 @@ One of the earliest signs of the Gut-Brain axis breaking down is **Constipation*
 1. **Hydration with Electrolytes:** Water alone isn't enough. Magnesium and Potassium are required for the smooth muscle contractions of the gut.
 2. **The 12-Hour Reset:** A simple 12-hour overnight fast (e.g., 7 PM to 7 AM) allows the **Migrating Motor Complex (MMC)** to "sweep" the small intestine clean.
 
-![Enteric Nervous System and Motility]({{ site.urlimg }}{{ site.urlimg }}{{ '/assets/img/gut-motility-vagus.webp' | relative_url }})
+![Enteric Nervous System and Motility]({{ site.urlimg }}{{ site.urlimg }}{{ '/assets/images/gut-motility-vagus.webp' | relative_url }})
 {: .normal }
 _**Figure 2:** Proper gut motility is a Vagus-mediated process. Slowed transit time is now recognized as a major risk factor for early-stage neurodegeneration._
 

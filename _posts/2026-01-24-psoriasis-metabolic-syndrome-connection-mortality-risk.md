@@ -5,7 +5,7 @@ permalink: /posts/do-biologic-therapies-reduce-mortality-psoriasis/
 date: 2026-01-24
 description: "Exploring the link between targeted biologic therapies and reduced cardiovascular mortality in patients with moderate-to-severe psoriasis."
 image: 
-  path: /assets/img/biologics.webp
+  path: /assets/images/biologics.webp
   alt: "Scientists in a laboratory working on biologic therapies"
 category: "[Dermatology, Patient Advocacy]"
 tags: [biologics, psoriasis, inflammation, mortality-risk, cardiovascular-health]
@@ -22,7 +22,7 @@ As our understanding of the [Vascular Bridge]({{ '/posts/mini-stroke-prevention-
 > **Medical Disclaimer:** This content is for informational and educational purposes only. It does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider regarding any medical condition.
 {: .prompt-warning }
 
-![Biologic Research]({{ site.urlimg }}{{ site.urlimg }}{{ '/assets/img/biologics.webp' | relative_url }})
+![Biologic Research]({{ site.urlimg }}{{ site.urlimg }}{{ '/assets/images/biologics.webp' | relative_url }})
 {: .normal }
 _**Figure 1:** Biologic therapies represent a shift toward precision immunology, targeting internal inflammation before it damages the heart and brain._
 
@@ -50,7 +50,7 @@ Chronic systemic inflammation doesn't stay on the surface. It contributes direct
 
 
 
-![A clear educational infographic comparing a healthy artery and one affected by atherosclerosis. The healthy artery shows smooth walls and open blood flow, while the diseased artery displays yellow plaque buildup narrowing the passage. Below, labeled diagrams explain fatty deposits, fibrous cap, calcification, and blood clot risk. Icons at the bottom highlight chest pain, heart attack, and stroke as serious outcomes.]({{ site.urlimg }}{{ site.urlimg }}/assets/img/atherosclerosis.webp)**Figure 2**Atherosclerosis gradually narrows arteries with fatty plaque buildup, reducing oxygen supply and increasing the risk of heart attack or stroke. Senior‑friendly educational infographic for cardiovascular health awareness.
+![A clear educational infographic comparing a healthy artery and one affected by atherosclerosis. The healthy artery shows smooth walls and open blood flow, while the diseased artery displays yellow plaque buildup narrowing the passage. Below, labeled diagrams explain fatty deposits, fibrous cap, calcification, and blood clot risk. Icons at the bottom highlight chest pain, heart attack, and stroke as serious outcomes.]({{ site.urlimg }}{{ site.urlimg }}/assets/images/atherosclerosis.webp)**Figure 2**Atherosclerosis gradually narrows arteries with fatty plaque buildup, reducing oxygen supply and increasing the risk of heart attack or stroke. Senior‑friendly educational infographic for cardiovascular health awareness.
 
 
 Research consistently shows that **cardiovascular disease is the leading cause of death** in people with uncontrolled psoriasis. By cooling the "inflammatory fire" in the skin, biologics appear to simultaneously reduce the inflammation-driven damage to the heart and blood vessels.

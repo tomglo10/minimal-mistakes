@@ -4,7 +4,7 @@ title: "The Vagus Nerve Exercise Guide: Physical Resets for Longevity"
 date: 2026-05-02
 description: "Three evidence-based physical exercises to stimulate the Vagus nerve and improve autonomic balance in seniors."
 image: 
-  path: /assets/img/vagus-exercise.webp
+  path: /assets/images/vagus-exercise.webp
   alt: "Vagus nerve stimulation exercises"
 category: "[Health Research, Physical Therapy]"
 tags: [vagus-nerve, autonomic-nervous-system, senior-fitness, longevity, neuroprotection]
@@ -16,7 +16,7 @@ Following our [Gut-Brain Nutrition Protocol]({{ '/2026/05/gut-brain-nutrition-pr
 
 ---
 
-![Vagus Nerve Anatomy]({{ site.urlimg }}{{ site.urlimg }}{{ '/assets/img/vagus-anatomy-path.webp' | relative_url }})
+![Vagus Nerve Anatomy]({{ site.urlimg }}{{ site.urlimg }}{{ '/assets/images/vagus-anatomy-path.webp' | relative_url }})
 {: .normal }
 _**Figure 1:** The Vagus nerve (Cranial Nerve X) is the longest nerve of the autonomic nervous system, traveling from the brainstem through the neck and thorax to the abdomen._
 
@@ -24,7 +24,7 @@ _**Figure 1:** The Vagus nerve (Cranial Nerve X) is the longest nerve of the aut
 
 Stimulating the Vagus nerve—often called **Vagus Nerve Stimulation (VNS)**—can be done safely at home through non-invasive techniques that utilize the body's natural reflexes.
 ---
-![Infographic showing six vagus nerve stimulation exercises: deep breathing, gargling, humming, cold exposure, meditation, and yoga]({{ site.urlimg }}{{ site.urlimg }}/assets/img/vagus-exercise.webp)**Figure 2** **Vagus Nerve Activation:** Simple daily exercises that strengthen gut‑brain communication and support healthy motility
+![Infographic showing six vagus nerve stimulation exercises: deep breathing, gargling, humming, cold exposure, meditation, and yoga]({{ site.urlimg }}{{ site.urlimg }}/assets/images/vagus-exercise.webp)**Figure 2** **Vagus Nerve Activation:** Simple daily exercises that strengthen gut‑brain communication and support healthy motility
 ---
 
 ## 1. The Diaphragmatic "Box Breath" 🫁
@@ -38,7 +38,7 @@ The Vagus nerve passes through the diaphragm. When you breathe deeply, the physi
 
 ---
 
-![Diaphragmatic Breathing and Vagus Stimulation]({{ site.urlimg }}{{ site.urlimg }}{{ '/assets/img/diaphragm-vagus.webp' | relative_url }})
+![Diaphragmatic Breathing and Vagus Stimulation]({{ site.urlimg }}{{ site.urlimg }}{{ '/assets/images/diaphragm-vagus.webp' | relative_url }})
 {: .normal }
 _**Figure 3:** Proper diaphragmatic expansion (belly breathing) provides the mechanical stimulus required to signal the Vagus nerve to lower the heart rate._
 ---
@@ -71,7 +71,7 @@ The Vagus nerve is connected to the vocal cords and the muscles at the back of t
 ---
 
 
-![Vagus Nerve Physical Resets Summary]({{ site.urlimg }}{{ site.urlimg }}{{ '/assets/img/vagus-resets-summary2.webp' | relative_url }})
+![Vagus Nerve Physical Resets Summary]({{ site.urlimg }}{{ site.urlimg }}{{ '/assets/images/vagus-resets-summary2.webp' | relative_url }})
 {: .normal }
 _**Figure 3:** The 2026 AgingHealth Vagal Reset Protocol: A combination of breathwork, thermal stimulus, and vocal activation for autonomic stability._
 

@@ -4,7 +4,7 @@ title: "Medical Questionnaires: Why They Confuse Patients and Fixes"
 date: 2026-01-27
 description: "Why high-level medical forms lead to inaccurate data and how plain-language redesign improves patient safety."
 image: 
-  path: /assets/img/explain-medical-questionnaire.webp
+  path: /assets/images/explain-medical-questionnaire.webp
   alt: "Patient and clinician reviewing a medical questionnaire"
 category: "[Health Research, Advocacy]"
 tags: [advocacy, longevity, clinical-research, stress, public-health]
@@ -19,7 +19,7 @@ Medical questionnaires are essential to diagnosis and treatment, but many are wr
 > **Medical Disclaimer:** This content is for informational and educational purposes only. It does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider regarding any medical condition.
 {: .prompt-warning }
 
-![Reviewing Medical Forms]({{ site.urlimg }}{{ site.urlimg }}{{ '/assets/img/explain-medical-questionnaire.webp' | relative_url }})
+![Reviewing Medical Forms]({{ site.urlimg }}{{ site.urlimg }}{{ '/assets/images/explain-medical-questionnaire.webp' | relative_url }})
 {: .normal }
 _**Figure 1:** When forms are understandable, care becomes safer and more collaborative. Health literacy is a stronger predictor of health than income or education._
 

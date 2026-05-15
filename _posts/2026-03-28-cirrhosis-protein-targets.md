@@ -4,7 +4,7 @@ title: "The Great Protein Flip: Why 'Resting the Liver' in 2026 is Outdated"
 date: 2026-03-28
 description: "Muscle Matters: Rethinking nutrition for liver disease and why protein restriction is outdated in 2026."
 image: 
-  path: /assets/img/2026-updates.webp
+  path: /assets/images/2026-updates.webp
   alt: "2026 Liver Health Updates"
 category: "[Health Research, Liver Health]"
 tags: [cirrhosis, protein, sarcopenia, muscle-wasting, liver-disease, clinical-nutrition]
@@ -18,7 +18,7 @@ For nearly thirty years, seniors diagnosed with advanced liver disease (cirrhosi
 
 The logic seemed sound at the time. The liver processes protein. If the liver is scarred and damaged, doctors thought they should lessen its workload by asking the body to digest less protein. We were told to "rest the liver."
 
-![Liver and Muscle Health]({{ site.urlimg }}{{ site.urlimg }}{{ '/assets/img/2026-updates.webp' | relative_url }})
+![Liver and Muscle Health]({{ site.urlimg }}{{ site.urlimg }}{{ '/assets/images/2026-updates.webp' | relative_url }})
 {: .normal }
 _**Figure 1:** Modern health guidelines suggest that resting the liver by restricting protein is no longer effective. The focus has shifted to muscle preservation and metabolic support._
 

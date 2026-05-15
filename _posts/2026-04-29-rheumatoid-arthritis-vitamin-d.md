@@ -4,7 +4,7 @@ title: "Rheumatoid Arthritis & Vitamin D: The 2026 Deep Dive"
 date: 2026-04-29
 description: "A clinical look at RA diagnostics and the lifestyle catalysts that calm the immune system."
 image: 
-  path: /assets/img/ra-joint-inflammation.webp
+  path: /assets/images/ra-joint-inflammation.webp
   alt: Diagram of joint inflammation in Rheumatoid Arthritis
 category: "[Autoimmune]"
 tags: [rheumatoid arthritis, vitamin d, inflammation]
@@ -27,7 +27,7 @@ Together, these create a **“Triple Threat”** to balance, mobility, and indep
 ---
 
 
-![Diagram of joint inflammation in Rheumatoid Arthritis]({{ site.urlimg }}{{ site.urlimg }}/assets/img/ra-joint-inflammation.webp)**Figure 1:** A medical illustration showing a cross-section of a joint. One side shows healthy, the other showing the "synovial thickening" (the red inflammation) of RA.
+![Diagram of joint inflammation in Rheumatoid Arthritis]({{ site.urlimg }}{{ site.urlimg }}/assets/images/ra-joint-inflammation.webp)**Figure 1:** A medical illustration showing a cross-section of a joint. One side shows healthy, the other showing the "synovial thickening" (the red inflammation) of RA.
 
 
 ---
@@ -54,7 +54,7 @@ Vitamin D helps the body produce **T‑regulatory cells**—often described as t
 ---
 
 
-![The "Immune Peacekeeper" Image]({{ site.urlimg }}{{ site.urlimg }}/assets/img/vitamin-d-immune-action.webp)**Figure 2:** A diagram showing a Vitamin D molecule "unlocking" a T-Reg cell (the peacekeeper cell).
+![The "Immune Peacekeeper" Image]({{ site.urlimg }}{{ site.urlimg }}/assets/images/vitamin-d-immune-action.webp)**Figure 2:** A diagram showing a Vitamin D molecule "unlocking" a T-Reg cell (the peacekeeper cell).
 
 
 ---
@@ -142,7 +142,7 @@ Vitamin D plays a critical role here by:
 ---
 
 
-![Dashboard graphic showing Anti‑CCP as an illuminated orange ‘Check Engine’ warning light on the left, and CRP as a tachometer on the right with the needle in the high‑rev red zone. Additional small gauges along the bottom represent fuel, temperature, and glucose.]({{ site.urlimg }}{{ site.urlimg }}/assets/img/dashboard.webp)**Figure 3:** Anti‑CCP is your ‘Check Engine’ light — it’s either on or off. CRP is your ‘Tachometer,’ showing how hard inflammation is revving right now.
+![Dashboard graphic showing Anti‑CCP as an illuminated orange ‘Check Engine’ warning light on the left, and CRP as a tachometer on the right with the needle in the high‑rev red zone. Additional small gauges along the bottom represent fuel, temperature, and glucose.]({{ site.urlimg }}{{ site.urlimg }}/assets/images/dashboard.webp)**Figure 3:** Anti‑CCP is your ‘Check Engine’ light — it’s either on or off. CRP is your ‘Tachometer,’ showing how hard inflammation is revving right now.
 
 
 ---
@@ -183,7 +183,7 @@ Anti‑CCP doesn’t mean you’re broken—it means you have **time to interven
 ---
 
 
-![The "Grocery" Image:]({{ site.urlimg }}{{ site.urlimg }}/assets/img/anti-inflammatory-foods.webp)**Figure 4:** A top-down shot of high-polyphenol foods (blueberries, walnuts, salmon, and turmeric root) on a clean, white background.
+![The "Grocery" Image:]({{ site.urlimg }}{{ site.urlimg }}/assets/images/anti-inflammatory-foods.webp)**Figure 4:** A top-down shot of high-polyphenol foods (blueberries, walnuts, salmon, and turmeric root) on a clean, white background.
 
 
 ---
@@ -267,7 +267,7 @@ Annual Lab Work: Don't just check for "minimums." Ask for your specific Anti-CCP
 
 ---
 
-![Patient-Physician Consultation.]({{ site.urlimg }}{{ site.urlimg }}/assets/img/patient-physician-consultation.webp)**Figure 5:** Doctor pointing at a lab report with a senior patient. It reinforces the idea that your readers are active participants in their health, not just passive observers.
+![Patient-Physician Consultation.]({{ site.urlimg }}{{ site.urlimg }}/assets/images/patient-physician-consultation.webp)**Figure 5:** Doctor pointing at a lab report with a senior patient. It reinforces the idea that your readers are active participants in their health, not just passive observers.
 
 ---
 

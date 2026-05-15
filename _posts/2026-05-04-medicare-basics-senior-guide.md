@@ -1,10 +1,10 @@
 ---
 title: "Navigating Medicare in 2026: A Senior’s Guide to Coverage & Advocacy"
 date: 2026-05-04 11:00:00 -0600
-categories: "[Health Literacy, Senior Advocacy]"
+categories: [Health Literacy, Senior Advocacy]
 tags: [Medicare, Insurance, Patient Tools, Healthspan, 2026 Reforms]
 image: 
-  path: /assets/img/2026-medicare-guide.webp
+  path: /assets/images/2026-medicare-guide.webp
   alt: "Illustration of Medicare Parts A, B, C, and D with 2026 updates."
 description: "A comprehensive 2026 guide to Medicare, covering the new $2,000 drug cap, enrollment strategies, and choosing between Original Medicare and Advantage."
 math: true
@@ -17,7 +17,7 @@ For a senior managing chronic conditions—whether it's Type 2 Diabetes, heart h
 
 ---
 
-![Aa infographic titled  showing key updates and choices for seniors. It highlights the new $2,000 annual drug cost cap, enrollment strategies, and a side-by-side comparison of Original Medicare versus Medicare Advantage, using icons and color-coded sections for clarity.]({{ site.urlimg }}{{ site.urlimg }}/assets/img/2026-medicare-guide.webp)**Figure 1**  Your 2026 Medicare roadmap—understand the new $2,000 drug cap, smart enrollment timing, and how to choose between Original Medicare and Advantage for better coverage and savings.
+![Aa infographic titled  showing key updates and choices for seniors. It highlights the new $2,000 annual drug cost cap, enrollment strategies, and a side-by-side comparison of Original Medicare versus Medicare Advantage, using icons and color-coded sections for clarity.]({{ site.urlimg }}{{ site.urlimg }}/assets/images/2026-medicare-guide.webp)**Figure 1**  Your 2026 Medicare roadmap—understand the new $2,000 drug cap, smart enrollment timing, and how to choose between Original Medicare and Advantage for better coverage and savings.
 
 ---
 

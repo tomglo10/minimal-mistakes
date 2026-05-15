@@ -5,7 +5,7 @@ permalink: /posts/wisdom-aging-brain-cognitive-shifts/
 date: 2025-07-07
 description: "Uncover the hidden potential of the aging brain. Learn about cognitive shifts, enhanced wisdom, and how to nurture your mind for vitality."
 image: 
-  path: /assets/img/wisdom.webp
+  path: /assets/images/wisdom.webp
   alt: "An older man smiling thoughtfully symbolizing wisdom"
 category: "[Cognitive Health]"
 tags: [neurological, dementia, mind, aging-well, advocacy]
@@ -20,7 +20,7 @@ For too long, the narrative surrounding the aging brain has been dominated by a 
 > **Medical Disclaimer:** This content is for informational and educational purposes only. It does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider regarding any medical condition.
 {: .prompt-warning }
 
-![The Wisdom of Experience]({{ site.urlimg }}{{ site.urlimg }}{{ '/assets/img/wisdom.webp' | relative_url }})
+![The Wisdom of Experience]({{ site.urlimg }}{{ site.urlimg }}{{ '/assets/images/wisdom.webp' | relative_url }})
 {: .normal }
 _**Figure 1:** As we age, we accumulate a wealth of experiences that lead to a distinctive evolution of cognitive abilities, often referred to as 'Crystallized Intelligence.'_
 

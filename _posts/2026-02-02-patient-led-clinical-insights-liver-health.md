@@ -3,7 +3,7 @@ layout: post
 title: "Patient-Led Clinical Insights: Advocating for Liver Health"
 date: 2026-02-02
 description: "Translating high-level clinical data into health literacy for seniors managing cirrhosis and portal hypertension."
-image: "/assets/img/esophageal-varices.webp"
+image: "/assets/images/esophageal-varices.webp"
 tags: ["Liver Health", "Immune Health", "Patient Advocacy"]
 math: true
 toc: true
@@ -21,7 +21,7 @@ Portal hypertension occurs when blood flow through the liver is obstructed (ofte
 
 ---
 
-![Image of the portal venous system and esophageal varices]({{ site.urlimg }}{{ site.urlimg }}/assets/img/esophageal-varices.webp)
+![Image of the portal venous system and esophageal varices]({{ site.urlimg }}{{ site.urlimg }}/assets/images/esophageal-varices.webp)
 *Figure 1: Catheter Ablation — A futuristic medical visualization showing how radiofrequency energy precisely targets arrhythmia‑causing tissue in the heart. The holographic human figure, glowing catheters, and digital ECG panels highlight the transformation from irregular to normal rhythm in a senior‑friendly, educational design.*
 
 ---

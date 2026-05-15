@@ -4,7 +4,7 @@ title: "Oxalates: Do They Cause Health Issues?"
 date: 2023-09-11
 description: "High oxalate intake can bind to minerals, forming crystals linked to kidney stones, gout, and joint pain—potentially contributing to inflammation."
 math: true
-image: "/assets/img/oxalate-infographic.webp"
+image: "/assets/images/oxalate-infographic.webp"
 tags: [Nutrition, Kidney, Digestive, Metabolism]
 toc: true
 last_modified_at: 2026-05-07
@@ -17,7 +17,7 @@ This guide explains what oxalates are, how they interact with the body, and whet
 
 ---
 
-![Infographic explaining what oxalates are, common high-oxalate foods (spinach, almonds, beets, sweet potatoes, dark chocolate), potential health concerns such as kidney stones, at-risk groups including people with prior kidney stones or digestive disorders, and risk-reduction strategies like hydration, balanced calcium intake, moderating high-oxalate foods, and boiling.]({{ site.urlimg }}{{ site.urlimg }}/assets/img/oxalate-infographic.webp)
+![Infographic explaining what oxalates are, common high-oxalate foods (spinach, almonds, beets, sweet potatoes, dark chocolate), potential health concerns such as kidney stones, at-risk groups including people with prior kidney stones or digestive disorders, and risk-reduction strategies like hydration, balanced calcium intake, moderating high-oxalate foods, and boiling.]({{ site.urlimg }}{{ site.urlimg }}/assets/images/oxalate-infographic.webp)
 _Figure 1: Clinical overview of oxalates, potential health risks, at-risk populations, and practical strategies to reduce kidney stone risk._
 
 ---

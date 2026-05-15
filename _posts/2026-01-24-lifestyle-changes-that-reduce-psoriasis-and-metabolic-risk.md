@@ -4,7 +4,7 @@ title: "Lifestyle Changes That Reduce Psoriasis and Metabolic Risk"
 date: 2026-01-24
 description: "How targeted lifestyle interventions can reduce systemic inflammation and improve treatment effectiveness in psoriasis."
 image: 
-  path: /assets/img/senior-couple-walking.webp
+  path: /assets/images/senior-couple-walking.webp
   alt: "A senior couple walking and smiling"
 category: "[Health Research, Lifestyle]"
 tags: [psoriasis, metabolic-syndrome, inflammation, weight-loss, longevity, lifestyle]
@@ -21,7 +21,7 @@ Psoriasis is a chronic inflammatory disease influenced not only by genetics but 
 > **Medical Disclaimer:** This content is for informational and educational purposes only. It does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider regarding any medical condition.
 {: .prompt-warning }
 
-![Healthy Senior Lifestyle]({{ site.urlimg }}{{ site.urlimg }}{{ '/assets/img/senior-couple-walking.webp' | relative_url }})
+![Healthy Senior Lifestyle]({{ site.urlimg }}{{ site.urlimg }}{{ '/assets/images/senior-couple-walking.webp' | relative_url }})
 {: .normal }
 _**Figure 1:** Lifestyle changes reduce psoriasis and metabolic risk by calming systemic inflammation—the shared driver of both conditions._
 

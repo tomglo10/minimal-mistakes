@@ -4,7 +4,7 @@ title: "Food Additives & Type 2 Diabetes: Identifying Metabolic Disruptors"
 date: 2026-04-30
 description: "A 2026 clinical update on how ultra-processed food additives disrupt insulin signaling and degrade gut health."
 image: 
-  path: /assets/img/ingredient-study.webp
+  path: /assets/images/ingredient-study.webp
   alt: "Label Literacy: Becoming a 'Medical Detective' in the grocery aisle."
 category: "[Health Research, Metabolism]"
 tags: [diabetes, additives, gut-health, insulin-resistance, ultra-processed-foods]
@@ -17,7 +17,7 @@ Convenience is a high-value currency in 2026, but it often comes at a hidden met
 > **Medical Disclaimer:** This guide is for educational purposes. Additive research is often observational; use this data to inform your conversations with a clinical nutritionist or your GP.
 {: .prompt-warning }
 
-![**Label Literacy:** Becoming a 'Medical Detective' in the grocery aisle.]({{ site.urlimg }}{{ site.urlimg }}/assets/img/ingredient-study.webp)
+![**Label Literacy:** Becoming a 'Medical Detective' in the grocery aisle.]({{ site.urlimg }}{{ site.urlimg }}/assets/images/ingredient-study.webp)
 _**Figure 1:** Label Literacy is a critical skill for managing glucose stability in a landscape of ultra-processed foods._
 
 ---
@@ -31,7 +31,7 @@ Type 2 Diabetes occurs when the body loses its **Metabolic Flexibility**—the a
 
 ---
 
-![Clinical cross-section of the human gut and food additives]({{ site.urlimg }}{{ site.urlimg }}/assets/img/additives-diabetes.webp)
+![Clinical cross-section of the human gut and food additives]({{ site.urlimg }}{{ site.urlimg }}/assets/images/additives-diabetes.webp)
 **Figure 2:** Food additives like CMC, polysorbate‑80, and sucralose can disrupt the gut barrier and alter GLP‑1 signaling-a hidden pathway linking ultra‑processed foods to Type 2 diabetes risk.
 ---
 

@@ -4,7 +4,7 @@ title: "What Foods Can Lower or Raise Testosterone Levels?"
 date: 2023-12-01T20:48:00+00:00
 description: "Optimize your hormones with evidence-informed foods that may influence testosterone levels and support healthy aging"
 image: 
-  path: /assets/img/testosterone-foods.webp
+  path: /assets/images/testosterone-foods.webp
   alt: Foods that raise or lower testosterone levels infographic
 category: "[Nutrition, Hormone Health, Healthy Aging]"
 tags: [testosterone, low testosterone, hormone balance, aging and hormones]
@@ -22,7 +22,7 @@ Testosterone plays a key role in muscle strength, bone density, metabolic health
 
 ---
 
-![Foods that raise or lower testosterone levels infographic]({{ site.urlimg }}{{ site.urlimg }}/assets/img/testosterone-foods.webp)_Figure 1: Testosterone is a key hormone that supports muscle strength, energy, mood, and sexual health, and its levels naturally decline with age._
+![Foods that raise or lower testosterone levels infographic]({{ site.urlimg }}{{ site.urlimg }}/assets/images/testosterone-foods.webp)_Figure 1: Testosterone is a key hormone that supports muscle strength, energy, mood, and sexual health, and its levels naturally decline with age._
 
 ---
 

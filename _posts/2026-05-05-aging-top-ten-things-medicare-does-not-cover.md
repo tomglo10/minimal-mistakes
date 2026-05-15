@@ -1,10 +1,10 @@
 ---
 title: "Medicare Gaps: Top Ten Things Not Covered in 2026"
 date: 2026-05-05 05:20:00 -0600
-categories: "[Health Literacy, Senior Advocacy]"
+categories: [Health Literacy, Senior Advocacy]
 tags: [Medicare, Insurance, Dental Care, Hearing Aids, Long-Term Care]
 image: 
-  path: /assets/img/healthcare-review.webp
+  path: /assets/images/healthcare-review.webp
   alt: "Older adult reviewing Medicare coverage options with a caregiver."
 description: "Understanding Medicare exclusions is critical for financial stability. Discover the top ten things Medicare doesn't cover and how to bridge the gap in 2026."
 math: true

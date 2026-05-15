@@ -4,7 +4,7 @@ title: "Mind Matters: Cognitive Reframing Techniques"
 date: 2026-03-09
 description: "A practical guide to identifying and challenging distorted thought patterns using evidence-based CBT techniques."
 image: 
-  path: /assets/img/pushing-mental-storm-away.webp
+  path: /assets/images/pushing-mental-storm-away.webp
   alt: "Illustration of cognitive reframing and mental clarity"
 category: "[Health Research, Mental Health]"
 tags: [cbt, cognitive-reframing, mental-wellness, psychology, stress-management, advocacy]
@@ -16,7 +16,7 @@ last_modified_at: 2026-05-07
 
 **Cognitive reframing** (also called cognitive restructuring) is a core psychological technique used to identify, challenge, and change unhelpful or distorted thought patterns. As a central component of **Cognitive Behavioral Therapy (CBT)**, it is widely used to reduce anxiety, depression, and emotional reactivity.
 
-![Cognitive Reframing Concept]({{ site.urlimg }}{{ site.urlimg }}{{ '/assets/img/pushing-mental-storm-away.webp' | relative_url }})
+![Cognitive Reframing Concept]({{ site.urlimg }}{{ site.urlimg }}{{ '/assets/images/pushing-mental-storm-away.webp' | relative_url }})
 {: .normal }
 _**Figure 1:** Cognitive reframing is like reshaping a stormy mental landscape into one of clarity. It helps you shift from automatic, negative interpretations to more balanced perspectives._
 
@@ -50,7 +50,7 @@ Before you can reframe, you must recognize common "glitches" in thinking:
 3.  **Mind Reading:** Assuming you know what others think of you.
 4.  **Personalization:** Taking responsibility for things completely outside your control.
 
-![Cognitive Reframing Infographic]({{ site.urlimg }}{{ site.urlimg }}{{ '/assets/img/cognitive-reframing2.webp' | relative_url }})
+![Cognitive Reframing Infographic]({{ site.urlimg }}{{ site.urlimg }}{{ '/assets/images/cognitive-reframing2.webp' | relative_url }})
 {: .normal }
 _**Figure 2:** The mental skill of transforming self-defeating thoughts into balanced, empowering interpretations._
 

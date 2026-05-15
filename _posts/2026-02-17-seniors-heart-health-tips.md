@@ -5,9 +5,9 @@ permalink: /posts/seniors-heart-health-tips/
 date: 2026-02-17
 description: "Exploring the rise of silent valve disease, the clinical debate over statins in the elderly, and how 2026 research is targeting the mechanisms of biological aging."
 image: 
-  path: /assets/img/heart-health.webp
+  path: /assets/images/heart-health.webp
   alt: "Maintaining an active lifestyle is crucial for cardiovascular resilience in senior years."
-categories: "[Cardiovascular, Longevity]"
+categories: [Cardiovascular, Longevity]
 tags: [heart-health, valve-disease, statins, biological-aging, senior-advocacy]
 math: true
 toc: true
@@ -22,7 +22,7 @@ This research update explores the rise of silent valve disease, the debate surro
 > **Medical Disclaimer:** This content is for informational and educational purposes only. It does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider regarding any medical condition.
 {: .prompt-warning }
 
-![Senior Heart Health]({{ site.urlimg }}{{ site.urlimg }}{{ '/assets/img/heart-health.webp' | relative_url }})
+![Senior Heart Health]({{ site.urlimg }}{{ site.urlimg }}{{ '/assets/images/heart-health.webp' | relative_url }})
 {: .normal }
 _**Figure 1:** Cardiovascular resilience in senior years depends on a combination of movement, metabolic stability, and clinical oversight._
 
@@ -32,7 +32,7 @@ _**Figure 1:** Cardiovascular resilience in senior years depends on a combinatio
 
 With age, arterial elasticity naturally reduces and heart muscle walls often thicken. One primary driver is **atherosclerosis**, where fatty deposits (plaque) accumulate in arterial walls, narrowing blood flow to critical organs and increasing the risk of heart attacks and strokes.
 
-![Coronary Artery Disease]({{ site.urlimg }}{{ site.urlimg }}{{ '/assets/img/coronary-artery-disease.webp' | relative_url }})
+![Coronary Artery Disease]({{ site.urlimg }}{{ site.urlimg }}{{ '/assets/images/coronary-artery-disease.webp' | relative_url }})
 {: .normal }
 _**Figure 2:** Coronary artery disease occurs when plaque buildup narrows the arteries that supply blood to the heart, reducing oxygen flow._
 
@@ -44,11 +44,11 @@ Heart valves that control blood flow can become stiff (**stenosis**) or weak (**
 * **The Progression:** Prevalence jumps from 21% in those aged 60–64 to over 53% in those 85 and older.
 * **The Warning Sign:** Often, the first sign isn't pain, but a subtle "fatigue" that seniors often mistake for "just getting older."
 
-![Valve Stenosis Comparison]({{ site.urlimg }}{{ site.urlimg }}{{ '/assets/img/medical-illustration.webp' | relative_url }})
+![Valve Stenosis Comparison]({{ site.urlimg }}{{ site.urlimg }}{{ '/assets/images/medical-illustration.webp' | relative_url }})
 {: .normal }
 _**Figure 3:** A healthy valve (left) opens fully. A stenotic valve (right) becomes calcified and narrowed, forcing the heart to work harder to maintain systemic circulation._
 
-![Aortic Stenosis Detail]({{ site.urlimg }}{{ site.urlimg }}{{ '/assets/img/aortic-stenosis.webp' | relative_url }})
+![Aortic Stenosis Detail]({{ site.urlimg }}{{ site.urlimg }}{{ '/assets/images/aortic-stenosis.webp' | relative_url }})
 {: .normal }
 _**Figure 4:** Aortic stenosis occurs when the aortic valve becomes thickened and calcified, narrowing the opening and forcing the heart to pump harder._
 

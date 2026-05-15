@@ -3,7 +3,7 @@ layout: post
 title: "The Importance of Senior Health Management"
 date: 2024-03-19
 description: "A clinical look at why proactive health management is the strongest predictor of healthy aging and independence."
-image: "/assets/img/health-management.webp"
+image: "/assets/images/health-management.webp"
 tags: ["Advocacy", "Longevity", "Cognitive Health", "Liver Health", "Immune Health", "Cardiovascular", "Aging Well"]
 math: true
 toc: true
@@ -15,7 +15,7 @@ As people age, health needs become more complex - but they also become more mana
 
 ---
 
-![Older adult consulting with a clinician regarding preventive care]({{ site.urlimg }}{{ site.urlimg }}/assets/img/health-management.webp)
+![Older adult consulting with a clinician regarding preventive care]({{ site.urlimg }}{{ site.urlimg }}/assets/images/health-management.webp)
 *Figure 1: Preventive care helps older adults stay independent by catching health changes early and supporting long-term well-being.*
 
 ---

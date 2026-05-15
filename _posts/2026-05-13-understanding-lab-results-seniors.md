@@ -18,7 +18,7 @@ Navigating medical care often feels like learning a second language. Between the
 For many seniors, health literacy starts with understanding what these numbers actually mean for your daily life. Here is a breakdown of the three most common panels you’ll see in your clinical reports.
 
 ---
-![Elderly couple reviewing lab results beside blood test vials, clipboard, and stethoscope under the title “Understanding Lab Results: A Senior’s Guide to Common Blood Tests.”](/assets/images/lab-results-guide.webp)
+![Elderly couple reviewing lab results beside blood test vials, clipboard, and stethoscope under the title “Understanding Lab Results: A Senior’s Guide to Common Blood Tests.”]({{ '/assets/images/lab-results-guide.webp' | relative_url }})
 Seniors learning how to read common blood test results with confidence and clarity.
 
 ---

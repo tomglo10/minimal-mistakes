@@ -3,7 +3,7 @@ layout: post
 title: "Inflation's Impact on Health and Healthcare: A Senior Citizen’s Guide"
 date: 2026-02-01 01:00:00 +0000
 description: "How inflation in 2026 increases healthcare costs for seniors—and what older adults can do to protect their health on a fixed income."
-image: /assets/img/inflation-medicare .webp
+image: /assets/images/inflation-medicare .webp
 categories: ""
 tags: 
 math: true
@@ -39,7 +39,7 @@ Always consult a qualified healthcare provider regarding any medical condition.
 
 ---
 
-![The heavy burden of inflation on senior health.]({{ site.urlimg }}{{ site.urlimg }}/assets/img/inflation-medicare .webp)
+![The heavy burden of inflation on senior health.]({{ site.urlimg }}{{ site.urlimg }}/assets/images/inflation-medicare .webp)
 **Figure 1**. Healthcare providers play a critical role in helping seniors manage the **intersection of medical needs and financial constraints**.
 
 ---
@@ -157,7 +157,7 @@ By refusing to delay preventive care, advocating for affordable medications, and
 
 ---
 
-![Prescription savings tip card.]({{ site.urlimg }}{{ site.urlimg }}/assets/img/savings-hack.webp)
+![Prescription savings tip card.]({{ site.urlimg }}{{ site.urlimg }}/assets/images/savings-hack.webp)
 **Figure 2.** Three proven ways seniors can save on prescriptions in 2026.
 
 ---

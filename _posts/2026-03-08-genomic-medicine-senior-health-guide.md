@@ -1,10 +1,10 @@
 ---
 title: "Genomic Medicine: Tailoring Treatments to Your Genes"
 date: 2026-03-08 09:40:00 -0600
-categories: "[Precision Medicine, Senior Health]"
+categories: [Precision Medicine, Senior Health]
 tags: [Genomics, Pangenome, Pharmacogenomics, Bridge RNA, Health Literacy]
 image: 
-  path: /assets/img/genomic-medicine.webp
+  path: /assets/images/genomic-medicine.webp
   alt: "Genomic Medicine Infographic: DNA silhouette and personalized therapy steps"
 description: "A comprehensive 2026 guide to genomic medicine for seniors, covering the Human Pangenome, Bridge RNAs, and personalized medication safety."
 math: true
@@ -15,7 +15,7 @@ last_modified_at: 2026-05-07
 
 Understanding your genetic makeup is no longer a luxury—it is the baseline for modern health management. By moving from a "one-size-fits-all" approach to **Precision Medicine**, you can identify risks before symptoms appear. Today's genomic testing is faster than ever; "Ultra-rapid" sequencing can now provide a full genetic diagnosis in under 8 hours.
 
-![Genomic Medicine: DNA profile guiding personalized treatment plans]({{ site.urlimg }}{{ site.urlimg }}/assets/img/genomic-medicine.webp)
+![Genomic Medicine: DNA profile guiding personalized treatment plans]({{ site.urlimg }}{{ site.urlimg }}/assets/images/genomic-medicine.webp)
 
 Genomic medicine combines DNA sequencing and genetic analysis to identify an individual’s unique genetic profile. This allows for targeted therapies, optimized medications, and a significant reduction in adverse side effects.
 

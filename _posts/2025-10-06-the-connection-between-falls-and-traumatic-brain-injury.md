@@ -4,7 +4,7 @@ title: "The Connection Between Falls and Traumatic Brain Injury"
 date: 2025-10-06
 description: "A 2026 guide for aging adults on why falls are a leading cause of TBI and strategies for neuro-protective prevention."
 image: 
-  path: /assets/img/senior-woman-walks-with-cane.webp
+  path: /assets/images/senior-woman-walks-with-cane.webp
   alt: "Senior woman walking with a cane in a park"
 category: "[Cognitive Health, Advocacy]"
 tags: [tbi, fall-prevention, senior-safety, neuroplasticity, brain-health]
@@ -19,7 +19,7 @@ Falls are one of the most underestimated threats to brain health. While many vie
 > **Medical Disclaimer:** This content is for informational and educational purposes only. It does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider regarding any medical condition.
 {: .prompt-warning }
 
-![Senior Independence]({{ site.urlimg }}{{ site.urlimg }}{{ '/assets/img/senior-woman-walks-with-cane.webp' | relative_url }})
+![Senior Independence]({{ site.urlimg }}{{ site.urlimg }}{{ '/assets/images/senior-woman-walks-with-cane.webp' | relative_url }})
 {: .normal }
 _**Figure 1:** Maintaining independence through physical activity is the first step in lowering the risk of head trauma._
 

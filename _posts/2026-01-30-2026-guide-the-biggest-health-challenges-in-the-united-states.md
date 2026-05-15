@@ -4,7 +4,7 @@ title: "2026 Guide: The Biggest Health Challenges in the United States"
 date: 2026-01-30
 description: "Navigating chronic disease, medical affordability, and AI integration in the 2026 U.S. healthcare landscape."
 image: 
-  path: /assets/img/costs-modern-healthcare.webp
+  path: /assets/images/costs-modern-healthcare.webp
   alt: "Navigating Modern Healthcare 2026"
 category: "[Health Research, Public Health]"
 tags: [advocacy, cognitive-health, cardiovascular, liver-health, clinical-research, longevity, diabetes]
@@ -19,7 +19,7 @@ The United States currently faces a "polycrisis" of health challenges, dominated
 > **Medical Disclaimer:** This content is for informational and educational purposes only. It does not replace professional medical advice, diagnosis, or treatment. Always consult a [qualified healthcare provider]({{ '/2025/07/ai-in-healthcare.md' | relative_url }}) regarding any medical condition.
 {: .prompt-warning }
 
-![Navigating Modern Healthcare]({{ site.urlimg }}{{ site.urlimg }}{{ '/assets/img/costs-modern-healthcare.webp' | relative_url }})
+![Navigating Modern Healthcare]({{ site.urlimg }}{{ site.urlimg }}{{ '/assets/images/costs-modern-healthcare.webp' | relative_url }})
 {: .normal }
 _**Figure 1:** Managing chronic diseases and associated costs in an AI-integrated system requires high health literacy._
 

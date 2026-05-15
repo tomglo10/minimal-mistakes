@@ -4,7 +4,7 @@ title: "WHO’s Intrinsic Capacity Framework Explained"
 date: 2026-01-28
 description: "A comprehensive look at the WHO's shift from disease-centered care to a function-centered approach for older adults."
 image: 
-  path: /assets/img/senior-therapy.webp
+  path: /assets/images/senior-therapy.webp
   alt: "Senior therapy and balance training"
 category: "[Health Research, Advocacy]"
 tags: [cognitive-health, advocacy, functional-fitness, mind, public-health, aging-well]
@@ -19,7 +19,7 @@ The [World Health Organization's Intrinsic Capacity Framework]({{ '/2025/12/seni
 > **Medical Disclaimer:** This content is for informational and educational purposes only. It does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider regarding any medical condition.
 {: .prompt-warning }
 
-![Senior Balance Training]({{ site.urlimg }}{{ site.urlimg }}{{ '/assets/img/senior-therapy.webp' | relative_url }})
+![Senior Balance Training]({{ site.urlimg }}{{ site.urlimg }}{{ '/assets/images/senior-therapy.webp' | relative_url }})
 {: .normal }
 _**Figure 1:** In a brightly lit equipment room, an elderly man engages in balance training under the guidance of his physical therapist._
 

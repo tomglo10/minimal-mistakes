@@ -3,7 +3,7 @@ layout: post
 title: "9 Tips for Healthy Aging You Should Know"
 date: 2023-12-16
 description: "Nine essential strategies for aging gracefully, from functional fitness to proactive mental healthcare, to help you thrive in your later years."
-image: "/assets/img/park-bench.webp"
+image: "/assets/images/park-bench.webp"
 tags: ["Functional Fitness", "Liver Health", "Longevity", "Nutrition", "Aging Well", "Healthspan", "Prevention"]
 math: true
 toc: true
@@ -13,7 +13,7 @@ last_modified_at: 2026-05-07
 
 Aging gracefully isn't just about surviving; it is about **thriving**. This guide explores proactive steps to enhance your health and happiness as you navigate the later stages of life. Prioritizing mental wellness through mindfulness and seeking social connections can foster a sense of community and purpose. Embracing these approaches is crucial for truly flourishing. 
 
-![A contented older woman peacefully sits on a park bench soaking up sunshine]({{ site.urlimg }}{{ site.urlimg }}/assets/img/park-bench.webp)
+![A contented older woman peacefully sits on a park bench soaking up sunshine]({{ site.urlimg }}{{ site.urlimg }}/assets/images/park-bench.webp)
 *Figure 1: Sunlight and mindfulness support emotional and physiological well-being.*
 
 ---

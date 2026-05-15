@@ -5,9 +5,9 @@ permalink: /posts/lessons-from-a-2008-heart-attack-survivor/
 date: 2026-02-02
 description: "A personal look at the link between Type 2 Diabetes and cardiovascular events, including the role of GLP-1 medications in vascular protection."
 image: 
-  path: /assets/img/heart-chest-pain.webp
+  path: /assets/images/heart-chest-pain.webp
   alt: "Heart attack symptoms and chest pain illustration"
-categories: "[Cardiovascular, Patient Advocacy]"
+categories: [Cardiovascular, Patient Advocacy]
 tags: [heart-attack-survivor, diabetes, inflammation, glp-1, vascular-protection]
 math: true
 toc: true
@@ -20,7 +20,7 @@ In 2008, my life changed forever when I suffered a major heart attack. I had to 
 > **Medical Disclaimer:** This content is for informational and educational purposes only. It does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider regarding any medical condition.
 {: .prompt-warning }
 
-![Survivor Story]({{ site.urlimg }}{{ site.urlimg }}{{ '/assets/img/heart-chest-pain.webp' | relative_url }})
+![Survivor Story]({{ site.urlimg }}{{ site.urlimg }}{{ '/assets/images/heart-chest-pain.webp' | relative_url }})
 {: .normal }
 _**Figure 1:** What happened to me in 2008 involved the Left Anterior Descending (LAD) artery, commonly referred to as the **"Widow Maker."**_
 

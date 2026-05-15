@@ -5,7 +5,7 @@ permalink: /posts/medication-consistency-crucial-hypertension/
 date: 2026-02-14
 description: "When 'just a nosebleed' is a warning sign: Exploring the dangers of inconsistent blood pressure care and the importance of steady regulation."
 image: 
-  path: /assets/img/preventing-complications.webp
+  path: /assets/images/preventing-complications.webp
   alt: "Educational illustration of hypertension risks and medication consistency"
 category: "[Cardiovascular, Patient Advocacy]"
 tags: [hypertension, medication-safety, senior-health, heart-health]
@@ -20,7 +20,7 @@ We often think of high blood pressure as a numbers game we play at the doctor’
 > **Medical Disclaimer:** This content is for informational and educational purposes only. It does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider regarding any medical condition.
 {: .prompt-warning }
 
-![Preventing Complications]({{ site.urlimg }}{{ site.urlimg }}{{ '/assets/img/preventing-complications.webp' | relative_url }})
+![Preventing Complications]({{ site.urlimg }}{{ site.urlimg }}{{ '/assets/images/preventing-complications.webp' | relative_url }})
 {: .normal }
 _**Figure 1:** Following your medication instructions is the most powerful way to prevent serious complications like stroke or organ damage._
 

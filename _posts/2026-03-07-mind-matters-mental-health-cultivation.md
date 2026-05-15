@@ -4,7 +4,7 @@ title: "Mind Matters: Cultivating Mental Health in 2026"
 date: 2026-03-07
 description: "Why prioritizing mental wellness is a critical health investment and evidence-based strategies for emotional resilience."
 image: 
-  path: /assets/img/manic-depressive-disorder.webp
+  path: /assets/images/manic-depressive-disorder.webp
   alt: "Illustration of mood extremes in bipolar disorder"
 category: "[Health Research, Mental Health]"
 tags: [self-care, mental-wellness, stress-management, brain-health, senior-health]
@@ -19,7 +19,7 @@ From workplace stress and economic uncertainty to digital burnout, modern life p
 > **Medical Disclaimer:** This content is for informational and educational purposes only. It does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider regarding any medical condition.
 {: .prompt-warning }
 
-![Emotional Extremes of Bipolar Disorder]({{ site.urlimg }}{{ site.urlimg }}{{ '/assets/img/manic-depressive-disorder.webp' | relative_url }})
+![Emotional Extremes of Bipolar Disorder]({{ site.urlimg }}{{ site.urlimg }}{{ '/assets/images/manic-depressive-disorder.webp' | relative_url }})
 {: .normal }
 _**Figure 1:** A clinical visualization of the emotional extremes in bipolar disorder. Left: Manic episode (impulsivity/euphoria); Center: Brain chemical dynamics; Right: Depressive episode (isolation/subdued tones)._
 

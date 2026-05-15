@@ -4,7 +4,7 @@ title: "Unveiling Dangers: How Movie Tropes Can Impact Real-Life Safety"
 date: 2025-12-01
 description: "The 24-hour missing person rule is a myth. Learn the real health and legal risks of movie tropes and how Hollywood medicine can mislead families."
 image: 
-  path: /assets/img/missing-person-reporting.webp
+  path: /assets/images/missing-person-reporting.webp
   alt: "Illustration of the urgency in reporting missing persons"
 category: "[Patient Advocacy, Health Literacy]"
 tags: [media-literacy, safety, missing-persons, cpr, senior-health, advocacy]
@@ -21,7 +21,7 @@ This cliché scene has been repeated countless times in movies and TV shows, rei
 > **Immediate Action Required:** If someone goes missing, there is **NO** waiting period to report it to law enforcement. Time is the most critical factor for a safe recovery.
 {: .prompt-danger }
 
-![TV Myth vs Real Life]({{ site.urlimg }}{{ site.urlimg }}{{ '/assets/img/missing-person-reporting.webp' | relative_url }})
+![TV Myth vs Real Life]({{ site.urlimg }}{{ site.urlimg }}{{ '/assets/images/missing-person-reporting.webp' | relative_url }})
 {: .normal }
 _**Figure 1:** Don't wait! The critical window to find a missing person begins the moment you realize they are gone, not 24 hours later._
 

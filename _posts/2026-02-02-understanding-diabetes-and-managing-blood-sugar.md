@@ -3,7 +3,7 @@ layout: post
 title: "Understanding Diabetes And Managing Blood Sugar"
 date: 2026-02-02T00:06:00+00:00
 description: "Understanding how everyday foods influence blood sugar and energy balance."
-image: /assets/img/metabolic-illustration.webp
+image: /assets/images/metabolic-illustration.webp
 tags: ['Cognitive Health', 'Cardiovascular', 'Liver Health', 'Diabetes', 'Nutrition',]
 math: true
 toc: true
@@ -19,7 +19,7 @@ last_modified_at: 2026-05-07
 
 ---
 
-![Split-screen medical art: sugary foods spike glucose (red) vs. whole foods (blue), shown in a glowing bloodstream within a transparent body.]({{ site.urlimg }}{{ site.urlimg }}/assets/img/metabolic-illustration.webp)**Figure 1:** How food choices shape blood sugar: sugary foods trigger rapid spikes, while whole foods support steadier, healthier glucose levels.
+![Split-screen medical art: sugary foods spike glucose (red) vs. whole foods (blue), shown in a glowing bloodstream within a transparent body.]({{ site.urlimg }}{{ site.urlimg }}/assets/images/metabolic-illustration.webp)**Figure 1:** How food choices shape blood sugar: sugary foods trigger rapid spikes, while whole foods support steadier, healthier glucose levels.
 
 ## 🍎 The Food–Blood Sugar Connection
 
@@ -51,7 +51,7 @@ Emerging research links metabolic stability to lower risk of Alzheimer’s and o
 
 ---
 
-![The Standard American Diet  SAD]({{ site.urlimg }}/assets/img/sad.webp)**Figure 1:** The Standard American Diet (SAD) is characterized by a high intake of [processed foods]({{ site.urlimg }}https://www.aginghealth.website/2025/11/ultra-processed-food-health-damage-seniors.md), sugars, and unhealthy fats. Junk food meals are common in the U.S. and contribute to obesity, heart disease, and diabetes.
+![The Standard American Diet  SAD]({{ site.urlimg }}/assets/images/sad.webp)**Figure 1:** The Standard American Diet (SAD) is characterized by a high intake of [processed foods]({{ site.urlimg }}https://www.aginghealth.website/2025/11/ultra-processed-food-health-damage-seniors.md), sugars, and unhealthy fats. Junk food meals are common in the U.S. and contribute to obesity, heart disease, and diabetes.
 
 ---
 
@@ -95,7 +95,7 @@ High blood sugar acts like "shards of glass" in the bloodstream, damaging the li
 - **Nephropathy (Kidney):** The kidneys' delicate filters (nephrons) become scarred. Diabetes remains the leading cause of kidney failure in the U.S.
 - **Retinopathy (Eyes):** Small vessels in the retina leak fluid or bleed.
 
-![Normal Retina vs Diabetic Retinopathy]({{ site.urlimg }}{{ site.urlimg }}/assets/img/diabetic-retinopathy.webp)**figure 3** This illustration contrasts a healthy retina with one affected by diabetic retinopathy, highlighting microaneurysms, hemorrhages, and leaky vessels caused by long‑term high blood sugar.
+![Normal Retina vs Diabetic Retinopathy]({{ site.urlimg }}{{ site.urlimg }}/assets/images/diabetic-retinopathy.webp)**figure 3** This illustration contrasts a healthy retina with one affected by diabetic retinopathy, highlighting microaneurysms, hemorrhages, and leaky vessels caused by long‑term high blood sugar.
 
 - **Neuropathy (Nerves):** Chronic sugar toxicity damages nerve endings, often beginning in the feet. For seniors, this is the #1 risk factor for balance issues and undiagnosed infections.
 

@@ -3,7 +3,7 @@ layout: post
 title: "Chitin: A Unique Fiber for Senior Digestion and Metabolic Health"
 date: 2023-09-20
 description: "Is chitin the 'missing link' in senior gut health? Explore the evidence behind mushrooms, shellfish fiber, and the AMCase enzyme."
-image: "/assets/img/mushrooms.webp"
+image: "/assets/images/mushrooms.webp"
 tags: ["Patient Advocacy", "Metabolic Health", "Digestive Health", "Nutrition"]
 math: true
 toc: true
@@ -11,7 +11,7 @@ last_modified_at: 2026-05-07
 ---
 Chitin is a naturally occurring fiber-like compound found in mushrooms, shellfish, and even insects. While most fiber comes from plants, chitin is unique because the human body uses a specialized enzyme—**AMCase**—to break it down. 
 
-For seniors, this isn't just about "regularity"; it's about how our immune system and metabolism talk to each other. ![A variety of medicinal and culinary mushrooms rich in chitin.]({{ site.urlimg }}{{ site.urlimg }}/assets/img/mushrooms.webp)
+For seniors, this isn't just about "regularity"; it's about how our immune system and metabolism talk to each other. ![A variety of medicinal and culinary mushrooms rich in chitin.]({{ site.urlimg }}{{ site.urlimg }}/assets/images/mushrooms.webp)
 *Figure 1: Mushrooms are the safest and most effective way for seniors to add chitin to their diet.*
 
 ---

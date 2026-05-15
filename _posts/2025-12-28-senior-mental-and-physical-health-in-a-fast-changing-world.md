@@ -5,7 +5,7 @@ permalink: /posts/senior-mental-and-physical-health-fast-changing-world/
 date: 2025-12-28
 description: "Holistic strategies for longevity and mental clarity, focusing on 'age-tech,' healthcare communication, and the mind-body feedback loop."
 image: 
-  path: /assets/img/senior-male-smartwatch-tablet-video-call.webp
+  path: /assets/images/senior-male-smartwatch-tablet-video-call.webp
   alt: "Senior man using a smartwatch and tablet to stay connected"
 category: "[Patient Advocacy, Health Literacy]"
 tags: [age-tech, digital-literacy, senior-health, mental-wellness, longevity]
@@ -20,7 +20,7 @@ In the 21st century, aging isn’t just about getting by—it’s about thriving
 > **Independent Researcher’s Disclosure:** These recommendations are based solely on independent research into geriatric wellness and 2025 clinical data. I do not receive commissions or compensation from the companies or apps mentioned.
 {: .prompt-info }
 
-![Digital Empowerment]({{ site.urlimg }}{{ site.urlimg }}{{ '/assets/img/senior-male-smartwatch-tablet-video-call.webp' | relative_url }})
+![Digital Empowerment]({{ site.urlimg }}{{ site.urlimg }}{{ '/assets/images/senior-male-smartwatch-tablet-video-call.webp' | relative_url }})
 {: .normal }
 _**Figure 1:** Modern seniors are using "age-tech" to bridge the gap between physical health tracking and social connection._
 

@@ -5,7 +5,7 @@ permalink: /posts/liver-cirrhosis-what-you-need-to-know/
 date: 2023-09-02
 description: "Understanding the causes, symptoms, and treatment options for decompensated liver cirrhosis and portal hypertension."
 image: 
-  path: /assets/img/liver-cirrhosis.webp
+  path: /assets/images/liver-cirrhosis.webp
   alt: "Visual of human liver showing cirrhosis scars"
 category: "[Liver Health]"
 tags: [cirrhosis, portal-hypertension, liver-disease, esophageal-varices, patient-advocacy]
@@ -20,7 +20,7 @@ Managing decompensated liver cirrhosis is a full-time job for both the body and 
 > **Medical Disclaimer:** This content is for informational and educational purposes only. It does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider regarding any medical condition.
 {: .prompt-warning }
 
-![Liver Cirrhosis Scars]({{ site.urlimg }}{{ site.urlimg }}{{ '/assets/img/liver-cirrhosis.webp' | relative_url }})
+![Liver Cirrhosis Scars]({{ site.urlimg }}{{ site.urlimg }}{{ '/assets/images/liver-cirrhosis.webp' | relative_url }})
 {: .normal }
 _**Figure 1:** Cirrhosis is the advanced stage of liver disease, where healthy tissue is replaced by irreversible scar tissue, impairing vital functions._
 
@@ -50,7 +50,7 @@ As scar tissue blocks blood flow, pressure builds in the portal venous system. T
 * **Esophageal Varices:** These are "pressure relief valves" in the throat. Because they are thin-walled, high pressure can cause them to burst.
 * **The Role of Banding (EVL):** Endoscopic variceal band ligation is not a "one and done" fix. As I have experienced through more than ten procedures, repeated banding is a preventative strategy. It is not a sign of treatment failure; it is active maintenance.
 
-![Esophageal Varices]({{ site.urlimg }}{{ site.urlimg }}{{ '/assets/img/esophageal-varices-liver-cirrhosis.webp' | relative_url }})
+![Esophageal Varices]({{ site.urlimg }}{{ site.urlimg }}{{ '/assets/images/esophageal-varices-liver-cirrhosis.webp' | relative_url }})
 {: .normal }
 _**Figure 2:** Dilated veins (varices) develop when cirrhosis increases pressure. Regular monitoring is essential for people with advanced liver disease._
 

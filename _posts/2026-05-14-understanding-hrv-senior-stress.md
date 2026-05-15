@@ -19,7 +19,7 @@ As an independent researcher, I often examine data that can provide a window int
 However, HRV is frequently misunderstood. It is not your heart rate. Instead, it is a measurement of the complex variation in time between each heartbeat. For seniors, understanding this number is vital for managing stress and monitoring resilience.
 
 ---
-![Human silhouette with glowing heart and smartwatch showing HRV readings; calm and stressed icons, balanced vs erratic heart lines, and title “Understanding Heart Rate Variability (HRV): Your Body’s Built-in Stress Monitor.”](/assets/images/understanding-hrv-senior-stress-header.png)Learn how HRV reveals your body’s stress and recovery balance — your built‑in wellness monitor.
+![Human silhouette with glowing heart and smartwatch showing HRV readings; calm and stressed icons, balanced vs erratic heart lines, and title “Understanding Heart Rate Variability (HRV): Your Body’s Built-in Stress Monitor.”]({{ '/assets/images/understanding-hrv-senior-stress-header.png' | relative_url }})Learn how HRV reveals your body’s stress and recovery balance — your built‑in wellness monitor.
 ---
 
 ## What Exactly Is HRV?

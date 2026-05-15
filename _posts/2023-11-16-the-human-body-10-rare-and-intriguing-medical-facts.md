@@ -1,10 +1,10 @@
 ---
 title: "The Body’s Hidden Odyssey: 10+ Rare and Intriguing Medical Realities"
 date: 2026-05-05 02:38:00 -0600
-categories: "[Human Biology, Science Frontiers]"
+categories: [Human Biology, Science Frontiers]
 tags: [Chimerism, Glymphatic System, Bioelectricity, Epigenetics, Microbiome]
 image: 
-  path: /assets/img/one-body-two-genomes.webp
+  path: /assets/images/one-body-two-genomes.webp
   alt: "Infographic of human chimerism showing two genomes in one body."
 description: "Step beyond the textbooks into the world of human chimeras, nightly brain detoxes, and the electrical blueprints that guide our healing."
 math: true
@@ -56,7 +56,7 @@ Human chimeras remind us that development is not always linear or predictable.
 Sometimes biology improvises.
 Sometimes two beginnings become one life.
 
-![A visual guide to human chimeras]({{ site.urlimg }}{{ site.urlimg }}/assets/img/one-body-two-genomes.webp)
+![A visual guide to human chimeras]({{ site.urlimg }}{{ site.urlimg }}/assets/images/one-body-two-genomes.webp)
 *Figure 1: How two genomes can exist in one body, leading to mismatched eye colors or even different blood types in different tissues.*
 
 ### 2. The Nightly Detox: Your Brain’s Cleaning Crew
@@ -72,7 +72,7 @@ Glial cells act as gatekeepers, guiding the fluid through hidden channels that e
 By morning, your brain has rinsed itself clean, refreshed for memory, focus, and creativity.
 Sleep isn’t just rest—it’s maintenance, repair, and renewal at the cellular level.
 
-![The Glymphatic System and brain detox]({{ site.urlimg }}{{ site.urlimg }}/assets/img/brain-detox.webp)
+![The Glymphatic System and brain detox]({{ site.urlimg }}{{ site.urlimg }}/assets/images/brain-detox.webp)
 *Figure 2: The glymphatic system serves as the brain’s nightly detox network, flushing out toxins while you sleep.*
 
 ### 3. The Gut Microbiota: A Hidden Galaxy
@@ -92,7 +92,7 @@ Chemical messengers like serotonin, dopamine, and short‑chain fatty acids trav
 You feed them, they protect you.
 Every meal, every thought, every stress response ripples through this living network. Caring for your microbiota—through whole foods, rest, and calm—means caring for your mental clarity and immune strength.
 
-![Trillions of microorganisms in the human gut]({{ site.urlimg }}{{ site.urlimg }}/assets/img/microorganisms.webp)
+![Trillions of microorganisms in the human gut]({{ site.urlimg }}{{ site.urlimg }}/assets/images/microorganisms.webp)
 *Figure 3: This diverse community of bacteria influences everything from digestion to mental clarity.*
 
 ### 4. The Placebo Effect: The Mind’s Alchemy
@@ -122,7 +122,7 @@ Your beliefs, hopes, and interpretations are not passive thoughts—they are act
 *  *The mind doesn’t just observe the body.
 *  *It participates in its healing.
 
-![The placebo effect in action]({{ site.urlimg }}{{ site.urlimg }}/assets/img/placebo-effect.webp)
+![The placebo effect in action]({{ site.urlimg }}{{ site.urlimg }}/assets/images/placebo-effect.webp)
 *Figure 4: How expectation activates brain chemistry to spark real physiological change.*
 
 ### 5. Endogenous Opioids: Your Internal Pharmacy
@@ -149,7 +149,7 @@ In those moments, your brain releases these natural opioids, easing discomfort a
 Endogenous opioids remind us that healing isn’t always external.
 Sometimes the most powerful medicine is already inside you, waiting for the right signal to flow.
 
-![The body’s natural painkillers]({{ site.urlimg }}{{ site.urlimg }}/assets/img/endogenous-opioids.webp)
+![The body’s natural painkillers]({{ site.urlimg }}{{ site.urlimg }}/assets/images/endogenous-opioids.webp)
 *Figure 5: Your brain’s chemistry mirrors medical painkillers through natural opioids.*
 
 ### 6. Bone Remodeling: The Living Skyscraper
@@ -188,7 +188,7 @@ It repairs microfractures, maintains density, and keeps your skeleton resilient 
 
 They’re dynamic, intelligent structures—constantly rebuilding the architecture that carries you through life.
 
-![Bone remodeling process]({{ site.urlimg }}{{ site.urlimg }}/assets/img/bone-remodeling.webp)
+![Bone remodeling process]({{ site.urlimg }}{{ site.urlimg }}/assets/images/bone-remodeling.webp)
 *Figure 6: Osteoclasts and osteoblasts work together to keep bones strong and adaptive.*
 
 ### 7. Epigenetics: The Director’s Cut
@@ -229,7 +229,7 @@ You are the ongoing editor of your biological story.
 
 Your choices, your environment, your mindset—they all help direct the next scene.
 
-![Epigenetic mechanisms regulating gene expression]({{ site.urlimg }}{{ site.urlimg }}/assets/img/epigenetic-mechanisms.webp)
+![Epigenetic mechanisms regulating gene expression]({{ site.urlimg }}{{ site.urlimg }}/assets/images/epigenetic-mechanisms.webp)
 *Figure 7: How life experiences influence gene activity without altering the DNA sequence.*
 
 ### 8. Microchimerism: A Living Legacy
@@ -263,7 +263,7 @@ A mother carries pieces of her children within her—cells that may help protect
 Connection written into tissue.
 A story of healing that continues long after birth.
 
-![Fetal and maternal cell exchange]({{ site.urlimg }}{{ site.urlimg }}/assets/img/microchimerism.webp)
+![Fetal and maternal cell exchange]({{ site.urlimg }}{{ site.urlimg }}/assets/images/microchimerism.webp)
 *Figure 8: Cells from another person living inside you can influence immune function and tissue repair.*
 
 ### 9. Bioelectricity: The Spark of Life
@@ -296,7 +296,7 @@ It’s the quiet force that keeps your heart beating, your wounds closing, and y
 
 You’re circuitry—alive, dynamic, and electrically orchestrated.
 
-![The electrical blueprint of the body]({{ site.urlimg }}{{ site.urlimg }}/assets/img/bioelectricity.webp)
+![The electrical blueprint of the body]({{ site.urlimg }}{{ site.urlimg }}/assets/images/bioelectricity.webp)
 *Figure 9: Invisible currents that power thought, movement, and life itself.*
 
 ### 10. Human Hibernation: The Cold Frontier
@@ -325,7 +325,7 @@ Inducing a torpor‑like state could give doctors precious time to repair damage
 Human hibernation isn’t about sleeping through winters or space voyages… not yet.
 It’s about unlocking a survival tool hidden in biology’s playbook—one that could transform emergency medicine, trauma care, and perhaps even long‑duration space travel.
 
-![Induced torpor and human hibernation]({{ site.urlimg }}{{ site.urlimg }}/assets/img/torpor.webp)
+![Induced torpor and human hibernation]({{ site.urlimg }}{{ site.urlimg }}/assets/images/torpor.webp)
 *Figure 10: Exploring how metabolic slowing could transform medicine and space travel.*
 
 ---

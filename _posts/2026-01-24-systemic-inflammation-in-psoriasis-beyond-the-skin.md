@@ -5,9 +5,9 @@ permalink: /posts/systemic-inflammation-in-psoriasis/
 date: 2026-01-24
 description: "Why psoriasis is a chronic systemic disease: Exploring how inflammatory cytokines impact the heart, liver, and metabolic function."
 image: 
-  path: /assets/img/psoriasis-impacts-more-than-skin.webp
+  path: /assets/images/psoriasis-impacts-more-than-skin.webp
   alt: "Illustration showing psoriasis impacting internal organs through systemic inflammation"
-categories: "[Dermatology, Patient Advocacy]"
+categories: [Dermatology, Patient Advocacy]
 tags: [psoriasis, systemic-inflammation, cytokines, heart-health, health-literacy]
 math: true
 toc: true
@@ -20,7 +20,7 @@ Psoriasis has long been misunderstood as a condition limited to the skin. Modern
 > **Medical Disclaimer:** This content is for informational and educational purposes only. It does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider regarding any medical condition.
 {: .prompt-warning }
 
-![Psoriasis Impact]({{ site.urlimg }}{{ site.urlimg }}{{ '/assets/img/psoriasis-impacts-more-than-skin.webp' | relative_url }})
+![Psoriasis Impact]({{ site.urlimg }}{{ site.urlimg }}{{ '/assets/images/psoriasis-impacts-more-than-skin.webp' | relative_url }})
 {: .normal }
 _**Figure 1:** Psoriasis inflammation travels through the bloodstream to impact cardiovascular health and metabolic function._
 

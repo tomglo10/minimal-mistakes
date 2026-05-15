@@ -4,7 +4,7 @@ title: "How to Tell if You Need a New Doctor: A Checklist for Proactive Patients
 date: 2026-03-30
 description: "Five essential questions to ask your doctor to ensure they support your health autonomy and longevity goals."
 image: 
-  path: /assets/img/doctor-clown.webp
+  path: /assets/images/doctor-clown.webp
   alt: "A doctor-patient mismatch illustration"
 category: "[Health Research, Patient Advocacy]"
 tags: [doctor-patient-relationship, medical-partnership, health-literacy, senior-health]
@@ -16,7 +16,7 @@ Finding the right partner for your longevity journey is a crucial step in achiev
 
 The right [**doctor listens to your goals**]({{ '/2026/03/communicate-health-goals-annual-doctor-visit.md' | relative_url }}), respects your values, and works with you to build a plan that fits your life. Choosing someone whose expertise and approach align with your needs helps create a trusted, lasting partnership for better health.
 
-![Doctor-Patient Mismatch]({{ site.urlimg }}{{ site.urlimg }}{{ '/assets/img/doctor-clown.webp' | relative_url }})
+![Doctor-Patient Mismatch]({{ site.urlimg }}{{ site.urlimg }}{{ '/assets/images/doctor-clown.webp' | relative_url }})
 {: .normal }
 _**Figure 1:** A doctor-patient mismatch occurs when communication styles or philosophies don't align. Finding the right 'fit' is a medical necessity._
 

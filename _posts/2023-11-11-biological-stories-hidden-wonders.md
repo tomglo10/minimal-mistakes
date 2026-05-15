@@ -1,10 +1,10 @@
 ---
 title: "The Body’s Hidden Wonders: A Collection of Biological Stories"
 date: 2023-11-11 15:33:00 -0600
-categories: "[Human Anatomy, Wellness]"
+categories: [Human Anatomy, Wellness]
 tags: [Biology, Heart Health, Liver Health, Longevity]
 image: 
-  path: /assets/img/astonishing-medical-facts.webp
+  path: /assets/images/astonishing-medical-facts.webp
   alt: "An abstract collage demonstrating the uniqueness of the human body."
 description: "Discover the astonishing stories hidden within your own anatomy, from the steel-like strength of your bones to the organ that refuses to quit."
 math: true
@@ -17,7 +17,7 @@ The human body stands as a remarkable and intricate system, showcasing an array 
 
 
 ---
-![An abstract collage demonstrating the uniqueness of the human body.]({{ site.urlimg }}{{ site.urlimg }}/assets/img/astonishing-medical-facts.webp)
+![An abstract collage demonstrating the uniqueness of the human body.]({{ site.urlimg }}{{ site.urlimg }}/assets/images/astonishing-medical-facts.webp)
 **Figure 1** Astonishing human medical traits.
 
 Let’s step inside and uncover ten stories of the body’s hidden wonders.
@@ -50,7 +50,7 @@ While we sleep, eat, and work, our heart is performing a marathon that never end
 
 
 
-![Image of the human heart and circulatory system]({{ site.urlimg }}{{ site.urlimg }}/assets/img/circulatory-system-heart.webp)**Figure 2** The human heart is a powerful pump that drives the circulatory system, sending oxygen-rich blood through a vast network of arteries, capillaries, and veins to fuel every cell in the body. With each beat, it sustains life by balancing pressure, flow, and oxygen delivery—essential for energy, healing, and overall health. ❤️
+![Image of the human heart and circulatory system]({{ site.urlimg }}{{ site.urlimg }}/assets/images/circulatory-system-heart.webp)**Figure 2** The human heart is a powerful pump that drives the circulatory system, sending oxygen-rich blood through a vast network of arteries, capillaries, and veins to fuel every cell in the body. With each beat, it sustains life by balancing pressure, flow, and oxygen delivery—essential for energy, healing, and overall health. ❤️
 
 
 ### 6. The Airy Architecture of the Lungs
@@ -66,7 +66,7 @@ Every 24 hours, your kidneys filter about **150 quarts of blood**. They are the 
 
 
 
-![Image of the internal structure of a human kidney]({{ site.urlimg }}{{ site.urlimg }}/assets/img/internal-structure-kidney.webp)**Figure 3** The human kidney is made up of millions of tiny filtering units called nephrons, which clean blood by removing waste and excess fluid. Key structures include the outer cortex, inner medulla, and the collecting system (calyces and renal pelvis) that channels urine to the ureter. Blood enters through the renal artery and exits via the renal vein, while urine flows out after filtration.
+![Image of the internal structure of a human kidney]({{ site.urlimg }}{{ site.urlimg }}/assets/images/internal-structure-kidney.webp)**Figure 3** The human kidney is made up of millions of tiny filtering units called nephrons, which clean blood by removing waste and excess fluid. Key structures include the outer cortex, inner medulla, and the collecting system (calyces and renal pelvis) that channels urine to the ureter. Blood enters through the renal artery and exits via the renal vein, while urine flows out after filtration.
 
 
 ### 8. Your Protective Suit: The Skin
@@ -74,7 +74,7 @@ Your skin is your largest organ, covering nearly **two square meters**. It is a 
 
 
 
-![Image of the layers of human skin]({{ site.urlimg }}{{ site.urlimg }}/assets/img/human-skin.webp)**Figure 4** A simplified overview of the three layers of human skin—epidermis, dermis, and hypodermis—showing how they work together to protect the body, regulate temperature, and provide structure.
+![Image of the layers of human skin]({{ site.urlimg }}{{ site.urlimg }}/assets/images/human-skin.webp)**Figure 4** A simplified overview of the three layers of human skin—epidermis, dermis, and hypodermis—showing how they work together to protect the body, regulate temperature, and provide structure.
 
 
 ### 9. A Lifetime of Saliva
@@ -85,7 +85,7 @@ You aren't just one person; you are a galaxy of **30 trillion human cells**. Eac
 
 
 ---
-![Image of the human outside at night.]({{ site.urlimg }}{{ site.urlimg }}/assets/img/brain-nightwork.webp)**Figure 5** Your brain is busy at night.
+![Image of the human outside at night.]({{ site.urlimg }}{{ site.urlimg }}/assets/images/brain-nightwork.webp)**Figure 5** Your brain is busy at night.
 
 ---
 

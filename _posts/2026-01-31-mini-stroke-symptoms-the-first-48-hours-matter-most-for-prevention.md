@@ -4,7 +4,7 @@ title: "Mini-Stroke Symptoms? The First 48 Hours Matter Most"
 date: 2026-01-31
 description: "Identify TIA using BE-FAST: Balance, Eyes, Face, Arm, Speech, Time. Learn why 2026 guidelines treat mini-strokes as a 911 emergency."
 image: 
-  path: /assets/img/be-fast.webp
+  path: /assets/images/be-fast.webp
   alt: BE-FAST Stroke Identification Diagram
 category: "[Health Research, Cardiovascular]"
 tags: [stroke, tia, be-fast, heart-health, longevity]
@@ -23,7 +23,7 @@ A **transient ischemic attack (TIA)**, commonly referred to as a "mini-stroke," 
 
 Think of a TIA as a "warning stroke"—it is the strongest indicator that a major, life-altering stroke could occur imminently.
 
-![BE-FAST Protocol]({{ site.urlimg }}{{ site.urlimg }}/assets/img/be-fast.webp)
+![BE-FAST Protocol]({{ site.urlimg }}{{ site.urlimg }}/assets/images/be-fast.webp)
 _**Figure 1:** The BE-FAST protocol identifies stroke symptoms in both the front and back of the brain, a critical update to the older FAST model._
 
 ## New Standard: Think BE-FAST, Not Just FAST

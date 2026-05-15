@@ -4,7 +4,7 @@ title: "Vitamin D and Sarcopenia: The 2026 Muscle Health Update"
 date: 2026-04-26
 description: "A research update on how Vitamin D deficiency accelerates muscle loss in seniors."
 image: 
-  path: /assets/img/vitamin-d-protein.webp
+  path: /assets/images/vitamin-d-protein.webp
   alt: The Vitamin D Muscle Triad
 category: "[Health Research]"
 tags: [sarcopenia, geriatrics]
@@ -49,7 +49,7 @@ Deficiency impairs calcium handling, which reduces peak power output — particu
 
 ---
 
-![The Vitamin D Muscle Triad]({{ site.urlimg }}{{ site.urlimg }}/assets/img/vitamin-d-protein.webp)
+![The Vitamin D Muscle Triad]({{ site.urlimg }}{{ site.urlimg }}/assets/images/vitamin-d-protein.webp)
 *The Vitamin D Muscle Triad: VDR signaling, calcium handling, and mitochondrial integrity. Deficiency dampens these signals, contributing to progressive atrophy.*
 
 ---

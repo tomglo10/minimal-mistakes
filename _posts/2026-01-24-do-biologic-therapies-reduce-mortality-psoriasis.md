@@ -5,7 +5,7 @@ permalink: /posts/do-biologic-therapies-reduce-mortality-psoriasis/
 date: 2026-01-24
 description: "Exploring the link between targeted biologic therapies and reduced cardiovascular mortality in patients with moderate-to-severe psoriasis."
 image: 
-  path: /assets/img/biologics.webp
+  path: /assets/images/biologics.webp
   alt: "Scientists in a laboratory working on biologic therapies"
 category: "[Dermatology, Patient Advocacy]"
 tags: [biologics, psoriasis, inflammation, mortality-risk, cardiovascular-health]
@@ -22,7 +22,7 @@ As our understanding of the [Vascular Bridge]({{ '/posts/mini-stroke-prevention-
 > **Medical Disclaimer:** This content is for informational and educational purposes only. It does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider regarding any medical condition.
 {: .prompt-warning }
 
-![Biologic Research]({{ site.urlimg }}{{ site.urlimg }}{{ '/assets/img/biologics.webp' | relative_url }})
+![Biologic Research]({{ site.urlimg }}{{ site.urlimg }}{{ '/assets/images/biologics.webp' | relative_url }})
 {: .normal }
 _**Figure 1:** Biologic therapies represent a shift toward precision immunology, targeting internal inflammation before it damages the heart and brain._
 

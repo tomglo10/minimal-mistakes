@@ -5,7 +5,7 @@ permalink: /posts/anemia-what-you-need-to-know/
 date: 2026-02-04
 description: "A patient-centered guide to anemia: Understanding why red blood cell counts drop, the 'Hepcidin barrier' in chronic illness, and the path to effective repletion."
 image: 
-  path: /assets/img/severe-anemia-liver-disease.webp
+  path: /assets/images/severe-anemia-liver-disease.webp
   alt: "Medical illustration showing symptoms of severe anemia and liver disease"
 category: "[Hematology, Patient Advocacy]"
 tags: [anemia, iron-deficiency, cirrhosis, chronic-inflammation, health-literacy]
@@ -20,7 +20,7 @@ Feeling persistently exhausted, short of breath, or mentally foggy is often dism
 > **Medical Disclaimer:** This content is for informational and educational purposes only. It does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider regarding any medical condition.
 {: .prompt-warning }
 
-![Anemia and Liver Disease Symptoms]({{ site.urlimg }}{{ site.urlimg }}{{ '/assets/img/severe-anemia-liver-disease.webp' | relative_url }})
+![Anemia and Liver Disease Symptoms]({{ site.urlimg }}{{ site.urlimg }}{{ '/assets/images/severe-anemia-liver-disease.webp' | relative_url }})
 {: .normal }
 _**Figure 1:** Severe anemia can lead to serious health complications, especially when paired with chronic illness._
 
@@ -45,7 +45,7 @@ Red blood cells are delivery vehicles. They transport oxygen bound to **hemoglob
 
 
 
-![Iron Metabolism]({{ site.urlimg }}{{ site.urlimg }}{{ '/assets/img/iron-metabalism.webp' | relative_url }})
+![Iron Metabolism]({{ site.urlimg }}{{ site.urlimg }}{{ '/assets/images/iron-metabalism.webp' | relative_url }})
 {: .normal }
 _**Figure 2:** A visual representation of iron metabolism, showing the path from absorption to storage (ferritin) and utilization._
 

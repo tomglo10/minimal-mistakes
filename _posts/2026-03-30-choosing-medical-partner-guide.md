@@ -4,7 +4,7 @@ title: "The Ultimate 5-Step Guide to Choosing Your Medical Partner"
 date: 2026-03-30
 description: "A collaboration between Medicare Data, NIH Standards, and the AgingHealth Advocacy Model for senior longevity."
 image: 
-  path: /assets/img/medical-partner-guide.webp
+  path: /assets/images/medical-partner-guide.webp
   alt: "The Ultimate 5-Step Guide to Choosing Your Medical Partner"
 category: "[Health Research, Patient Advocacy]"
 tags: [medicare, nih, patient-advocacy, longevity, health-literacy]
@@ -16,7 +16,7 @@ last_modified_at: 2026-05-07
 
 Here is the definitive 5-step checklist to ensure your next doctor is a true partner in your health.
 
-![Medical Partner Guide Illustration]({{ site.urlimg }}{{ site.urlimg }}{{ '/assets/img/medical-partner-guide.webp' | relative_url }})
+![Medical Partner Guide Illustration]({{ site.urlimg }}{{ site.urlimg }}{{ '/assets/images/medical-partner-guide.webp' | relative_url }})
 {: .normal }
 _**Figure 1:** Choosing the right medical partner shouldn’t feel overwhelming. This 5-step guide helps older adults compare providers and feel confident in every decision._
 
@@ -66,7 +66,7 @@ To ensure your next appointment is successful, use these tools:
 1.  **[NIA Questions Worksheet (PDF)](https://www.nia.nih.gov/sites/default/files/2021-06/talking-with-your-doctor.pdf):** Stay organized during the visit.
 2.  **The AgingHealth "Doctor Breakup" Template:** Use our professional script to request records from an old office without awkwardness.
 
-![AgingHealth Decision Tree]({{ site.urlimg }}{{ site.urlimg }}{{ '/assets/img/5-step.webp' | relative_url }})
+![AgingHealth Decision Tree]({{ site.urlimg }}{{ site.urlimg }}{{ '/assets/images/5-step.webp' | relative_url }})
 {: .normal }
 _**Figure 2:** The AgingHealth Decision Tree: A strategic roadmap combining Medicare data and NIH standards with our unique communication framework._
 

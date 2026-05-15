@@ -169,7 +169,7 @@ last_modified_at: 2026-05-07
     "name": "Tommy T. Douglas",
     "url": "https://www.aginghealth.website"
   },
-  "contentUrl": "https://www.aginghealth.website/assets/img/pns-vs-cns-sci-fi.jpg",
+  "contentUrl": "https://www.aginghealth.website/assets/images/pns-vs-cns-sci-fi.jpg",
   "fileFormat": "image/jpeg",
   "width": "1920",
   "height": "1080",

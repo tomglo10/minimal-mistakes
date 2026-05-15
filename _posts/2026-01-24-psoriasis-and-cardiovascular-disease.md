@@ -5,7 +5,7 @@ permalink: /posts/psoriasis-and-cardiovascular-disease/
 date: 2026-01-24
 description: "Why heart disease is the leading cause of death in psoriasis patients: Exploring the link between chronic systemic inflammation and arterial health."
 image: 
-  path: /assets/img/heart.webp
+  path: /assets/images/heart.webp
   alt: "Illustration of the human heart"
 category: "[Cardiovascular, Dermatology]"
 tags: [psoriasis, heart-health, systemic-inflammation, atherosclerosis, stroke-prevention]
@@ -20,7 +20,7 @@ Psoriasis significantly increases the risk of **cardiovascular disease**, making
 > **Medical Disclaimer:** This content is for informational and educational purposes only. It does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider regarding any medical condition.
 {: .prompt-warning }
 
-![Psoriasis and the Heart]({{ site.urlimg }}{{ site.urlimg }}{{ '/assets/img/heart.webp' | relative_url }})
+![Psoriasis and the Heart]({{ site.urlimg }}{{ site.urlimg }}{{ '/assets/images/heart.webp' | relative_url }})
 {: .normal }
 _**Figure 1:** Psoriasis is an inflammatory fire that can spread beyond the skin into the coronary arteries._
 

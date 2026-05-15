@@ -10,7 +10,7 @@ last_modified_at: 2026-05-07
 ---
 Researchers are delving into the complexities surrounding the effects of incarceration and how these impacts differ between genders. A recent study spearheaded by **Melinda Tasca, Ph.D.**, an associate professor at the University of Texas at El Paso (UTEP), examined the behaviors of more than 20,000 individuals.
 
-![Two women prisoners in orange prison clothes standing in a cell.]({{ site.urlimg }}{{ site.urlimg }}/assets/img/prison-women.webp)
+![Two women prisoners in orange prison clothes standing in a cell.]({{ site.urlimg }}{{ site.urlimg }}/assets/images/prison-women.webp)
 *The issue of gender disparity within the prison system is a pressing concern, as female inmates encounter distinct challenges that set them apart from their male counterparts.*
 
 ---

@@ -1,11 +1,11 @@
 ---
 title: "The Protein Paradox: Ten Signs You Aren't Eating Enough"
 date: 2026-05-05 18:26:00 -0600
-categories: "[Nutrition, Longevity]"
+categories: [Nutrition, Longevity]
 tags: [Protein, Muscle Health, Metabolism, Senior Nutrition, Amino Acids]
 math: true
 image: 
-  path: /assets/img/fatigue.webp
+  path: /assets/images/fatigue.webp
   alt: "A weary middle-aged man shuffles down a street, symbolizing protein-deficiency fatigue."
 description: "Proteins are the building blocks of life. Discover the ten signs of deficiency and how to calculate your 2026 senior protein targets."
 toc: true
@@ -24,7 +24,7 @@ For seniors, protein isn't just about strength—it’s about **Vascular Defense
 
 ---
 
-![Protein deficiency fatigue]({{ site.urlimg }}{{ site.urlimg }}/assets/img/fatigue.webp)
+![Protein deficiency fatigue]({{ site.urlimg }}{{ site.urlimg }}/assets/images/fatigue.webp)
 _Figure 1: Persistent fatigue is often the first warning sign that the body is harvesting muscle for energy._
 
 ---
@@ -77,7 +77,7 @@ A lack of protein can disrupt your **Circadian Rhythm**.
 
 ---
 
-![The biochemical pathway from tryptophan to serotonin and melatonin, with glowing molecular structures and arrows labeled with enzymatic steps]({{ site.urlimg }}{{ site.urlimg }}/assets/img/tryptophan-serotonin-melatonin-pathway.webp)_Figure 2: The tryptophan–serotonin–melatonin pathway visualized as a luminous molecular cascade—linking mood, circadian rhythm, and sleep through sequential enzymatic transformations._
+![The biochemical pathway from tryptophan to serotonin and melatonin, with glowing molecular structures and arrows labeled with enzymatic steps]({{ site.urlimg }}{{ site.urlimg }}/assets/images/tryptophan-serotonin-melatonin-pathway.webp)_Figure 2: The tryptophan–serotonin–melatonin pathway visualized as a luminous molecular cascade—linking mood, circadian rhythm, and sleep through sequential enzymatic transformations._
 
 ---
 

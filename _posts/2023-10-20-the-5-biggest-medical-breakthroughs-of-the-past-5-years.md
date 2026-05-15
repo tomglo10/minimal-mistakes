@@ -3,7 +3,7 @@ layout: post
 title: "The 5 Biggest Medical Breakthroughs of the Past 5 Years"
 date: 2023-10-20T00:53:00+00:00
 description: "Explore the top medical breakthroughs of the past five years, from mRNA vaccines to AI diagnostics and organ transplantation advances."
-image: /assets/img/ai-research.webp
+image: /assets/images/ai-research.webp
 tags: 
 math: true
 toc: true
@@ -19,7 +19,7 @@ The past five years have delivered some of the most transformative medical break
 
 ---
 
-![Doctor viewing a 3D holographic medical scan, symbolizing the integration of AI and advanced imaging in modern healthcare.]({{ site.urlimg }}{{ site.urlimg }}/assets/img/ai-research.webp)
+![Doctor viewing a 3D holographic medical scan, symbolizing the integration of AI and advanced imaging in modern healthcare.]({{ site.urlimg }}{{ site.urlimg }}/assets/images/ai-research.webp)
 *The future of medicine is here: AI-powered imaging and diagnostics are transforming how we understand and treat diseases, bringing unprecedented precision to patient care.*
 
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Let It Rip: The Healthy Truth About Farting"
 date: 2023-10-18
 description: "A science-backed look at gas, gut health, and why passing wind is a critical sign of a functioning digestive system."
-image: "/assets/img/fart.webp"
+image: "/assets/images/fart.webp"
 tags: ["Liver Health", "Immune Health", "Stress", "Digestive"]
 math: true
 toc: true
@@ -15,7 +15,7 @@ Farting is normal, healthy, and often a sign that your gut is doing exactly what
 
 > **Medical Disclaimer:** This content is for informational and educational purposes only. Always consult a qualified healthcare provider regarding any medical condition.
 
-![A person laughing playfully about digestion]({{ site.urlimg }}{{ site.urlimg }}/assets/img/fart.webp)
+![A person laughing playfully about digestion]({{ site.urlimg }}{{ site.urlimg }}/assets/images/fart.webp)
 *Don't hold it in! Passing gas is a sign of an active, healthy microbiome.*
 
 ---

@@ -4,7 +4,7 @@ title: "Plexin-B1 Clinical Trials: The 2026 Update"
 date: 2026-04-03
 description: "A research summary regarding metabolic waste clearance and neuro-inflammatory markers."
 image: 
-  path: /assets/img/astrocyte-amyloid-interactions.webp
+  path: /assets/images/astrocyte-amyloid-interactions.webp
   alt: Illustration of astrocyte-amyloid interactions.
 tags: ["Clinical Research", "Neurology", "Metabolic Health"]
 math: true
@@ -17,7 +17,7 @@ As a health researcher, I’ve been tracking the shift from simple amyloid-clear
 
 ---
 
-![Illustration of astrocyte-amyloid interaction in a clinical setting.]({{ site.urlimg }}{{ site.urlimg }}/assets/img/astrocyte-amyloid-interactions.webp)
+![Illustration of astrocyte-amyloid interaction in a clinical setting.]({{ site.urlimg }}{{ site.urlimg }}/assets/images/astrocyte-amyloid-interactions.webp)
 *Figure 1: Retraining the Brain—Clinical trials in 2026 are focusing on calming "angry" astrocytes and restoring their ability to corral toxic proteins via the Plexin-B1 pathway.*
 
 ---

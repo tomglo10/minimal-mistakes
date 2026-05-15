@@ -5,7 +5,7 @@ permalink: /posts/quitting-smoking-psoriasis-inflammation/
 date: 2026-02-16
 description: "A 7-year reflection on how nicotine cessation fundamentally shifts systemic inflammation and improves plaque psoriasis outcomes."
 image: 
-  path: /assets/img/the-smoker.webp
+  path: /assets/images/the-smoker.webp
   alt: "Illustration of the burden of nicotine addiction on health"
 category: "[Patient Advocacy, Lifestyle]"
 tags: [psoriasis, smoking-cessation, inflammation, cytokines, skin-health]
@@ -22,7 +22,7 @@ As someone who recently hit a seven-year "quit-anniversary," I can tell you that
 > **Medical Disclaimer:** This content is for informational and educational purposes only. It does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider regarding any medical condition.
 {: .prompt-warning }
 
-![The Impact of Nicotine]({{ site.urlimg }}{{ site.urlimg }}{{ '/assets/img/the-smoker.webp' | relative_url }})
+![The Impact of Nicotine]({{ site.urlimg }}{{ site.urlimg }}{{ '/assets/images/the-smoker.webp' | relative_url }})
 {: .normal }
 _**Figure 1:** Nicotine addiction acts as a systemic chemical trigger, keeping the immune system in a state of high alert and worsening plaque symptoms._
 

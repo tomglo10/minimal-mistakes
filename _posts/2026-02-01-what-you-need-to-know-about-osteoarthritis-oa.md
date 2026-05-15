@@ -3,7 +3,7 @@ layout: post
 title: "What You Need to Know About Osteoarthritis (OA)"
 date: 2026-02-01T02:45:00+00:00
 description: "Osteoarthritis (OA) is the most common form of arthritis. Learn causes, symptoms, risk factors, treatment options, and how to manage joint pain effectively."
-categories: "[Aging Well]"
+categories: [Aging Well]
 tags: [Osteoarthritis, Arthritis, Joint Health, Clinical Research, Nutrition]
 image: 
   path: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbyGjKqD5PzPQBNNmeUo16P0IIOLtv5AR9Z5LjM7Fmohd0gtURzag3Hzm91esbJcJ9WoBEL7VusBOCJTeKZlA8tGAiPqgbbPCctYgJckaqRiTeuBedc9izPD76UGog5ciaLU0NNCi4dlkwThSlmkonTINUdrbxf6iH0i7oQvqtMQ6-Wi0-BMX6QYsdMa27/s16000/An%20older%20man%20with%20hands%20intertwined%20crippled%20by%20arthritis%20pain%20and%20stiffness.webp

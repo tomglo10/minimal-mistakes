@@ -4,9 +4,9 @@ title: "Brain Health: Is Alzheimer’s Really Type 3 Diabetes?"
 date: 2026-02-03 06:46:00 -0500
 description: "Is Alzheimer’s ‘Type 3 diabetes’? A patient-researcher explains brain insulin resistance, glucose spikes, and practical steps to support cognitive health."
 image: 
-  path: /assets/img/metabolic-connection.webp
+  path: /assets/images/metabolic-connection.webp
   alt: "Conceptual illustration of the metabolic connection between Alzheimer's disease and diabetes."
-categories: "[Neurology, Prevention & Longevity]"
+categories: [Neurology, Prevention & Longevity]
 tags: [Cognitive Health, Cardiovascular, Type 2 Diabetes, Clinical Research, Inflammation]
 permalink: /posts/brain-health-is-alzheimers-really-type-3-diabetes/
 math: true
@@ -27,7 +27,7 @@ Emerging clinical research suggests a concerning theory: Alzheimer’s may actua
 > **Medical Disclaimer:** This content is for informational and educational purposes only and does not replace professional medical advice. Always consult a qualified healthcare provider.
 {: .prompt-warning }
 
-![Neural Pathways and Glucose]({{ site.urlimg }}{{ site.urlimg }}{{ '/assets/img/neural-pathways.webp' | relative_url }})
+![Neural Pathways and Glucose]({{ site.urlimg }}{{ site.urlimg }}{{ '/assets/images/neural-pathways.webp' | relative_url }})
 {: .normal }
 _**Figure 1:** Researchers increasingly describe Alzheimer’s as “Type 3 diabetes,” highlighting a metabolic failure where neurons lose the ability to use glucose efficiently._
 

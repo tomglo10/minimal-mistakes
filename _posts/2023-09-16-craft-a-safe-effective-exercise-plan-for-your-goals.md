@@ -3,7 +3,7 @@ layout: post
 title: " Craft a Safe, Effective Exercise Plan for Your Goals"
 date: 2023-09-16T16:11:00+00:00
 description: "Create an exercise plan that works for you and helps you achieve fitness goals. Learn how to choose the right activities, and set realistic goals."
-image: "/assets/img/exercising.webp"
+image: "/assets/images/exercising.webp"
 tags: ['Senior Longevity', 'Cardiovascular', 'Functional Fitness', 'Immune Health']
 math: true
 toc: true
@@ -25,7 +25,7 @@ balance for older adults
 This content is for educational purposes only and does not replace professional medical advice. Always consult a qualified healthcare provider.
 </div>
 
-![Older adults exercising with resistance bands at home]({{ site.urlimg }}{{ site.urlimg }}/assets/img/exercising.webp)
+![Older adults exercising with resistance bands at home]({{ site.urlimg }}{{ site.urlimg }}/assets/images/exercising.webp)
 *Figure 1: Gentle resistance band exercise for older adults in a safe home environment.*
 
 

@@ -1,10 +1,10 @@
 ---
 title: "The Science of Turning Back the Clock: 2026 Aging Advances"
 date: 2026-05-04 14:46:00 -0600
-categories: "[Longevity, Clinical Research]"
+categories: [Longevity, Clinical Research]
 tags: [Longevity, Epigenetics, IL-11, Senolytics, Metabolic Health]
 image: 
-  path: /assets/img/biological-age-reversal.webp
+  path: /assets/images/biological-age-reversal.webp
   alt: "Illustration of cells transitioning from aged to youthful states."
 description: "A 2026 guide to the breakthroughs in biological age reversal, including epigenetic reprogramming, senolytics, and IL-11 inflammation control."
 math: true
@@ -24,7 +24,7 @@ This guide helps you understand the 2026 science, evaluate emerging therapies, a
 
 ---
 
-![Biological age reversal illustration]({{ site.urlimg }}{{ site.urlimg }}/assets/img/biological-age-reversal.webp)
+![Biological age reversal illustration]({{ site.urlimg }}{{ site.urlimg }}/assets/images/biological-age-reversal.webp)
 *Visual representation of restoring cellular systems to more youthful function via 2026 biotechnology.*
 
 ---

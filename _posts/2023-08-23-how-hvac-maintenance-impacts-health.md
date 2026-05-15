@@ -3,7 +3,7 @@ layout: post
 title: "Breathe Easy: How HVAC Maintenance Impacts Your Health"
 date: 2023-08-23
 description: "A guide to how seasonal HVAC maintenance improves indoor air quality, reduces respiratory risks, and promotes overall wellness."
-image: "/assets/img/hvac.webp"
+image: "/assets/images/hvac.webp"
 tags: ["Respiratory", "Home-Safety", "Allergies", "Prevention"]
 math: true
 toc: true
@@ -15,7 +15,7 @@ In today's world, where we spend a significant portion of our lives indoors, ind
 
 Your HVAC (Heating, Ventilation, and Air Conditioning) system is your home's primary "lung." Regular maintenance is not just about efficiency; it is a vital step in [safeguarding your respiratory health](/2025/09/essential-health-screenings-seniors-aging.md).
 
-![HVAC maintenance ensures health]({{ site.urlimg }}{{ site.urlimg }}/assets/img/air-quality.webp)
+![HVAC maintenance ensures health]({{ site.urlimg }}{{ site.urlimg }}/assets/images/air-quality.webp)
 Figure 1: Regular HVAC maintenance ensures a healthy and comfortable home environment.
 
 ---

@@ -5,7 +5,7 @@ permalink: /posts/big-six-pillars-optimal-aging-health/
 date: 2026-02-22
 description: "Nutrition, Movement, Connection, Sleep, Stress, and Mental Health: The six pillars that form the foundation of geriatric health literacy."
 image: 
-  path: /assets/img/big-6-vascular-safety-net.webp
+  path: /assets/images/big-6-vascular-safety-net.webp
   alt: "The Big 6: Building a Vascular Safety Net for Optimal Aging"
 category: "[Patient Advocacy, Health Literacy]"
 tags: [senior-health, wellness-pillars, longevity, vascular-health]
@@ -22,7 +22,7 @@ These aren't just lifestyle choices; they are the **"Vascular Bridge"** that sup
 > **Patient Advocate Note:** These six pillars are the building blocks for a balanced lifestyle. Always consult your healthcare partner before making significant changes to your routine.
 {: .prompt-info }
 
-![Vascular Safety Net]({{ site.urlimg }}{{ site.urlimg }}{{ '/assets/img/big-6-vascular-safety-net.webp' | relative_url }})
+![Vascular Safety Net]({{ site.urlimg }}{{ site.urlimg }}{{ '/assets/images/big-6-vascular-safety-net.webp' | relative_url }})
 {: .normal }
 _**Figure 1:** Building a foundation that supports the heart, liver, and brain simultaneously._
 

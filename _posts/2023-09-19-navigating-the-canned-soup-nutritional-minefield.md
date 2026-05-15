@@ -3,7 +3,7 @@ layout: post
 title: "Navigating the Canned Soup Nutritional Minefield"
 date: 2023-09-19T01:44:00+00:00
 description: "Decode canned soup labels to spot hidden sodium and additives, and choose safer options, especially for those with heart, kidney, or metabolic conditions."
-image: "/assets/img/soup.webp"
+image: "/assets/images/soup.webp"
 tags: ['Immune Health', 'Heart Health', 'Diabetes', 'Nutrition']
 math: true
 toc: true
@@ -14,7 +14,7 @@ last_modified_at: 2026-05-07
 
 ---
 
-![Artistic painting of a canned soup floating in swirling green mist, representing hidden sodium, additives, and nutritional concerns.]({{ site.urlimg }}{{ site.urlimg }}/assets/img/soup.webp)
+![Artistic painting of a canned soup floating in swirling green mist, representing hidden sodium, additives, and nutritional concerns.]({{ site.urlimg }}{{ site.urlimg }}/assets/images/soup.webp)
 *Figure 1: Canned soups often contain high sodium and ultra‑processed additives. Learning to read labels and **understand ingredients helps consumers choose safer options** for heart, kidney, and metabolic health.*
 
 ---
@@ -63,7 +63,7 @@ last_modified_at: 2026-05-07
 
 ---
   
-![Food → can lining → BPA migration → hormonal pathways.]({{ site.urlimg }}{{ site.urlimg }}/assets/img/understanding.webp)
+![Food → can lining → BPA migration → hormonal pathways.]({{ site.urlimg }}{{ site.urlimg }}/assets/images/understanding.webp)
 *Figure 1: An AI food‑safety agent that explains how BPA can migrate from can linings into food and disrupt hormonal pathways, helping consumers understand risks and choose safer options.*
 
 

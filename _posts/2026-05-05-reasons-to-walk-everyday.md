@@ -2,10 +2,10 @@
 layout: post
 title: "Step Up Your Wellness: 10 Reasons to Walk Every Day in 2026"
 date: 2026-05-05 16:57:00 -0600
-categories: "[Exercise, Longevity]"
+categories: [Exercise, Longevity]
 tags: [Walking, Heart Health, Diabetes, Mental Health, Sarcopenia]
 image: 
-  path: /assets/img/infograghic-reasons-walk.webp
+  path: /assets/images/infograghic-reasons-walk.webp
   alt: "Medical infographic showing an older couple walking with illustrated health benefits."
 description: "Discover why walking is the ultimate longevity tool for seniors, from blood sugar control to cognitive resilience and immune support."
 published: true
@@ -24,7 +24,7 @@ Walking is more than just a basic form of exercise—it is a powerful tool for i
 
 ---
 
-![Walking for health benefits]({{ site.urlimg }}{{ site.urlimg }}/assets/img/infograghic-reasons-walk.webp)
+![Walking for health benefits]({{ site.urlimg }}{{ site.urlimg }}/assets/images/infograghic-reasons-walk.webp)
 _Figure 1: Walking every day supports the heart-brain axis—a simple habit that strengthens the body while improving sleep and longevity._
 
 ---

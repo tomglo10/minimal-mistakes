@@ -3,7 +3,7 @@ layout: post
 title: "Strong Bones: Build Stronger, Denser Bones at Any Age"
 date: 2024-02-01
 description: "A clinical guide to osteogenic loading, nutrient synergy, and building bone density to preserve independence at any age."
-image: "/assets/img/strong-bones.webp"
+image: "/assets/images/strong-bones.webp"
 tags: ["Cardiovascular", "Nutrition", "Prevention", "Bones"]
 math: true
 toc: true
@@ -13,7 +13,7 @@ last_modified_at: 2026-05-07
 
 Maintaining strong bones isn’t just about avoiding fractures -- it’s about preserving independence, mobility, and quality of life. Bone density naturally declines with age, but the decline is not inevitable. With the right habits, seniors can build stronger, denser bones well into their 70s and 80s. ---
 
-![Medical illustration of bone microarchitecture and density]({{ site.urlimg }}{{ site.urlimg }}/assets/img/strong-bones.webp)
+![Medical illustration of bone microarchitecture and density]({{ site.urlimg }}{{ site.urlimg }}/assets/images/strong-bones.webp)
 *Figure 1: Bone strength is vital for health, offering support, protecting organs, anchoring muscles, and storing calcium.*
 
 ---
