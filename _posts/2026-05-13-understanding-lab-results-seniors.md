@@ -9,8 +9,8 @@ read_time: true
 share: true
 related: true
 header: 
-image: /assets/images/lab-results-guide.webp
-og_image: /assets/images/lab-results-guide.webp
+overlay-image: /assets/images/lab-results-guide.webp
+teaser: /assets/images/lab-results-guide.webp
 ---
 
 Navigating medical care often feels like learning a second language. Between the acronyms and the ranges, a simple blood work report can look more like a math puzzle than a health update. 
