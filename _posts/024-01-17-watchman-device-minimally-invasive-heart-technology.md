@@ -3,10 +3,11 @@ layout: single
 title: "Watchman Device: Minimally Invasive Heart Technology"
 date: 2024-01-17
 description: "A patient-centered review of the Watchman implant as a stroke-prevention alternative for those who cannot tolerate blood thinners."
-image: "/assets/images/heart-rhythm.webp"
+header:
+overlay_image: /assets/images/heart-rhythm.webp
+teaser: /assets/images/heart-rhythm.webp
 tags: ["Metabolic", "Heart Health", "Patient Advocacy"]
-math: true
-toc: true
+
 last_modified_at: 2026-05-07
 ---
 ## AFib & The Watchman: A Shield Against Stroke
@@ -15,7 +16,7 @@ For those of us living with Atrial Fibrillation (AFib), the fear of stroke is a 
 
 ---
 
-![Normal heart rhythm vs Atrial Fibrillation comparison]({{ site.urlimg }}{{ site.urlimg }}/assets/images/heart-rhythm.webp)
+![Normal heart rhythm vs Atrial Fibrillation comparison]({{ site.baseurl }}/assets/images/heart-rhythm.webp)
 *Figure 1: Normal heart rhythm follows a steady pattern. In AFib, chaotic electrical signals in the upper chambers increase the risk of blood clots and stroke.*
 
 ---
