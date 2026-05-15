@@ -4,9 +4,7 @@ title: "Aging Health Research Library"
 entries_layout: grid
 classes: wide
 author_profile: true
-header:
-  overlay_image: /assets/images/research-header.webp # Use your .webp clinical image
-  overlay_filter: 0.5
+paginate: 12
 ---
 
 Welcome to the Aging Health clinical library. Use the grid below to browse recent 
