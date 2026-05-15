@@ -4,11 +4,11 @@ title: "Aging Health Research Library"
 entries_layout: grid
 classes: wide
 author_profile: true
-paginate: 12
+paginate: true
 ---
 
-Welcome to the Aging Health clinical library. Use the grid below to browse recent 
-investigations, or click into a category for targeted research.
+Welcome to the Aging Health clinical library. Below you will find our latest 
+investigations into geriatric health literacy and longevity.
 
 ---
 
