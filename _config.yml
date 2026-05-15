@@ -1,98 +1,32 @@
-# Theme Settings
-# If hosting on GitHub Pages, use remote_theme. 
-remote_theme: "mmistakes/minimal-mistakes"
-minimal_mistakes_skin: "mint" # Try "air" or "mint" for a clean health-focused look
-
-# Site Settings
-locale: "en-US"
-title: "Aging-Health"
-title_separator: "-"
-subtitle: "Patient Advocacy & Geriatric Literacy"
-name: "Tommy T Douglas"
-description: "Independent health research and patient advocacy focusing on geriatric health literacy, clinical data interpretation, and longevity."
-
-# CRITICAL: Update these before deploying
-url: "https://aginghealth.website" 
-baseurl: "" 
-
-repository: "tomglo10/minimal-mistakes"
-teaser: # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-words_per_minute: 200
-
-# Features
-breadcrumbs: true
-search: true
-search_full_content: true
-enable_copy_code_button: true
-
-# Site Author
-author:
-  name: "Tommy T Douglas"
-  avatar: "/assets/images/bio-photo.webp" # Make sure this file exists!
-  bio: "Independent health researcher and patient advocate."
-  location: "USA" 
-  links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope"
-      url: "mailto:tommglo@gmail.com"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/tomglo10"
-
-# Reading Files
-include:
-  - .htaccess
-  - _pages
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - node_modules
-  - vendor/bundle/
-  - vendor/cache/
-  - .bundle/
-  - .jekyll-cache/
-
-# Markdown Processing
-markdown: kramdown
-highlighter: rouge
-kramdown:
-  input: GFM
-  hard_wrap: false
-  auto_ids: true
-  footnote_nr: 1
-  entity_output: as_char
-  toc_levels: 1..6
-
-# Plugins
-plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-  - jekyll-include-cache
-  
 # Pagination Settings
 paginate: 12
 paginate_path: "/page:num/"
+
 # Front Matter Defaults
 defaults:
   - scope:
-      path: ""          # an empty string here means all files in the project
-      type: "posts"     # specifically targets everything in the _posts folder
+      path: ""          # all files in project
+      type: "posts"     # specifically targets _posts folder
     values:
       layout: "single"
       author_profile: true
       read_time: true
       share: true
       related: true
-      toc: true
       math: true
       comments: true
+      # Sidebar & TOC Settings moved here to work globally:
+      toc: true
+      toc_label: "Research Highlights"
+      toc_icon: "heart-pulse"
+      toc_sticky: true
+
+# Comment Settings
 comments:
   provider: "giscus"
   giscus:
     repo_id: "R_kgDOSdr1qQ"
-    category: "Senior Healtk"          # Replace with your chosen category name
+    category: "Senior Healtk" 
     category_id: "DIC_kwDOSdr1qc4C9Itp"
     mapping: "pathname"
     strict: "0"
@@ -100,9 +34,6 @@ comments:
     input_position: "bottom"
     theme: "light"
     lang: "en"
-      # Add these four lines to fix the right sidebar:
-      toc: true
-      toc_label: "On this page"
-      toc_icon: "heart-pulse"
-      toc_sticky: true
+
+# URL Structure
 permalink: /posts/:title/
