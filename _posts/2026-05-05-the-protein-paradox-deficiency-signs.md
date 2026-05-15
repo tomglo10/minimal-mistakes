@@ -4,11 +4,16 @@ date: 2026-05-05 18:26:00 -0600
 categories: [Nutrition, Longevity]
 tags: [Protein, Muscle Health, Metabolism, Senior Nutrition, Amino Acids]
 math: true
-image: 
-  path: /assets/images/fatigue.webp
-  alt: "A weary middle-aged man shuffles down a street, symbolizing protein-deficiency fatigue."
-description: "Proteins are the building blocks of life. Discover the ten signs of deficiency and how to calculate your 2026 senior protein targets."
+author_profile: true
+read_time: true
+share: true
+related: true
 toc: true
+header: 
+  overlay_image: /assets/images/fatigue.webp
+  teaser: /assets/images/fatigue.webp
+ excerpt:"A weary middle-aged man shuffles down a street, symbolizing protein-deficiency fatigue."
+description: "Proteins are the building blocks of life. Discover the ten signs of deficiency and how to calculate your 2026 senior protein targets."
 last_modified_at: 2026-05-07
 ---
 ## The Building Blocks of Life: Are You Consuming Enough?
@@ -24,7 +29,7 @@ For seniors, protein isn't just about strength—it’s about **Vascular Defense
 
 ---
 
-![Protein deficiency fatigue]({{ site.urlimg }}{{ site.urlimg }}/assets/images/fatigue.webp)
+![Protein deficiency fatigue]({{ site.urlimg }}{{ site.urlimg }({{ '/assets/images/fatigue.webp| relative_url }})  
 _Figure 1: Persistent fatigue is often the first warning sign that the body is harvesting muscle for energy._
 
 ---
