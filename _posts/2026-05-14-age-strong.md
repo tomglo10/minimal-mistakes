@@ -38,6 +38,8 @@ Many seniors hesitate to start strength training due to:
 
 Research shows that **fear of injury and falling is one of the most common barriers to physical activity in older adults**. [3](https://academic.oup.com/ageing/article/53/4/afae080/7655770)[4](https://bmjopen.bmj.com/content/bmjopen/15/8/e095260.full.pdf)
 
+---
+
 **Psychological shift:**
 > Replace “I might get hurt” with “This helps me stay independent.”
 
