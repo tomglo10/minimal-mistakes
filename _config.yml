@@ -88,7 +88,18 @@ defaults:
       toc: true
       math: true
       comments: true
-
+comments:
+  provider: "giscus"
+  giscus:
+    repo_id: "R_kgDOSdr1qQ"
+    category: "Senior Healtk"          # Replace with your chosen category name
+    category_id: "DIC_kwDOSdr1qc4C9Itp"
+    mapping: "pathname"
+    strict: "0"
+    reactions_enabled: "1"
+    input_position: "bottom"
+    theme: "light"
+    lang: "en"
       # Add these four lines to fix the right sidebar:
       toc: true
       toc_label: "On this page"
