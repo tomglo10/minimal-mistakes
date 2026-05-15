@@ -5,9 +5,9 @@ date: 2026-05-05 16:57:00 -0600
 categories: [Exercise, Longevity]
 tags: [Walking, Heart Health, Diabetes, Mental Health, Sarcopenia]
 header:
- overlay-_image: /assets/images/heart-rhythm.webp
- teaser: /assets/images/heart-rhythm.webp
- excerpt: "Medical infographic showing an older couple walking with illustrated health benefits."
+  overlay_image: /assets/images/heart-rhythm.webp
+  teaser: /assets/images/heart-rhythm.webp
+  excerpt: "Medical infographic showing an older couple walking with illustrated health benefits."
 description: "Discover why walking is the ultimate longevity tool for seniors, from blood sugar control to cognitive resilience and immune support."
 last_modified_at: 2026-05-07
 
@@ -23,7 +23,7 @@ Walking is more than just a basic form of exercise—it is a powerful tool for i
 
 ---
 
-![Walking for health benefits]({{ '/assets/images/infograghic-reasons-walk.webp' | relative_url }})  
+![Walking for health benefits]({{ site.baseurl }}/assets/images/infograghic-reasons-walk.webp)
 _Figure 1: Walking every day supports the heart-brain axis—a simple habit that strengthens the body while improving sleep and longevity._
 
 ---
