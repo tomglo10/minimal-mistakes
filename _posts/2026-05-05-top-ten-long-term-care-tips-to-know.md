@@ -4,8 +4,10 @@ date: 2026-05-05 20:42:00 -0600
 categories: [Senior Advocacy, Long-Term Care]
 tags: [NIA, NIH, Caregiving, Aging in Place, Health Literacy]
 header:
- overlay_image: /assets/images/elderly-waiting.webp
- teaser: "An elderly man in a wheelchair, illustrating the importance of proactive care planning."
+header:
+  overlay_image: /assets/images/elderly-waiting.webp
+  teaser: /assets/images/elderly-waiting.webp
+excerpt: "An elderly man in a wheelchair, illustrating the importance of proactive care planning."
 description: "A 2026 guide to long-term care planning based on National Institute on Aging (NIA) standards, featuring a decision tree for families and caregivers."
 author_profile: true
 read_time: true
