@@ -1,4 +1,5 @@
 ---
+layout: single
 title: "The Protein Paradox: Ten Signs You Aren't Eating Enough"
 date: 2026-05-05 18:26:00 -0600
 categories: [Nutrition, Longevity]
@@ -9,13 +10,14 @@ read_time: true
 share: true
 related: true
 toc: true
-header: 
+header:
   overlay_image: /assets/images/fatigue.webp
   teaser: /assets/images/fatigue.webp
- excerpt:"A weary middle-aged man shuffles down a street, symbolizing protein-deficiency fatigue."
+excerpt: "A weary middle-aged man shuffles down a street, symbolizing protein-deficiency fatigue."
 description: "Proteins are the building blocks of life. Discover the ten signs of deficiency and how to calculate your 2026 senior protein targets."
 last_modified_at: 2026-05-07
 ---
+
 ## The Building Blocks of Life: Are You Consuming Enough?
 
 Proteins are far more than just "muscle fuel." Every protein in your body possesses a distinct sequence of amino acids that defines its structure and function. These sequences, encoded by your genes, are the primary dictators of your biological activity. 
@@ -29,15 +31,13 @@ For seniors, protein isn't just about strength—it’s about **Vascular Defense
 
 ---
 
-![Protein deficiency fatigue]({{ site.urlimg }}{{ site.urlimg }({{ '/assets/images/fatigue.webp| relative_url }})  
+![Protein deficiency fatigue]({{ '/assets/images/fatigue.webp' | relative_url }})  
 _Figure 1: Persistent fatigue is often the first warning sign that the body is harvesting muscle for energy._
 
 ---
 
 ## 1. Persistent Fatigue and the "Silent Harvest"
 When your diet lacks sufficient protein, your body turns to its only available reserve: **Your Muscles.** Through a process called **Muscle Catabolism**, your liver converts muscle tissue into glucose for energy. 
-
-
 
 This harvest disrupts your metabolic balance, leading to a build-up of metabolic waste and a drop in **Leptin** (your energy-regulating hormone). The result? You feel weary even after a full night's sleep.
 
