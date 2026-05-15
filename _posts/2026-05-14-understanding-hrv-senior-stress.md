@@ -58,3 +58,4 @@ To use this clinical tool, you only need to follow these three steps to begin un
 ## Interpeting the Numbers
 
 HRV is a complex topic, but its application is simple: **Listen to the feedback your body provides.** Helping patients advocate for themselves starts with having the right information. Use HRV to gain the insight you need to proactively manage your longevity and health literacy journey.
+
