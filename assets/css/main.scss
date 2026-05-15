@@ -4,32 +4,50 @@
 
 @charset "utf-8";
 
-@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'mint' }}"; 
-@import "minimal-mistakes"; 
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'mint' }}";
+@import "minimal-mistakes";
 
-/* CENTER EVERYTHING UNIT */
+/* -----------------------------------------------------------
+   GLOBAL WRAPPER — centers entire site cleanly
+----------------------------------------------------------- */
 .wrapper {
-  max-width: 1280px; 
-  margin: 0 auto;
+  max-width: 1280px;
+  margin-left: auto;
+  margin-right: auto;
   display: flex;
   justify-content: center;
 }
 
+/* -----------------------------------------------------------
+   MAIN AREA — prevents over-expansion on ultra-wide screens
+----------------------------------------------------------- */
 #main {
-width: 100%;max-width:1800px;
-  margin: 0 auto;
+  width: 100%;
+  max-width: 1800px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
-/* CENTER THE 925px CONTENT */
-.initial-content, 
+/* -----------------------------------------------------------
+   ARTICLE BODY — clean 925px readable column
+   Works for posts, pages, and MM’s .initial-content wrapper
+----------------------------------------------------------- */
+.initial-content,
 .page__content {
   max-width: 925px !important;
-  margin: 0 auto !important;
-  float: none !important; 
-  padding: 0 40px;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  float: none !important;
+  padding-left: 40px;
+  padding-right: 40px;
 }
 
-.sidebar {
+/* -----------------------------------------------------------
+   SIDEBARS — fixed width, spaced from content
+   Works for left or right sidebar layouts
+----------------------------------------------------------- */
+.sidebar,
+.sidebar__left {
   width: 240px !important;
   margin-right: 20px;
 }
