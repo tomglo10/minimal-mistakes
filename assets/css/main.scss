@@ -17,10 +17,8 @@ $sidebar-width: 260px;
 @import "minimal-mistakes"; 
 
 /**
- * 3. GLOBAL CENTERING & ALIGNMENT
+ * 3. GLOBAL CENTERING
  */
-
-/* The main container needs to be centered on the screen */
 .wrapper {
   max-width: $max-width;
   margin-left: auto;
@@ -33,34 +31,46 @@ $sidebar-width: 260px;
   margin-right: auto;
   padding-left: 20px;
   padding-right: 20px;
-  display: flow-root; /* Prevents margin collapsing */
 }
 
-/* This centers your actual research text */
 .page {
   @include breakpoint($large) {
     max-width: 925px; 
     margin-left: auto;
     margin-right: auto;
-    float: none !important; /* Forces true center */
+    float: none !important; 
     font-size: 1.12rem;
   }
 }
 
-/* Adjusting the left sidebar (Bio) to be closer to text */
+/**
+ * 4. SIDEBARS & TOC
+ */
 .sidebar {
   width: $sidebar-width;
   margin-right: 20px;
 }
 
-/* Adjusting the right sidebar (TOC) */
 .sidebar__right {
   width: $sidebar-width;
   margin-left: 20px;
 }
 
+.toc {
+  background-color: #f9f9f9;
+  border: 1px solid #e2e2e2;
+  border-radius: 4px;
+
+  .nav__title {
+    background-color: #009688; 
+    color: #fff;
+    border-radius: 4px 4px 0 0;
+    padding: 0.5em 1em;
+  }
+}
+
 /**
- * 4. TYPOGRAPHY & CLINICAL STYLING
+ * 5. TYPOGRAPHY
  */
 .page__content {
   font-size: 1.15rem;
@@ -73,65 +83,4 @@ $sidebar-width: 260px;
     max-width: 100%;
     border-radius: 4px;
   }
-  
-  /* Standardizes font size for your health summaries */
-  article.page.h-entry {
-    font-size: 1.12rem;
-  }
 }
-
-/* Style the Table of Contents (Teal Header) */
-.toc {
-  background-color: #f9f9f9;
-  border: 1px solid #e2e2e2;
-  border-radius: 4px;
-
-  .nav__title {
-    background-color: #009688; /* Mint Theme Teal */
-    color: #fff;
-    border-radius: 4px 4px 0 0;
-    padding: 0.5em 1em;
-  }
-}
-
-/* Clinical Medical Disclaimer Styling */
-.notice--info {
-  font-size: 0.95rem;
-  border-left: 5px solid #009688;
-  background-color: #f0f9f8;
-  margin: 2em 0;
-}}
-
-/* 3. Center the Content Column */
-.page {
-  @include breakpoint($large) {
-    /* This ensures the 925px content area is centered 
-       between the two sidebars */
-    float: none;
-    margin-left: auto;
-    margin-right: auto;
-    width: 925px; 
-  }
-}
-
-/* 4. Fine-tune Sidebar Spacing */
-.sidebar {
-  @include breakpoint($large) {
-    /* Prevents the bio from pushing the text too far right */
-    width: 200px; 
-    margin-right: 40px;
-  }
-}
-
-/* 5. Fix for the Right Sidebar (TOC) */
-.sidebar__right {
-  @include breakpoint($large) {
-    width: 200px;
-    margin-left: 40px;
-  }
-}
-.notice--info {
-  margin: 2em auto;
-  max-width: 800px; /* Prevents the disclaimer from being too narrow */
-  text-align: left;
-  display: block;}
