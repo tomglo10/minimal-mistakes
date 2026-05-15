@@ -4,12 +4,6 @@ title: "The Protein Paradox: Ten Signs You Aren't Eating Enough"
 date: 2026-05-05 18:26:00 -0600
 categories: [Nutrition, Longevity]
 tags: [Protein, Muscle Health, Metabolism, Senior Nutrition, Amino Acids]
-math: true
-author_profile: true
-read_time: true
-share: true
-related: true
-toc: true
 header:
   overlay_image: /assets/images/fatigue.webp
   teaser: /assets/images/fatigue.webp
