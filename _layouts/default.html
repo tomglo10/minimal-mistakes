@@ -1,49 +1,24 @@
 ---
-# Front matter required for Jekyll to process this file
 ---
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    {% include head.html %}
+  </head>
 
-@charset "utf-8";
+  <body class="layout--{{ page.layout | default: layout.layout }}">
+    {% include masthead.html %}
 
-/**
- * 1. SET THE MASTER WIDTH
- * This allows the site to expand up to 1600px on large monitors.
- */
-$max-width: 1600px; 
-$sidebar-width: 260px;
+    <div class="initial-content">
+      {{ content }}
+    </div>
 
-@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'mint' }}"; 
-@import "minimal-mistakes"; 
+    <div class="page__footer">
+      <footer>
+        {% include footer.html %}
+      </footer>
+    </div>
 
-/* 2. THE CENTERING WRAPPER */
-.wrapper {
-  max-width: $max-width;
-  margin: 0 auto;
-  display: flex;
-  justify-content: center;
-}
-
-/* 3. THE CONTENT COLUMN (Wider for clinical data)
-   Increasing this from 925px to 1150px gives your 
-   research room to breathe. */
-.initial-content, 
-.page__content,
-.page {
-  @include breakpoint($large) {
-    max-width: 1150px !important; 
-    margin-left: auto;
-    margin-right: auto;
-    float: none !important; 
-    padding: 0 50px;
-  }
-}
-
-/* 4. KEEP SIDEBARS PINNED */
-.sidebar {
-  width: $sidebar-width !important;
-  margin-right: 20px;
-}
-
-.sidebar__right {
-  width: $sidebar-width !important;
-  margin-left: 20px;
-}
+    {% include scripts.html %}
+  </body>
+</html>
