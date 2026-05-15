@@ -7,5 +7,5 @@ main:
     url: "/categories/#heart-metabolic"
   - title: "Longevity"
     url: "/categories/#longevity"
-  - title: "About"
-    url: /about/
+  - title: "Glossary"
+    url: /glossary/
