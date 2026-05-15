@@ -1,11 +1,13 @@
 ---
-layout: home
+layout: archive
 title: "Aging Health Research Library"
 entries_layout: grid
-classes: wide
-author_profile: true
-paginate: true
+classes: wide       # <--- This activates the fix at the bottom of your SCSS
+author_profile: true # Keeps your bio on the left
+paginate: 12         # Sets your 10-12 post limit
 ---
+
+### Recent Clinical Investigations
 
 Welcome to the Aging Health clinical library. Below you will find our latest 
 investigations into geriatric health literacy and longevity.
