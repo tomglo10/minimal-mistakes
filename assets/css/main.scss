@@ -17,7 +17,19 @@
   display: flex;
   justify-content: center;
 }
+/* Overrides the 'pinched' feel for better clinical data display */
+.page__inner-wrap {
+  padding-right: 0 !important;
+  max-width: 100% !important;
+}
 
+/* Widens the actual article container */
+.page {
+  @include breakpoint($large) {
+    padding-right: 0 !important;
+    width: 100% !important;
+  }
+}
 /* -----------------------------------------------------------
    MAIN — prevents ultra-wide stretching on large monitors
 ----------------------------------------------------------- */
