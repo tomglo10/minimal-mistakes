@@ -1,101 +1,52 @@
 ---
-# Front matter required for Jekyll to process this file
+# Jekyll needs these dashes to process the theme variables
 ---
 
 @charset "utf-8";
 
-@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'mint' }}";
+/**
+ * 1. SET THE MASTER WIDTH
+ */
+$max-width: 1600px;
+$sidebar-width: 260px;
+
+@import "minimal-mistakes/skins/mint";
 @import "minimal-mistakes";
 
-/* -----------------------------------------------------------
-   GLOBAL WRAPPER — centers the entire site container
------------------------------------------------------------ */
+/**
+ * 2. THE CENTERING WRAPPER
+ */
 .wrapper {
-  max-width: 1100px!important;
-  margin-left: auto;
-  margin-right: auto;
+  max-width: $max-width;
+  margin: 0 auto;
   display: flex;
   justify-content: center;
 }
-/* Overrides the 'pinched' feel for better clinical data display */
-.page__inner-wrap {
-  padding-right: 0 !important;
-  max-width: 100% !important;
-}
 
-/* Widens the actual article container */
+/**
+ * 3. THE CONTENT COLUMN
+ */
+.initial-content, 
+.page__content, 
 .page {
   @include breakpoint($large) {
-    padding-right: 0 !important;
-    width: 100% !important;
+    max-width: 1150px !important;
+    margin-left: auto;
+    margin-right: auto;
+    float: none !important;
+    padding: 0 50px;
   }
 }
-/* -----------------------------------------------------------
-   MAIN — prevents ultra-wide stretching on large monitors
------------------------------------------------------------ */
-#main {
-  width: 100%;
-  max-width: 1600px!important;
-  margin-left: auto;
-  margin-right: auto;
-}
 
-/* -----------------------------------------------------------
-   CONTENT COLUMN — stable 1100px reading width
-   Applies to posts, pages, and MM’s internal wrappers
------------------------------------------------------------ */
-.initial-content,
-.page__content {
-  max-width: 1100px!important;
-  margin-left: auto;
-  margin-right: auto;
-  float: none;
-  padding-left: 40px;
-  padding-right: 40px;
-}
-
-/* -----------------------------------------------------------
-   SIDEBARS — consistent 240px width + spacing
-   Works for left or right sidebar layouts
------------------------------------------------------------ */
-.sidebar,
-.sidebar__left {
-  width: 240px;
+/**
+ * 4. KEEP SIDEBARS PINNED
+ */
+.sidebar {
+  width: $sidebar-width !important;
   margin-right: 20px;
 }
 
 .sidebar__right {
-  width: 240px;
+  width: $sidebar-width !important;
   margin-left: 20px;
-}
-/* Widens the Splash layout for clinical landing pages */
-.splash {
-  @include breakpoint($large) {
-    max-width: 1400px !important; /* Wider than standard posts */
-    margin-left: auto;
-    margin-right: auto;
-    padding: 0 2em;
-  }
-}
-
-.splash .page__content {
-  width: 100% !important;
-  max-width: none !important;
-}
-/* -----------------------------------------------------------
-   MOBILE SAFETY — ensure content doesn’t get squeezed
------------------------------------------------------------ */
-@media (max-width: 768px) {
-  .initial-content,
-  .page__content {
-    padding-left: 20px;
-    padding-right: 20px;
-  }
-
-  .sidebar,
-  .sidebar__left,
-  .sidebar__right {
-    margin: 0;
-    width: 100%;
-  }
 }
