@@ -8,7 +8,7 @@
 @import "minimal-mistakes";
 
 /* -----------------------------------------------------------
-   GLOBAL WRAPPER — centers entire site cleanly
+   GLOBAL WRAPPER — centers the entire site container
 ----------------------------------------------------------- */
 .wrapper {
   max-width: 1280px;
@@ -19,7 +19,7 @@
 }
 
 /* -----------------------------------------------------------
-   MAIN AREA — prevents over-expansion on ultra-wide screens
+   MAIN — prevents ultra-wide stretching on large monitors
 ----------------------------------------------------------- */
 #main {
   width: 100%;
@@ -29,30 +29,48 @@
 }
 
 /* -----------------------------------------------------------
-   ARTICLE BODY — clean 925px readable column
-   Works for posts, pages, and MM’s .initial-content wrapper
+   CONTENT COLUMN — stable 925px reading width
+   Applies to posts, pages, and MM’s internal wrappers
 ----------------------------------------------------------- */
 .initial-content,
 .page__content {
-  max-width: 925px !important;
-  margin-left: auto !important;
-  margin-right: auto !important;
-  float: none !important;
+  max-width: 925px;
+  margin-left: auto;
+  margin-right: auto;
+  float: none;
   padding-left: 40px;
   padding-right: 40px;
 }
 
 /* -----------------------------------------------------------
-   SIDEBARS — fixed width, spaced from content
+   SIDEBARS — consistent 240px width + spacing
    Works for left or right sidebar layouts
 ----------------------------------------------------------- */
 .sidebar,
 .sidebar__left {
-  width: 240px !important;
+  width: 240px;
   margin-right: 20px;
 }
 
 .sidebar__right {
-  width: 240px !important;
+  width: 240px;
   margin-left: 20px;
+}
+
+/* -----------------------------------------------------------
+   MOBILE SAFETY — ensure content doesn’t get squeezed
+----------------------------------------------------------- */
+@media (max-width: 768px) {
+  .initial-content,
+  .page__content {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
+  .sidebar,
+  .sidebar__left,
+  .sidebar__right {
+    margin: 0;
+    width: 100%;
+  }
 }
