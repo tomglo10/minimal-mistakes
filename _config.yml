@@ -1,12 +1,84 @@
+# Theme Settings
+remote_theme: "mmistakes/minimal-mistakes"
+minimal_mistakes_skin: "mint"
+
+# Site Settings
+locale: "en-US"
+title: "Aging-Health"
+title_separator: "-"
+subtitle: "Patient Advocacy & Geriatric Literacy"
+description: "Independent health research and patient advocacy focusing on geriatric health literacy, clinical data interpretation, and longevity."
+url: "https://aginghealth.website"
+baseurl: ""
+
+# Repository Settings
+repository: "tomglo10/aging-research"
+words_per_minute: 200
+
+# Features
+breadcrumbs: true
+search: true
+search_full_content: true
+enable_copy_code_button: true
+
+# Site Author
+author:
+  name: "Tommy T Douglas"
+  avatar: "/assets/images/bio-photo.webp"
+  bio: "Independent health researcher and patient advocate."
+  location: "USA"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:tommglo@gmail.com"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/tomglo10"
+
+# Reading Files
+include:
+  - .htaccess
+  - _pages
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - .bundle/
+  - .jekyll-cache/
+
+# Markdown Processing
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+
+# Plugins (Fixed and Complete)
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jekyll-include-cache
+
 # Pagination Settings
 paginate: 12
 paginate_path: "/page:num/"
 
-# Front Matter Defaults
+# URL Structure
+permalink: /posts/:title/
+
+# Front Matter Defaults (Global Settings for all 330 posts)
 defaults:
   - scope:
-      path: ""          # all files in project
-      type: "posts"     # specifically targets _posts folder
+      path: ""
+      type: "posts"
     values:
       layout: "single"
       author_profile: true
@@ -15,13 +87,12 @@ defaults:
       related: true
       math: true
       comments: true
-      # Sidebar & TOC Settings moved here to work globally:
       toc: true
       toc_label: "Research Highlights"
       toc_icon: "heart-pulse"
       toc_sticky: true
 
-# Comment Settings
+# Giscus Comment Settings
 comments:
   provider: "giscus"
   giscus:
@@ -34,6 +105,3 @@ comments:
     input_position: "bottom"
     theme: "light"
     lang: "en"
-
-# URL Structure
-permalink: /posts/:title/
