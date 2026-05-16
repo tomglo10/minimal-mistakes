@@ -102,7 +102,7 @@ Yes. Caregivers can meaningfully improve the accuracy and completeness of the in
 
 ### Sources & Learn More
 * [WHO: Health Literacy Fact Sheet](https://www.who.int/news-room/fact-sheets/detail/health-literacy)
-* [AHRQ: Health Literacy Universal Precautions Toolkit]({% post_url health-literacy %})
+* [AHRQ: Health Literacy Universal Precautions Toolkit](#)
 * [CDC: What Is Health Literacy?](https://www.cdc.gov/health-literacy/php/about/index.md)
 
 <script type="application/ld+json">

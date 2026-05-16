@@ -37,7 +37,7 @@ The baseline for those over 50 remains **150 minutes of moderate aerobic activit
 
 ### The Researcher’s Secret Weapon: Isometrics
 If you are managing hypertension or recovering from cardiac surgery, **Isometrics** are your best friend. These are "static" exercises where the muscle tenses without moving the joint (e.g., wall sits or planks).
-* **The Clinical Edge:** Isometrics have been shown to be more effective than cardio alone for lowering resting blood pressure—a critical metric for anyone with a [2008 heart attack history]({% post_url diabetes-heart-attack-survivor-lessons %}).
+* **The Clinical Edge:** Isometrics have been shown to be more effective than cardio alone for lowering resting blood pressure—a critical metric for anyone with a [2008 heart attack history](#).
 
 ---
 
@@ -53,10 +53,10 @@ When using medications like **Metformin or GLP-1s (Ozempic)**, we must be vigila
 ## Frequently Asked Questions
 
 **1. Is strength training safe for those with liver cirrhosis?**
-Strength training [supports muscle maintenance]({% post_url acetaminophen-liver-disease %}) in chronic liver disease, but must be approached carefully. Avoiding breath-holding (the Valsalva maneuver) helps reduce internal pressure spikes.
+Strength training [supports muscle maintenance](#) in chronic liver disease, but must be approached carefully. Avoiding breath-holding (the Valsalva maneuver) helps reduce internal pressure spikes.
 
 **2. How does exercise support psoriasis management?**
-Regular physical activity helps lower [systemic inflammation]({% post_url systemic-inflammation-in-psoriasis %}), which is a core driver of psoriasis flare-ups.
+Regular physical activity helps lower [systemic inflammation](#), which is a core driver of psoriasis flare-ups.
 
 **3. What about muscle loss on Ozempic?**
 GLP-1 medications can lead to a loss of lean body mass. Clinicians emphasize **high protein intake** and resistance exercise to maintain muscle health during weight loss.

@@ -172,5 +172,5 @@ There is no one‑size‑fits‑all answer—only informed experimentation guide
 ---
 
 *Related reading:*  
-- [Is Alzheimer’s Really Type 3 Diabetes?]({% post_url alzheimers-type-3-diabetes-insulin-resistance %})  
-- [Diabetes and Longevity]({% post_url diabetes %})
+- [Is Alzheimer’s Really Type 3 Diabetes?](#)  
+- [Diabetes and Longevity](#)

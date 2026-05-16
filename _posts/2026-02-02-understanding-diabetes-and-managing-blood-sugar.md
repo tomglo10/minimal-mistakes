@@ -11,7 +11,7 @@ last_modified_at: 2026-05-07
 ---
 ## Diabetes Management: A Clinical Guide to Blood Sugar Stability
 
-[Diabetes]({% post_url insulin-dosing-for-diabetes-what-you %}) is not merely a "blood sugar problem"—it is a complex metabolic breakdown in how the body processes energy. Whether the issue is an [autoimmune]({% post_url women-autoimmune %}) destruction of insulin-producing cells (Type 1) or a cellular resistance to insulin (Type 2), the systemic impact on the vascular and nervous systems is profound.
+[Diabetes](#) is not merely a "blood sugar problem"—it is a complex metabolic breakdown in how the body processes energy. Whether the issue is an [autoimmune](#) destruction of insulin-producing cells (Type 1) or a cellular resistance to insulin (Type 2), the systemic impact on the vascular and nervous systems is profound.
 
 ---
 
@@ -51,7 +51,7 @@ Emerging research links metabolic stability to lower risk of Alzheimer’s and o
 
 ---
 
-![The Standard American Diet  SAD]({{ site.urlimg }}/assets/images/sad.webp)**Figure 1:** The Standard American Diet (SAD) is characterized by a high intake of [processed foods]({% post_url ultra-processed-food-health-damage-seniors %}), sugars, and unhealthy fats. Junk food meals are common in the U.S. and contribute to obesity, heart disease, and diabetes.
+![The Standard American Diet  SAD]({{ site.urlimg }}/assets/images/sad.webp)**Figure 1:** The Standard American Diet (SAD) is characterized by a high intake of [processed foods](#), sugars, and unhealthy fats. Junk food meals are common in the U.S. and contribute to obesity, heart disease, and diabetes.
 
 ---
 
@@ -142,9 +142,9 @@ Effective management requires a multidisciplinary approach:
 
 ## 📘 Related Patient Resources
 
-- **Liver Health:** High blood sugar drives MASLD. Learn about [Liver Cirrhosis & Metabolism]({% post_url liver-cirrhosis-what-you-need-to-know %}).
-- **The Vascular Link:** Diabetes increases the risk of [Cardiovascular Disease]({% post_url diabetes-heart-attack-survivor-lessons %}).
-- **Nutritional Strategy:** [How to move away from the "SAD" diet with Low-Glycemic Eating for Seniors.]({% post_url low-glycemic-food %})
+- **Liver Health:** High blood sugar drives MASLD. Learn about [Liver Cirrhosis & Metabolism](#).
+- **The Vascular Link:** Diabetes increases the risk of [Cardiovascular Disease](#).
+- **Nutritional Strategy:** [How to move away from the "SAD" diet with Low-Glycemic Eating for Seniors.](#)
 
 ---
 

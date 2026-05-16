@@ -63,4 +63,4 @@ The disparate application of rules can lead to several negative outcomes in the 
 * **The Prison Journal:** [Gender Differences in Rule Violations](https://doi.org/10.1177/0032885514524882)
 * **Vera Institute of Justice:** [People in Prison Reports](https://www.vera.org/publications/people-in-prison-in-2018)
 * **National Institute of Justice:** [Searchable Research Database](https://nij.ojp.gov/)
-* **UTEP Newsfeed:** [Incarcerated Women Punished at Higher Rates]({% post_url incarcerated-women-punished-at-higher-rates-for-minor-infractions-than-men-utep-study-shows %})
+* **UTEP Newsfeed:** [Incarcerated Women Punished at Higher Rates](#)

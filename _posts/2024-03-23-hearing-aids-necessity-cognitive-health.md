@@ -22,7 +22,7 @@ Choosing a hearing aid in 2026 can be overwhelming, but modern options offer Blu
 ## Can Hearing Aids Really Protect Your Brain?
 A few months ago, I took the plunge and got my first pair of hearing aids. While the transition hasn't been perfect, the clarity they’ve restored to my life is undeniable. As an independent researcher, I’ve learned that hearing aids are not just about volume; they are about **cognitive preservation**.
 
-Ignoring hearing loss is a major risk factor for social withdrawal, depression, and [accelerated cognitive decline]({% post_url making-your-home-safe-for-cognitive-decline %}).
+Ignoring hearing loss is a major risk factor for social withdrawal, depression, and [accelerated cognitive decline](#).
 
 
 

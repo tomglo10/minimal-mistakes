@@ -85,7 +85,7 @@ While 10,000 is a common goal, 2026 research shows that for seniors, significant
 ## Sources & Further Reading
 * **Harvard Health:** [More movement, better memory.](https://www.health.harvard.edu/blog/more-movement-better-memory-202105172457)
 * **NIH/NIA:** [Walking for Cardiovascular Prevention.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3098122/)
-* **American Cancer Society:** [Walk Your Way to Health.]({% post_url walk-your-way-to-health %})
+* **American Cancer Society:** [Walk Your Way to Health.](#)
 * **Aging Health Research:** [The Protein Paradox & Metabolic Resilience.](/posts/the-protein-paradox-deficiency-signs/)
 
 <script type="application/ld+json">

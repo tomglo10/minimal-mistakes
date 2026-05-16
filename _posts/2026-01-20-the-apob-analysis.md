@@ -27,7 +27,7 @@ last_modified_at: 2026-05-07
 
 ## The ApoB Analysis: The Ultimate Predictor of Heart Health
 
-For decades, we have relied on **LDL-C** to tell us our [heart disease risk]({% post_url coronary-heart-disease-womens-health-initiative %}). But [modern precision medicine](https://www.aginghealth.website/2024/03/genomic-medicine.md) has moved past this. Standard cholesterol panels only measure the *weight* of the cholesterol inside particles. **ApoB measures the particle count itself.**
+For decades, we have relied on **LDL-C** to tell us our [heart disease risk](#). But [modern precision medicine](https://www.aginghealth.website/2024/03/genomic-medicine.md) has moved past this. Standard cholesterol panels only measure the *weight* of the cholesterol inside particles. **ApoB measures the particle count itself.**
 
 <div class="insight-box">
   "Standard cholesterol tests are like weighing a fleet of trucks to see how many there are. ApoB is like counting the actual number of trucks on the road. Since it only takes one particle to start a plaque, the count is what matters."
@@ -40,7 +40,7 @@ For decades, we have relied on **LDL-C** to tell us our [heart disease risk]({% 
 ---
 
 ### 1. The Executive Summary
-Every atherogenic (plaque-forming) particle—whether it is LDL, VLDL, or IDL—carries exactly one molecule of **Apolipoprotein B (ApoB)**. By measuring ApoB, we aren't guessing the concentration; we are seeing exactly how many "bullets" are in the chamber. If a particle has an ApoB tag, it has the [potential to get stuck]({% post_url crispr-potential-healthcare %}) in your arterial wall and initiate atherosclerosis.
+Every atherogenic (plaque-forming) particle—whether it is LDL, VLDL, or IDL—carries exactly one molecule of **Apolipoprotein B (ApoB)**. By measuring ApoB, we aren't guessing the concentration; we are seeing exactly how many "bullets" are in the chamber. If a particle has an ApoB tag, it has the [potential to get stuck](#) in your arterial wall and initiate atherosclerosis.
 
 ### 2. The Data Table
 Standard ranges often allow for much higher levels because they are based on the "average" population, but for longevity, we aim for the 5th percentile of the population.

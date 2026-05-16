@@ -78,8 +78,8 @@ One of the biggest hurdles in recovering from conditions like adhesive capsuliti
 
 ## Related Patient Resources
 * **The Log:** Track your sleep and clarity with the [Daily Glucose Tracker](https://docs.google.com/document/d/1V-LyZEo4kh6KtSfjfhPWiGfaigwlRvmAGoYCJ2aaTdM/edit?usp=sharing).
-* **The Bridge:** Is Alzheimer's Really [Type 3 Diabetes]({% post_url alzheimers-type-3-diabetes-insulin-resistance %})?
-* **Liver Health:** How [metabolic syndrome impacts liver cirrhosis]({% post_url liver-cirrhosis-what-you-need-to-know %}).
+* **The Bridge:** Is Alzheimer's Really [Type 3 Diabetes](#)?
+* **Liver Health:** How [metabolic syndrome impacts liver cirrhosis](#).
 
 <div style="background:#e8f4f8; padding:15px; border-left:5px solid #2980b9; margin-top:20px; font-family: sans-serif; color: #333;">
 **March 2026 Clinical Update:** Current advocacy for liver health emphasizes high-protein intake (1.2-1.5 g/kg) to prevent sarcopenia. Portal hypertension targets for esophageal varices now align with a systemic blood pressure of less than 130/80 mmHg.

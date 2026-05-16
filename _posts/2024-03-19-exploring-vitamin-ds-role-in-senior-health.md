@@ -24,8 +24,8 @@ That's why supplements are commonly recommended to support bone strength, muscle
 
 ## 🌤️ Advantages of Vitamin D Supplements
 
-1. **Supports Bone Strength:** Vitamin D helps the body absorb calcium, which is [essential for maintaining strong bones]({% post_url build-strong-bones %}) as people age.
-2. **Maintains Muscle Function:** Adequate levels support balance and mobility, which may [reduce fall risk]({% post_url creatine-older-adults-maintain-muscle %}).
+1. **Supports Bone Strength:** Vitamin D helps the body absorb calcium, which is [essential for maintaining strong bones](#) as people age.
+2. **Maintains Muscle Function:** Adequate levels support balance and mobility, which may [reduce fall risk](#).
 3. **Supports Immune Health:** Vitamin D plays a key role in immune system regulation and infection response.
 4. **Limited Sun Exposure:** Essential for seniors who spend more time indoors or live in northern climates.
 
@@ -54,13 +54,13 @@ That's why supplements are commonly recommended to support bone strength, muscle
 
 * **D2 / D3:** Two common forms of vitamin D found in supplements.
 * **Absorption:** How the body takes in and uses nutrients.
-* **Serum level:** A [blood measurement]({% post_url in-the-blood %}) used to evaluate nutrient status.
+* **Serum level:** A [blood measurement](#) used to evaluate nutrient status.
 
 ---
 
 ## 📘 Related Patient Resources
 * **The Log:** Track your metabolic health with my [Daily Glucose Tracker](https://docs.google.com/document/d/1V-LyZEo4kh6KtSfjfhPWiGfaigwlRvmAGoYCJ2aaTdM/edit?usp=sharing).
-* **Liver Health:** Learn [how metabolic syndrome impacts cirrhosis]({% post_url liver-cirrhosis-what-you-need-to-know %}).
+* **Liver Health:** Learn [how metabolic syndrome impacts cirrhosis](#).
 
 <script type="application/ld+json">
 {

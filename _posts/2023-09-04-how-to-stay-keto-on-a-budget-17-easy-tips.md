@@ -16,7 +16,7 @@ A ketogenic diet—low in carbohydrates and high in healthy fats—can support w
 ![Savor a keto breakfast of crispy bacon, poached eggs, and avocado, served with mixed greens and zesty vinaigrette.]({{ site.urlimg }}{{ site.urlimg }}/assets/images/keto-meal.webp)
 *Figure 1: A nutrient-dense keto breakfast that is both healthy and budget‑friendly.*
 
-In addition, following a keto diet has been shown to significantly improve blood sugar regulation, making it a good option for those looking to manage conditions such as [diabetes]({% post_url diabetes %}) or insulin resistance.
+In addition, following a keto diet has been shown to significantly improve blood sugar regulation, making it a good option for those looking to manage conditions such as [diabetes](#) or insulin resistance.
 
 Furthermore, the keto diet may reduce the risk of heart disease by supporting healthy cholesterol levels and overall cardiovascular health. These benefits make keto a compelling option for people looking to improve their well‑being through dietary changes.
 

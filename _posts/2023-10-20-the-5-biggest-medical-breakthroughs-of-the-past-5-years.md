@@ -252,7 +252,7 @@ Researchers are exploring vaccines for cancer, autoimmune diseases, and emerging
 
 # Conclusion
 
-The past five years have delivered breakthroughs that [will define the next generation of medicine]({% post_url 2026-03-08-genomic-medicine-senior-health-guide %}). From personalized cancer vaccines to AI‑powered diagnostics, these innovations offer new hope, earlier detection, and more personalized care. Understanding these advances empowers patients to ask better questions, explore new options, and participate actively in their health decisions.
+The past five years have delivered breakthroughs that [will define the next generation of medicine](#). From personalized cancer vaccines to AI‑powered diagnostics, these innovations offer new hope, earlier detection, and more personalized care. Understanding these advances empowers patients to ask better questions, explore new options, and participate actively in their health decisions.
 
 ---
 

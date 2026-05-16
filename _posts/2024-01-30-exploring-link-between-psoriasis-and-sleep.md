@@ -60,7 +60,7 @@ Many patients report flare-ups following periods of poor sleep, likely due to in
 
 ## 📘 Related Patient Resources
 * **The Log:** Track your sleep and inflammation patterns with the [Daily Glucose Tracker](https://docs.google.com/document/d/1V-LyZEo4kh6KtSfjfhPWiGfaigwlRvmAGoYCJ2aaTdM/edit?usp=sharing).
-* **The Foundation:** New to these topics? Read the [Beginner’s Guide to Diabetes]({% post_url diabetes %}).
+* **The Foundation:** New to these topics? Read the [Beginner’s Guide to Diabetes](#).
 * **Liver Health:** How [metabolic syndrome impacts liver cirrhosis](https://www.aginghealth.website/2023/09/liver-cirrhosis-what-you-need-to-know.md).
 
 <div style="background:#fef5e7; padding:15px; border-left:5px solid #f39c12; margin-top:20px; font-family: sans-serif; color: #333;">
