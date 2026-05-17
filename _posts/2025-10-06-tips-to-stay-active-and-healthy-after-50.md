@@ -1,21 +1,19 @@
 ---
-layout: single
+layout: post
 title: "Tips to Stay Active and Healthy After 50"
 date: 2025-10-06
 description: "Explore effective strategies for Baby Boomers to maintain an active lifestyle. Learn how to age gracefully and enjoy every moment of life!"
 image: "/assets/images/old-love.webp"
 tags: ["Clinical Research", "Cardiovascular", "Liver & Immune Health", "Stress", "Community", "Aging Well", "Longevity"]
-math: true
-toc: true
-last_modified_at: 2026-05-07
 ---
+
 ## A Complete Guide for Baby Boomers Aging with Confidence
 
 Aging after 50 is no longer about slowing down—it’s about staying engaged, informed, and intentional. Today’s Baby Boomers are redefining what it means to grow older, prioritizing health, independence, and purpose well into later life. 
 
 ---
 
-![A joyful older couple embraces retirement outdoors, by the pool, exploring nature and creating cherished memories together and with friends.]({{ site.urlimg }}{{ site.urlimg }}/assets/images/old-love.webp)
+![A joyful older couple embraces retirement outdoors, by the pool, exploring nature and creating cherished memories together and with friends.](/assets/images/old-love.webp)
 *Figure 1: A happy elderly couple enjoys retirement outdoors, exploring nature and making memories together.*
 
 ---
@@ -105,18 +103,18 @@ Yes. Social ties reduce feelings of loneliness and isolation, which are signific
 ---
 
 <div class="trust-card">
-  ###Trusted Sources for Healthy Aging
+  <h3>Trusted Sources for Healthy Aging</h3>
   <div class="trust-item">
-    **National Institute on Aging (NIA)</strong><br />
+    <strong>National Institute on Aging (NIA)</strong><br />
     Healthy Aging and Alzheimer’s Research (2025)<br />
     <a href="https://www.nia.nih.gov/" rel="noopener">www.nia.nih.gov</a>
   </div>
   <div class="trust-item">
-    **CDC</strong><br />
+    <strong>CDC</strong><br />
     Benefits of Physical Activity for Older Adults.
   </div>
   <div class="trust-item">
-    **AARP & SSA</strong><br />
+    <strong>AARP & SSA</strong><br />
     Retirement and Healthcare Planning Resources.
   </div>
 </div>

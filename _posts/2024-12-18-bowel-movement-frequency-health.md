@@ -1,20 +1,18 @@
 ---
-layout: single
+layout: post
 title: "Pooping More Often: A Key to Better Health?"
 date: 2024-12-18
 description: "New 2026 research identifies a Goldilocks zone for bowel frequency that supports the microbiome and reduces chronic disease risk."
 image: "/assets/images/bowel-movements.webp"
 tags: ["Advocacy", "Cardiovascular", "Liver Health", "Immune Health", "Stress", "Prevention", "Digestive"]
-math: true
-toc: true
-last_modified_at: 2026-05-07
 ---
+
 ## The Goldilocks Zone: Why Gut Frequency is a Vital Sign
 
 In recent years, the relationship between gut health and overall wellness has moved from the fringe to the clinical center. The gut, often described as the body's "second brain," is integral to immune regulation and metabolic stability. 
 ---
 
-New research underscores the critical role that consistent bowel movements play in supporting a balanced gut environment. This isn't just about comfort; it is about the structural and immunological integrity of your body. ![Diagram illustrating the human digestive system and the gut-microbiome connection]({{ site.urlimg }}{{ site.urlimg }}/assets/images/bowel-movements.webp)
+New research underscores the critical role that consistent bowel movements play in supporting a balanced gut environment. This isn't just about comfort; it is about the structural and immunological integrity of your body. ![Diagram illustrating the human digestive system and the gut-microbiome connection](/assets/images/bowel-movements.webp)
 *Figure 1: Regular Bowel Movements - One to two daily movements help maintain a balanced microbiome and lower the risk of systemic inflammation.*
 
 ---
@@ -24,7 +22,7 @@ Researchers have identified an ideal frequency for maintaining gut health: **one
 
 ---
 
-![Image of the gut-brain axis]({{ site.urlimg }}{{ site.urlimg }}/assets/images/gut-brain-axis.webp)*Image of the gut-brain axis.*
+![Image of the gut-brain axis](/assets/images/gut-brain-axis.webp)*Image of the gut-brain axis.*
 
 
 * **Inflammatory Bowel Disease (IBD):** Maintaining regular flow prevents the prolonged contact of waste with the intestinal wall, reducing the triggers for Crohn's and ulcerative colitis.
@@ -39,7 +37,7 @@ The texture and appearance of stool serve as important indicators of your digest
 
 
 
-![Image of the Bristol Stool Scale]({{ site.urlimg }}{{ site.urlimg }}/assets/images/bristol-stool-scale.webp)*The Bristol Stool Scale.*
+![Image of the Bristol Stool Scale](/assets/images/bristol-stool-scale.webp)*The Bristol Stool Scale.*
 
 
 Ideally, stools should be **Type 3 or Type 4** (soft, well-formed, and easy to pass). If your data consistently falls into Type 1 (constipation) or Type 7 (diarrhea), it is time to adjust your biological inputs.
@@ -70,7 +68,7 @@ In our 2026 audits, we have identified that "Microbial Translocation" (leaky gut
 **Tommy T. Douglas** is an independent health researcher and survivor of a major heart attack (2008). He specializes in translating complex data into actionable health literacy for seniors, focusing on the intersection of metabolic and digestive health.
 
 <div style="background:#e8f4f8; padding:15px; border-left:5px solid #2980b9; margin-top:20px; font-family: sans-serif; color: #333;">
-**March 2026 Clinical Update:</strong> Current advocacy for liver health emphasizes high-protein intake ($1.2\text{--}1.5 \text{ g/kg}$) to prevent sarcopenia. Proper gut motility is essential to ensure this protein is absorbed effectively without causing nitrogenous waste buildup.
+<strong>March 2026 Clinical Update:</strong> Current advocacy for liver health emphasizes high-protein intake ($1.2\text{--}1.5 \text{ g/kg}$) to prevent sarcopenia. Proper gut motility is essential to ensure this protein is absorbed effectively without causing nitrogenous waste buildup.
 </div>
 
 <script type="application/ld+json">

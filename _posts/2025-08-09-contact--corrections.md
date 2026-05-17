@@ -1,21 +1,19 @@
 ---
-layout: single
+layout: post
 title: "Contact & Corrections"
 date: 2025-08-09T20:45:00+00:00
 description: "Reach out to us with any questions or concerns. Our dedicated team is here to assist you promptly and ensure your needs are met. Contact us today!"
 tags: []
-math: true
-toc: true
-last_modified_at: 2026-05-07
 ---
+
 <p></p>
 <h1>Contact &amp; Corrections</h1>
 <p>Aging Health exists to support older adults, caregivers, and anyone navigating health information with clarity and confidence. If you have a question, spot an error, or want to suggest an improvement, I genuinely welcome your feedback.</p>
-### Contact Me</h2>
+<h2>Contact Me</h2>
 <p>If you’d like to reach out directly, you can use the contact form below or email me anytime:</p>
-<p>**Email:</strong> aginghealthwebsite@gmail.com</p>
+<p><strong>Email:</strong> aginghealthwebsite@gmail.com</p>
 <p>I read every message and do my best to respond promptly.</p>
-### Request a Correction</h2>
+<h2>Request a Correction</h2>
 <p>Accuracy matters. If you notice:</p>
 <ul>
 <li>outdated information</li>
@@ -25,7 +23,7 @@ last_modified_at: 2026-05-07
 <li>something that feels unclear or misleading</li>
 </ul>
 <p>please let me know. Include the page URL and a brief description of the issue so I can review it quickly.</p>
-### How Corrections Are Handled</h2>
+<h2>How Corrections Are Handled</h2>
 <p>When a correction request comes in, I:</p>
 <ol>
 <li>Review the content and verify the issue</li>
@@ -35,7 +33,7 @@ last_modified_at: 2026-05-07
 <li>Note the update in the “Last Updated” field at the top of the article</li>
 </ol>
 <p>This helps keep Aging Health reliable, transparent, and reader‑focused.</p>
-### Suggestions &amp; Improvements</h2>
+<h2>Suggestions &amp; Improvements</h2>
 <p>If you have ideas for:</p>
 <ul>
 <li>new glossary terms</li>

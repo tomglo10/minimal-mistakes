@@ -1,21 +1,19 @@
 ---
-layout: single
+layout: post
 title: "A Low-Glycemic Foods List for Sugar Management"
 date: 2026-02-02
 description: "Master blood sugar with the senior guide to low-glycemic living and vascular defense."
 image: "/assets/images/produce-shopping.webp"
 tags: ["Advocacy", "Cognitive Health", "Longevity", "Cardiovascular", "Diabetes", "Nutrition", "Prevention"]
-math: true
-toc: true
-last_modified_at: 2026-05-07
 ---
+
 ## Mastering Blood Sugar: The Senior Guide to Low-Glycemic Living
 
-Managing [Type 2 Diabetes](#) is often described as a "balancing act," but after years of navigating my own glucose levels with Metformin and Ozempic, I prefer the term **Vascular Defense**. Every time we choose a low-glycemic food, we are protecting our heart and kidneys from the "sugar spikes" that cause long-term scarring. > **Medical Disclaimer:** This content is for informational and educational purposes only. It does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider regarding any medical condition.
+Managing [Type 2 Diabetes](/2023/09/insulin-dosing-for-diabetes-what-you.html) is often described as a "balancing act," but after years of navigating my own glucose levels with Metformin and Ozempic, I prefer the term **Vascular Defense**. Every time we choose a low-glycemic food, we are protecting our heart and kidneys from the "sugar spikes" that cause long-term scarring. > **Medical Disclaimer:** This content is for informational and educational purposes only. It does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider regarding any medical condition.
 
 ---
 
-![A senior couple at a local farmer's market buying low glycemic vegetables]({{ site.urlimg }}{{ site.urlimg }}/assets/images/produce-shopping.webp)
+![A senior couple at a local farmer's market buying low glycemic vegetables](/assets/images/produce-shopping.webp)
 *Figure 1: Locally sourced produce is the first line of defense in managing metabolic health.*
 
 ---
@@ -69,8 +67,8 @@ As a heart attack survivor, I am very selective about my fats.
 
 ## Related Patient Resources
 * **The Tracker:** [Download My Daily Glucose and Medication Tracker (PDF)](https://docs.google.com/document/d/1V-LyZEo4kh6KtSfjfhPWiGfaigwlRvmAGoYCJ2aaTdM/edit?usp=sharing)
-* **The Survival Story:** Read my [2008 Heart Attack Recovery Lessons](#).
-* **Brain Health:** [Is Alzheimer's really Type 3 Diabetes?](#)
+* **The Survival Story:** Read my [2008 Heart Attack Recovery Lessons](/2026/02/diabetes-heart-attack-survivor-lessons.html).
+* **Brain Health:** [Is Alzheimer's really Type 3 Diabetes?](/2026/02/alzheimers-type-3-diabetes-insulin-resistance.html)
 
 | Source Organization | Resource Topic | Clinical Focus |
 | :--- | :--- | :--- |
@@ -81,7 +79,7 @@ As a heart attack survivor, I am very selective about my fats.
 ---
 
 <div style="background:#e8f4f8; padding:15px; border-left:5px solid #2980b9; margin-top:20px; font-family: sans-serif; color: #333;">
-**March 2026 Clinical Update:</strong> Current advocacy for liver health emphasizes high-protein intake ($1.2\text{--}1.5 \text{ g/kg}$) to prevent sarcopenia. Portal hypertension targets for esophageal or gastric varices now align with a systemic blood pressure of $<130/80 \text{ mmHg}$.
+<strong>March 2026 Clinical Update:</strong> Current advocacy for liver health emphasizes high-protein intake ($1.2\text{--}1.5 \text{ g/kg}$) to prevent sarcopenia. Portal hypertension targets for esophageal or gastric varices now align with a systemic blood pressure of $<130/80 \text{ mmHg}$.
 </div>
 
 <script type="application/ld+json">
