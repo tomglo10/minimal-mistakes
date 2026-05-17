@@ -1,14 +1,15 @@
 ---
+layout: single
 title: "Reality vs. Perception: The Fabric of Our Experiences"
 date: 2026-05-05 14:28:00 -0600
 categories: [Cognitive Health, Mental Wellness]
 tags: [Perception, Stress Response, Healthspan, Psychology, Cortisol]
-desription: "Analyze the cognitive neuroscience and behavioral psychology behind how our brains construct reality. This evidence-based guide demystifies the relationship between sensory input, memory retention, and subjective perception in older adults, offering deep insights into how cognitive biases shape our daily lived experiences and emotional resilience."
+description: "Analyze the cognitive neuroscience and behavioral psychology behind how our brains construct reality. This evidence-based guide demystifies the relationship between sensory input, memory retention, and subjective perception in older adults, offering deep insights into how cognitive biases shape our daily lived experiences and emotional resilience."
 excerpt: "Delve into the fascinating science of how your brain constructs reality. Learn how sensory input and cognitive perception weave the fabric of your daily health experiences."
 header:
   overlay_image: /assets/images/perception-reality.webp
   teaser: /assets/images/perception-reality.webp
-  overlay_filter: 0.5 
+  overlay_filter: 0.5
 last_modified_at: 2026-05-17
 ---
 
