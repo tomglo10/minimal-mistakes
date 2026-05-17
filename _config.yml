@@ -67,7 +67,11 @@ plugins:
   - jekyll-feed
   - jekyll-include-cache
 
-# Pagination Settings
+whitelist:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-feed
+
 paginate: 12
 paginate_path: "/page:num/"
 
