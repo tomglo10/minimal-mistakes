@@ -1,5 +1,6 @@
 ---
-layout: default
+layout: home
+entries_layout: grid
 classes: wide
 author_profile: true
 ---
