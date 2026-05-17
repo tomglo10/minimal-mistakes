@@ -91,6 +91,7 @@ defaults:
       toc_label: "Research Highlights"
       toc_icon: "heart-pulse"
       toc_sticky: true
+      entries_layout: "grid"
 
 # Giscus Comment Settings
 comments:
