@@ -1,19 +1,17 @@
 ---
-layout: single
+layout: post
 title: " Craft a Safe, Effective Exercise Plan for Your Goals"
 date: 2023-09-16T16:11:00+00:00
 description: "Create an exercise plan that works for you and helps you achieve fitness goals. Learn how to choose the right activities, and set realistic goals."
-image: "/assets/images/exercising.webp"
+image:  "/assets/images/exercising.webp"
 tags: ['Senior Longevity', 'Cardiovascular', 'Functional Fitness', 'Immune Health']
-math: true
-toc: true
-last_modified_at: 2026-05-07
 ---
-### Craft a Safe, Effective Exercise Plan for Your Goals
+
+<h2>Craft a Safe, Effective Exercise Plan for Your Goals</h2>
 
 <p>
 A clinically guided approach to movement, strength, and 
-<a href="https://www.aginghealth.website/2024/06/tbi-in-older-adults-fall-prevention-recovery.md" target="_blank">
+<a href="https://www.aginghealth.website/2024/06/tbi-in-older-adults-fall-prevention-recovery.html" target="_blank">
 balance for older adults
 </a>. By blending medical knowledge with real‑world application, older adults can improve mobility, confidence, and reduce fall risk.
 </p>
@@ -21,17 +19,17 @@ balance for older adults
 <span><!--more--></span>
 
 <div class="clinic-card disclaimer">
-**Medical Disclaimer:**
+<strong>Medical Disclaimer:</strong>
 This content is for educational purposes only and does not replace professional medical advice. Always consult a qualified healthcare provider.
 </div>
 
-![Older adults exercising with resistance bands at home]({{ site.urlimg }}{{ site.urlimg }}/assets/images/exercising.webp)
+![Older adults exercising with resistance bands at home](/assets/images/exercising.webp)
 *Figure 1: Gentle resistance band exercise for older adults in a safe home environment.*
 
 
 <!--WHY IT MATTERS-->
 <div class="clinic-card">
-###Why Exercise Matters More With Age
+<h3>Why Exercise Matters More With Age</h3>
 <p>
 Regular physical activity helps older adults maintain independence, improve sleep,
 protect brain health, and reduce the risk of falls, heart disease, diabetes, and dementia.
@@ -40,7 +38,7 @@ protect brain health, and reduce the risk of falls, heart disease, diabetes, and
 
 <!--STEP 1-->
 <div class="clinic-card">
-###Step 1: Clinical Self‑Assessment
+<h3>Step 1: Clinical Self‑Assessment</h3>
 <ul>
 <li>Review medical conditions (heart, joint, balance, lung)</li>
 <li>Check medications that affect blood pressure or hydration</li>
@@ -52,7 +50,7 @@ protect brain health, and reduce the risk of falls, heart disease, diabetes, and
 <div class="clinic-grid">
 
 <div class="clinic-card">
-####Aerobic (Cardio)
+<h4>Aerobic (Cardio)</h4>
 <p>Improves heart, lung, and brain health</p>
 <ul>
 <li>Walking</li>
@@ -62,7 +60,7 @@ protect brain health, and reduce the risk of falls, heart disease, diabetes, and
 </div>
 
 <div class="clinic-card">
-####Strength Training
+<h4>Strength Training</h4>
 <p>Preserves muscle and bone</p>
 <ul>
 <li>Resistance bands</li>
@@ -72,7 +70,7 @@ protect brain health, and reduce the risk of falls, heart disease, diabetes, and
 </div>
 
 <div class="clinic-card">
-####Balance Training
+<h4>Balance Training</h4>
 <p>Reduces fall risk</p>
 <ul>
 <li>Tai chi</li>
@@ -82,7 +80,7 @@ protect brain health, and reduce the risk of falls, heart disease, diabetes, and
 </div>
 
 <div class="clinic-card">
-####Flexibility
+<h4>Flexibility</h4>
 <p>Improves comfort and range of motion</p>
 <ul>
 <li>Seated stretches</li>
@@ -95,7 +93,7 @@ protect brain health, and reduce the risk of falls, heart disease, diabetes, and
 
 <!--GUIDELINES-->
 <div class="clinic-card">
-###Recommended Weekly Targets
+<h3>Recommended Weekly Targets</h3>
 <ul>
 <li>150 minutes of moderate aerobic activity</li>
 <li>Strength training 2 days per week</li>
@@ -105,21 +103,21 @@ protect brain health, and reduce the risk of falls, heart disease, diabetes, and
 
 <!--WEEKLY PLAN-->
 <div class="clinic-card">
-###Senior‑Friendly Weekly Exercise Plan
+<h3>Senior‑Friendly Weekly Exercise Plan</h3>
 <ul>
-<li>**Monday:** 20‑minute walk + balance drills</li>
-<li>**Tuesday:** Chair stretching + resistance band arms</li>
-<li>**Wednesday:** Rest or gentle yoga</li>
-<li>**Thursday:** Walk + wall push‑ups</li>
-<li>**Friday:** Seated strength + mobility</li>
-<li>**Saturday:** Optional swim or tai chi</li>
-<li>**Sunday:** Rest or light stretching</li>
+<li><strong>Monday:</strong> 20‑minute walk + balance drills</li>
+<li><strong>Tuesday:</strong> Chair stretching + resistance band arms</li>
+<li><strong>Wednesday:</strong> Rest or gentle yoga</li>
+<li><strong>Thursday:</strong> Walk + wall push‑ups</li>
+<li><strong>Friday:</strong> Seated strength + mobility</li>
+<li><strong>Saturday:</strong> Optional swim or tai chi</li>
+<li><strong>Sunday:</strong> Rest or light stretching</li>
 </ul>
 </div>
 
 <!--SAFETY-->
 <div class="clinic-card caution">
-###Safety First — Red Flags
+<h3>Safety First — Red Flags</h3>
 <ul>
 <li>Chest pain or pressure</li>
 <li>Dizziness or fainting</li>
@@ -130,7 +128,7 @@ protect brain health, and reduce the risk of falls, heart disease, diabetes, and
 
 <!--TAKEAWAYS-->
 <div class="clinic-card">
-###Key Clinical Takeaways
+<h3>Key Clinical Takeaways</h3>
 <ul>
 <li>Exercise supports healthy aging when done safely</li>
 <li>Consistency matters more than intensity</li>
@@ -141,13 +139,13 @@ protect brain health, and reduce the risk of falls, heart disease, diabetes, and
 
 <!--CLINICIAN PROMPT-->
 <div class="clinic-card clinician-note">
-**Conversation Starter:**<br />
+<strong>Conversation Starter:</strong><br />
 “I’m building an exercise routine and would like your guidance to ensure it’s safe for my health conditions.”
-</div><div class="clinic-card clinician-note"><p></p><p>**Case Study:** My<a href="https://www.aginghealth.website/2026/02/diabetes-heart-attack-survivor-lessons.md">2008 Heart Attack Survival Story</a>and the<a href="https://www.aginghealth.website/2024/01/diabetes.md">Diabetes Link.</a></p><p>To see how I am connecting these dots, read my latest research on****Is<a href="https://www.aginghealth.website/2026/02/alzheimers-type-3-diabetes-insulin-resistance.md">Alzheimer’s Really Type 3 Diabetes?</a></p><p>**The Log:**Start tracking your "Mental Clarity" score on my<a href="https://docs.google.com/document/d/1V-LyZEo4kh6KtSfjfhPWiGfaigwlRvmAGoYCJ2aaTdM/edit?usp=sharing">Daily Glucose Tracker</a>.</p></div>
+</div><div class="clinic-card clinician-note"><p>&nbsp;</p><p><strong>Case Study:</strong> &nbsp;My&nbsp;<a href="https://www.aginghealth.website/2026/02/diabetes-heart-attack-survivor-lessons.html">2008 Heart Attack Survival Story</a>&nbsp;and the&nbsp;<a href="https://www.aginghealth.website/2024/01/diabetes.html">Diabetes Link.</a></p><p>To see how I am connecting these dots, read my latest research on<strong>&nbsp;</strong>Is&nbsp;<a href="https://www.aginghealth.website/2026/02/alzheimers-type-3-diabetes-insulin-resistance.html">Alzheimer’s Really Type 3 Diabetes?</a></p><p><strong>The Log:</strong>&nbsp;Start tracking your "Mental Clarity" score on my&nbsp;<a href="https://docs.google.com/document/d/1V-LyZEo4kh6KtSfjfhPWiGfaigwlRvmAGoYCJ2aaTdM/edit?usp=sharing">Daily Glucose Tracker</a>.</p></div>
 
 <!--SOURCES-->
 <div class="sources-box">
-###Professional Sources
+<h3>Professional Sources</h3>
 <ul>
 <li><a href="https://www.nia.nih.gov/health/exercise-and-physical-activity">National Institute on Aging</a></li>
 <li><a href="https://www.cdc.gov/physicalactivity/basics/older_adults/">CDC – Older Adult Physical Activity</a></li>

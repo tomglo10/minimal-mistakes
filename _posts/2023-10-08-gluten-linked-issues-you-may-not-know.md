@@ -1,27 +1,21 @@
 ---
-layout: single
+layout: post
 title: "Gluten-Linked Issues You May Not Know"
 date: 2023-10-08
 description: "Research from 2024-2025 highlights the complex link between gluten exposure, intestinal permeability, and neurological symptoms."
 image: "/assets/images/structure-small-intestine-villi.webp"
 tags: ["Cognitive Health", "Immune Health", "Nutrition", "Digestive", "Liver Health"]
-math: true
-toc: true
-last_modified_at: 2026-05-07
 ---
+
 ## Beyond the Gut: Understanding Multi-System Gluten Reactions
 
 Gluten can trigger far more than digestive discomfort. Beyond celiac disease, research from 2024-2025 shows links between gluten exposure, intestinal permeability, immune activation, and symptoms that mimic other chronic conditions. 
 
-Understanding these gluten-linked issues helps patients ask clearer questions, avoid unnecessary restrictions, and work more effectively with their healthcare team.  
+Understanding these gluten-linked issues helps patients ask clearer questions, avoid unnecessary restrictions, and work more effectively with their healthcare team. > **Medical Disclaimer:** This content is for informational and educational purposes only. Always consult a qualified healthcare provider regarding any medical condition.
 
----
+--
 
-**Medical Disclaimer:** This content is for informational and educational purposes only. Always consult a qualified healthcare provider regarding any medical condition.
-
----
-
-![Image of the structure of the small intestine villi]({{ site.urlimg }}{{ site.urlimg }}/assets/images/structure-small-intestine-villi.webp)
+![Image of the structure of the small intestine villi](/assets/images/structure-small-intestine-villi.webp)
 *Figure 1Colorful diagram of a small intestine villus showing its key structures—epithelium with microvilli (brush border), capillary network, and central lacteal—working together to increase surface area and absorb nutrients into the blood and lymph.*
 
 ---
@@ -71,7 +65,7 @@ The "Gut-Brain Axis" is highly sensitive to gluten-related inflammation. Clinica
 **Tommy T. Douglas** is an independent health researcher and patient advocate. A survivor of a major heart attack (2008) who manages Type 2 Diabetes, he specializes in translating complex medical data into actionable health literacy for seniors.
 
 <div style="background:#e8f4f8; padding:15px; border-left:5px solid #2980b9; margin-top:20px; font-family: sans-serif; color: #333;">
-**March 2026 Clinical Update:** Current advocacy for liver health emphasizes high-protein intake (1.2-1.5 g/kg) to prevent sarcopenia. Since gluten-free diets can sometimes be low in protein or high in refined starches, seniors must be intentional about maintaining these protein targets for metabolic and liver stability.
+<strong>March 2026 Clinical Update:</strong> Current advocacy for liver health emphasizes high-protein intake (1.2-1.5 g/kg) to prevent sarcopenia. Since gluten-free diets can sometimes be low in protein or high in refined starches, seniors must be intentional about maintaining these protein targets for metabolic and liver stability.
 </div>
 
 <script type="application/ld+json">

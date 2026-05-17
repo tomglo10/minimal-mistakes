@@ -1,21 +1,19 @@
 ---
-layout: single
+layout: post
 title: "The Importance of Senior Health Management"
 date: 2024-03-19
 description: "A clinical look at why proactive health management is the strongest predictor of healthy aging and independence."
 image: "/assets/images/health-management.webp"
 tags: ["Advocacy", "Longevity", "Cognitive Health", "Liver Health", "Immune Health", "Cardiovascular", "Aging Well"]
-math: true
-toc: true
-last_modified_at: 2026-05-07
 ---
+
 ## Health Management for Older Adults: Why It Matters
 
 As people age, health needs become more complex - but they also become more manageable with the right support. Healthcare professionals consistently emphasize that proactive health management is one of the strongest predictors of healthy aging. It is not about perfection; it is about steady habits, early detection, and staying connected to care. 
 
 ---
 
-![Older adult consulting with a clinician regarding preventive care]({{ site.urlimg }}{{ site.urlimg }}/assets/images/health-management.webp)
+![Older adult consulting with a clinician regarding preventive care](/assets/images/health-management.webp)
 *Figure 1: Preventive care helps older adults stay independent by catching health changes early and supporting long-term well-being.*
 
 ---
@@ -105,11 +103,11 @@ A 72-year-old woman mentioned small memory lapses during a checkup. Her clinicia
 
 ## Related Patient Resources
 * **The Log:** Start tracking your "Mental Clarity" score with my [Daily Glucose Tracker](https://docs.google.com/document/d/1V-LyZEo4kh6KtSfjfhPWiGfaigwlRvmAGoYCJ2aaTdM/edit?usp=sharing).
-* **The Foundation:** New to this? Read my [Beginner's Guide to Diabetes](#).
-* **Liver Health:** [How metabolic syndrome impacts liver cirrhosis](https://www.aginghealth.website/2023/09/liver-cirrhosis-what-you-need-to-know.md).
+* **The Foundation:** New to this? Read my [Beginner's Guide to Diabetes](https://www.aginghealth.website/2024/01/diabetes.html).
+* **Liver Health:** [How metabolic syndrome impacts liver cirrhosis](https://www.aginghealth.website/2023/09/liver-cirrhosis-what-you-need-to-know.html).
 
 <div style="background:#e8f4f8; padding:15px; border-left:5px solid #2980b9; margin-top:20px; font-family: sans-serif; color: #333;">
-**March 2026 Clinical Update:** Current advocacy for liver health emphasizes high-protein intake (1.2-1.5 g/kg) to prevent sarcopenia. Portal hypertension targets for esophageal or gastric varices now align with a systemic blood pressure of <130/80 mmHg.
+<strong>March 2026 Clinical Update:</strong> Current advocacy for liver health emphasizes high-protein intake (1.2-1.5 g/kg) to prevent sarcopenia. Portal hypertension targets for esophageal or gastric varices now align with a systemic blood pressure of <130/80 mmHg.
 </div>
 
 <script type="application/ld+json">

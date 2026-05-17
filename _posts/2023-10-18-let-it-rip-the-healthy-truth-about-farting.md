@@ -1,21 +1,19 @@
 ---
-layout: single
+layout: post
 title: "Let It Rip: The Healthy Truth About Farting"
 date: 2023-10-18
 description: "A science-backed look at gas, gut health, and why passing wind is a critical sign of a functioning digestive system."
 image: "/assets/images/fart.webp"
 tags: ["Liver Health", "Immune Health", "Stress", "Digestive"]
-math: true
-toc: true
-last_modified_at: 2026-05-07
 ---
+
 ## Flatulence: Unveiling the Truth (It's Universal!)
 
 Farting is normal, healthy, and often a sign that your gut is doing exactly what it’s supposed to do. For some people—including those with liver disease taking **Lactulose**—gas is part of how the body clears waste products like ammonia. Understanding what’s normal helps you talk more confidently with your clinical team.
 
 > **Medical Disclaimer:** This content is for informational and educational purposes only. Always consult a qualified healthcare provider regarding any medical condition.
 
-![A person laughing playfully about digestion]({{ site.urlimg }}{{ site.urlimg }}/assets/images/fart.webp)
+![A person laughing playfully about digestion](/assets/images/fart.webp)
 *Don't hold it in! Passing gas is a sign of an active, healthy microbiome.*
 
 ---
@@ -49,21 +47,21 @@ If gas is accompanied by severe abdominal pain, sudden changes in bowel habits, 
 
 <div class="fart-card-grid">
   <div class="fart-card">
-    <h3 class="fart-title">The High-Fiber Hero
+    <h3 class="fart-title">The High-Fiber Hero</h3>
     <ul>
       <li>Caused by beans, veggies, and oats.</li>
       <li>Sign of a healthy, active microbiome.</li>
     </ul>
   </div>
   <div class="fart-card">
-    <h3 class="fart-title">The Silent But Deadly
+    <h3 class="fart-title">The Silent But Deadly</h3>
     <ul>
       <li>High sulfur content (eggs, garlic, onions).</li>
       <li>Odor comes from sulfur-producing bacteria.</li>
     </ul>
   </div>
   <div class="fart-card">
-    <h3 class="fart-title">The Lactulose Launcher
+    <h3 class="fart-title">The Lactulose Launcher</h3>
     <ul>
       <li>Common in liver health management.</li>
       <li>Sign that ammonia is being cleared.</li>
@@ -95,7 +93,7 @@ If gas is accompanied by severe abdominal pain, sudden changes in bowel habits, 
 ---
 
 <div style="background:#e8f4f8; padding:15px; border-left:5px solid #2980b9; margin-top:20px; font-family: sans-serif; color: #333;">
-**March 2026 Clinical Update:** Current advocacy for liver health emphasizes high-protein intake ($1.2\text{--}1.5 \text{ g/kg}$) to prevent sarcopenia. Portal hypertension targets for esophageal varices now align with a systemic blood pressure of $<130/80 \text{ mmHg}$.
+<strong>March 2026 Clinical Update:</strong> Current advocacy for liver health emphasizes high-protein intake ($1.2\text{--}1.5 \text{ g/kg}$) to prevent sarcopenia. Portal hypertension targets for esophageal varices now align with a systemic blood pressure of $<130/80 \text{ mmHg}$.
 </div>
 
 <script type="application/ld+json">

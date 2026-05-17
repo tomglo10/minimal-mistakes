@@ -1,19 +1,17 @@
 ---
-layout: single
+layout: post
 title: "Afraid of the Doctor? You Might Have Iatrophobia"
 date: 2023-09-28
 description: "Iatrophobia, the fear of doctors, can be a paralyzing barrier to senior health. Learn the symptoms, causes, and strategies to reclaim your medical autonomy."
 image: "/assets/images/demon-doctor.webp"
 tags: ["Patient Advocacy", "Stress", "Mental Health"]
-math: true
-toc: true
-last_modified_at: 2026-05-07
 ---
+
 The apprehension or outright panic that some individuals feel at the prospect of a doctor's visit is a recognized clinical condition. **Iatrophobia**, a specific phobia disorder, is marked by an overwhelming and irrational dread of doctors, medical settings, or procedures. 
 
 This condition can lead to the dangerous avoidance of medical care, even when symptoms are severe, due to the anxiety triggered by the mere thought of a clinical environment. > **Medical Disclaimer:** This content is for informational and educational purposes only. It does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider regarding any medical condition.
 
-![A striking painting representing the terrifying perspective of Iatrophobia.]({{ site.urlimg }}{{ site.urlimg }}/assets/images/demon-doctor.webp)
+![A striking painting representing the terrifying perspective of Iatrophobia.](/assets/images/demon-doctor.webp)
 *Figure 1: For those with Iatrophobia, a routine check-up can feel like a confrontation with a literal demon, leading to a "flight" response that puts health at risk.*
 
 ---
@@ -73,7 +71,7 @@ You don't have to "just deal with it." There are proven ways to lower the stakes
 
 ---
 
-**Case Study:** My [2008 Heart Attack Survival Story](#) was a turning point. I had to face my own medical anxieties to survive, and it’s why I advocate for transparency today.
+**Case Study:** My [2008 Heart Attack Survival Story](https://www.aginghealth.website/2026/02/diabetes-heart-attack-survivor-lessons.html) was a turning point. I had to face my own medical anxieties to survive, and it’s why I advocate for transparency today.
 
 **The Log:** Track your stress levels alongside your vitals using my [Daily Glucose Tracker](https://docs.google.com/document/d/1V-LyZEo4kh6KtSfjfhPWiGfaigwlRvmAGoYCJ2aaTdM/edit?usp=sharing).
 

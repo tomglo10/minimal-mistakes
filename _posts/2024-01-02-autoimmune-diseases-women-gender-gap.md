@@ -1,21 +1,19 @@
 ---
-layout: single
+layout: post
 title: "Autoimmune Diseases: Why Women Are More Affected"
 date: 2024-01-02
 description: "Exploring the biological, hormonal, and genetic factors that contribute to the 80% prevalence of autoimmune conditions in women."
 image: "/assets/images/woman-autoimmune.webp"
 tags: ["Longevity", "Liver Health", "Immune Health", "Functional Fitness", "Cognitive Health", "Neurological", "Infections", "Pain"]
-math: true
-toc: true
-last_modified_at: 2026-05-07
 ---
+
 ## Unveiling the Gender Gap in Autoimmune Health
 
 Autoimmune diseases occur when the immune system mistakenly attacks healthy cells. While these conditions affect millions worldwide, a striking 80% of cases are diagnosed in women. Understanding this disparity is crucial for developing targeted treatments and improving health outcomes for seniors. 
 
 ---
 
-![A troubled woman reflecting on health struggles]({{ site.urlimg }}{{ site.urlimg }}/assets/images/woman-autoimmune.webp)
+![A troubled woman reflecting on health struggles](/assets/images/woman-autoimmune.webp)
 *Autoimmune diseases predominantly impact women, highlighting the need for gender-specific clinical research.*
 
 ---
@@ -23,10 +21,10 @@ Autoimmune diseases occur when the immune system mistakenly attacks healthy cell
 ## The "Big Three" in Women's Health
 
 ### 1. Rheumatoid Arthritis (RA)
-Women are three times more likely than men to develop RA. This chronic condition causes systemic inflammation in the joints, leading to stiffness, pain, and eventual deformity. As an advocate for [functional fitness](#), it is clear that early intervention is key to maintaining mobility.
+Women are three times more likely than men to develop RA. This chronic condition causes systemic inflammation in the joints, leading to stiffness, pain, and eventual deformity. As an advocate for [functional fitness](https://www.aginghealth.website/2023/10/healthy-aging-2026-evidence-tips.html), it is clear that early intervention is key to maintaining mobility.
 
 ### 2. Lupus (SLE)
-Lupus is a complex condition where the immune system attacks various tissues, including the skin, kidneys, and nervous system. It is often triggered by infections or environmental stressors, making it difficult to diagnose without a [proactive healthcare approach](#).
+Lupus is a complex condition where the immune system attacks various tissues, including the skin, kidneys, and nervous system. It is often triggered by infections or environmental stressors, making it difficult to diagnose without a [proactive healthcare approach](https://www.aginghealth.website/2023/12/9-tips-for-healthy-aging.html).
 
 ### 3. Hashimoto's Thyroiditis
 Women are diagnosed with this thyroid disorder eight times more often than men. It can lead to profound fatigue, weight gain, and mood swings, significantly impacting a patient's quality of life.
@@ -65,7 +63,7 @@ Visit the [Arthritis Foundation](https://www.arthritis.org/) to learn more and g
 * **Mayo Clinic:** [Hashimoto's Disease Overview](https://www.mayoclinic.org/diseases-conditions/hashimotos-disease/symptoms-causes/syc-20351855)
 
 <div style="background:#fef5e7; padding:15px; border-left:5px solid #f39c12; margin-top:20px; font-family: sans-serif; color: #333;">
-**March 2026 Clinical Update:** Psoriasis is now managed as a systemic inflammatory event. Clinical targets emphasize metabolic support with high-quality protein (**1.2–1.6 g/kg**) to maintain skin cell turnover and lean muscle mass.
+<strong>March 2026 Clinical Update:</strong> Psoriasis is now managed as a systemic inflammatory event. Clinical targets emphasize metabolic support with high-quality protein (<strong>1.2–1.6 g/kg</strong>) to maintain skin cell turnover and lean muscle mass.
 </div>
 
 <script type="application/ld+json">

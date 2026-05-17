@@ -1,21 +1,19 @@
 ---
-layout: single
+layout: post
 title: "CMP: Your Comprehensive Metabolic Panel Blood Test"
 date: 2024-01-04
 description: "A patient-centered guide to understanding the 14 markers in a CMP, from liver enzymes to kidney function."
 image: "/assets/images/cmp-test.webp"
 tags: ["Liver Health", "Patient Advocacy", "Longevity", "Functional Fitness", "Metabolic", "Cardiovascular"]
-math: true
-toc: true
-last_modified_at: 2026-05-07
 ---
+
 ## What is a Comprehensive Metabolic Panel (CMP)?
 
 The Comprehensive Metabolic Panel (CMP) is a standard blood test that provides a "biochemical snapshot" of your body’s current metabolic state. It measures 14 different substances to assess how well your organs—specifically your liver and kidneys—are functioning. 
 
 ---
 
-![Close‑up medical scene: a healthcare professional gently inserts a syringe into the inside elbow of a senior patient to draw blood for a CMP test. ]({{ site.urlimg }}{{ site.urlimg }}/assets/images/cmp-test.webp)
+![Close‑up medical scene: a healthcare professional gently inserts a syringe into the inside elbow of a senior patient to draw blood for a CMP test. ](/assets/images/cmp-test.webp)
 *Figure 1: A comprehensive metabolic panel (CMP) is a blood test that assesses proteins, enzymes, electrolytes, and minerals to diagnose and monitor health issues and medication side effects during routine check-ups.*
 
 ---
@@ -26,7 +24,7 @@ The Comprehensive Metabolic Panel (CMP) is a standard blood test that provides a
 * **Kidney Function (BUN and Creatinine):** These measure waste products in the blood to evaluate how effectively your kidneys are filtering toxins.
 * **Liver Function (ALP, ALT, AST, and Bilirubin):** These enzymes and proteins indicate liver health. Elevations can signal inflammation or biliary issues.
 * **Proteins (Albumin and Total Protein):** Essential for tissue repair and immune support. Low levels can indicate nutritional deficiencies or liver/kidney strain.
-* **Blood Glucose:** Your primary energy source. Monitoring this is critical for identifying [insulin resistance or Type 2 Diabetes](#).
+* **Blood Glucose:** Your primary energy source. Monitoring this is critical for identifying [insulin resistance or Type 2 Diabetes](https://www.aginghealth.website/2023/10/warning-signs-type-2-diabetes.html).
 * **Calcium:** Beyond bone health, calcium is required for heart and muscle function.
 
 ---
@@ -62,7 +60,7 @@ When you receive your results, they will be compared to a **Reference Range**.
 * **Cleveland Clinic:** [Interpreting CMP Results](https://my.clevelandclinic.org/health/diagnostics/22058-comprehensive-metabolic-panel-cmp)
 
 <div style="background:#e8f4f8; padding:15px; border-left:5px solid #2980b9; margin-top:20px; font-family: sans-serif; color: #333;">
-**March 2026 Clinical Update:** Current advocacy for liver health emphasizes high-protein intake ($1.2\text{--}1.5 \text{ g/kg}$) to prevent sarcopenia. Portal hypertension targets for esophageal varices now align with a systemic blood pressure of $<130/80 \text{ mmHg}$.
+<strong>March 2026 Clinical Update:</strong> Current advocacy for liver health emphasizes high-protein intake ($1.2\text{--}1.5 \text{ g/kg}$) to prevent sarcopenia. Portal hypertension targets for esophageal varices now align with a systemic blood pressure of $<130/80 \text{ mmHg}$.
 </div>
 
 <script type="application/ld+json">

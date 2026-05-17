@@ -1,21 +1,19 @@
 ---
-layout: single
+layout: post
 title: "Stimulant Laxatives: Use With Caution"
 date: 2023-09-06
 description: "Stimulant laxatives may relieve constipation quickly, but frequent use can pose risks for seniors. Learn about dependency and safer alternatives."
 image: "/assets/images/bathroom.webp"
 tags: ["Advocacy", "Longevity", "Digestive Health"]
-math: true
-toc: true
-last_modified_at: 2026-05-07
 ---
+
 ## Stimulant Laxatives Are Common But Not Without Risks
 
 Stimulant laxatives are frequently used to relieve constipation, particularly when fast results are desired. While they can be effective, they work by **forcing muscle contractions in the colon**, which can stress the digestive system when used repeatedly. 
 
 They may provide short-term relief, but overuse -- especially among older adults -- can lead to dependence, dehydration, and electrolyte disturbances. > **Medical Disclaimer:** This content is for informational and educational purposes only. It does **not** replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider regarding digestive concerns.
 
-![A tranquil bathroom environment]({{ site.urlimg }}{{ site.urlimg }}/assets/images/bathroom.webp)
+![A tranquil bathroom environment](/assets/images/bathroom.webp)
 *Figure 1: Constipation is a common digestive complaint, but the method of relief determines long-term gut health.*
 
 ---
@@ -67,7 +65,7 @@ Use that is **not daily and not ongoing**. Persistent constipation should prompt
 **Tommy T. Douglas** is an independent health researcher and patient advocate. A survivor of a major heart attack (2008) who manages Type 2 Diabetes, he specializes in translating complex medical data into actionable health literacy for seniors.
 
 <div style="background:#e8f4f8; padding:15px; border-left:5px solid #2980b9; margin-top:20px; font-family: sans-serif; color: #333;">
-**March 2026 Clinical Update:** Current advocacy for liver health emphasizes high-protein intake (1.2-1.5 g/kg) to prevent sarcopenia. Since chronic constipation and stimulant overuse can interfere with nutrient absorption, maintaining a healthy "Transit Time" is essential for liver and muscle stability.
+<strong>March 2026 Clinical Update:</strong> Current advocacy for liver health emphasizes high-protein intake (1.2-1.5 g/kg) to prevent sarcopenia. Since chronic constipation and stimulant overuse can interfere with nutrient absorption, maintaining a healthy "Transit Time" is essential for liver and muscle stability.
 </div>
 
 <script type="application/ld+json">

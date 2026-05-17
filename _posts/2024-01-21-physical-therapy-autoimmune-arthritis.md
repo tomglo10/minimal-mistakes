@@ -1,21 +1,19 @@
 ---
-layout: single
+layout: post
 title: "Physical Therapy: Benefits for Autoimmune Arthritis Patients"
 date: 2024-01-21
 description: "How customized physical therapy improves joint function, reduces systemic inflammation, and empowers patients to manage chronic flares."
 image: "/assets/images/physical-therapy.webp"
 tags: ["Functional Fitness", "Heart Health", "Type 2 Diabetes", "Patient Advocacy", "Pain"]
-math: true
-toc: true
-last_modified_at: 2026-05-07
 ---
+
 ## Reclaiming Mobility: The Role of Physical Therapy
 
 Physical therapy is a vital "clinical intervention" for managing autoimmune arthritis. By partnering with a therapist, patients move from reactive pain management to proactive joint protection. Customized exercises help regain strength, flexibility, and range of motion, which are often the first things lost during a chronic flare.  **Medical Disclaimer:** This content is for informational purposes only. Always consult a qualified healthcare provider regarding any medical condition.
 
 ---
 
-![Physical therapist working with a senior patient on knee mobility]({{ site.urlimg }}{{ site.urlimg }}/assets/images/physical-therapy.webp)
+![Physical therapist working with a senior patient on knee mobility](/assets/images/physical-therapy.webp)
 *Figure 1: Physical therapy offers a whole-body approach to movement and long-term joint preservation.*
 
 ---
@@ -27,7 +25,7 @@ Recent 2025 data confirms that regular, moderate exercise has **immunomodulatory
 
 ---
 
-![Image of the immune response in a joint with rheumatoid arthritis]({{ site.urlimg }}{{ site.urlimg }}/assets/images/rheumatoid-arthritis-joint-immune-response.webp)
+![Image of the immune response in a joint with rheumatoid arthritis](/assets/images/rheumatoid-arthritis-joint-immune-response.webp)
 *Figure 2: Inflamed joint tissue in rheumatoid arthritis, with immune cells  infiltrating the synovium, attacking the joint lining, and triggering swelling, pain, and cartilage damage. This close-up reveals the autoimmune assault underlying chronic joint destruction.*
 
 ---
@@ -63,8 +61,8 @@ Therapists use pacing strategies and energy-conservation techniques. By teaching
 
 ## Related Patient Resources
 * **The Log:** Track your mobility and clarity with the [Daily Glucose Tracker](https://docs.google.com/document/d/1V-LyZEo4kh6KtSfjfhPWiGfaigwlRvmAGoYCJ2aaTdM/edit?usp=sharing).
-* **The Foundation:** Read my [Beginner’s Guide to Diabetes](#).
-* **Liver Health:** How [metabolic syndrome impacts liver cirrhosis](https://www.aginghealth.website/2023/09/liver-cirrhosis-what-you-need-to-know.md).
+* **The Foundation:** Read my [Beginner’s Guide to Diabetes](https://www.aginghealth.website/2024/01/diabetes.html).
+* **Liver Health:** How [metabolic syndrome impacts liver cirrhosis](https://www.aginghealth.website/2023/09/liver-cirrhosis-what-you-need-to-know.html).
 
 ---
 
@@ -74,7 +72,7 @@ Therapists use pacing strategies and energy-conservation techniques. By teaching
 * **Mayo Clinic:** Exercise for Rheumatoid Arthritis.
 
 <div style="background:#e8f4f8; padding:15px; border-left:5px solid #2980b9; margin-top:20px; font-family: sans-serif; color: #333;">
-**March 2026 Clinical Update:** Current advocacy for liver health emphasizes high-protein intake ($1.2\text{--}1.5 \text{ g/kg}$) to prevent sarcopenia. Portal hypertension targets for esophageal varices now align with a systemic blood pressure of $<130/80 \text{ mmHg}$.
+<strong>March 2026 Clinical Update:</strong> Current advocacy for liver health emphasizes high-protein intake ($1.2\text{--}1.5 \text{ g/kg}$) to prevent sarcopenia. Portal hypertension targets for esophageal varices now align with a systemic blood pressure of $<130/80 \text{ mmHg}$.
 </div>
 
 <script type="application/ld+json">
@@ -136,5 +134,5 @@ Therapists use pacing strategies and energy-conservation techniques. By teaching
 
 
                     <br><div style="background:#e8f4f8; padding:15px; border-left:5px solid #2980b9; margin-top:20px; font-family: sans-serif; color: #333;">
-                    **March 2026 Clinical Update:** Current advocacy for liver health emphasizes high-protein intake (**1.2-1.5 g/kg**) to prevent sarcopenia. Portal hypertension targets for esophageal or gastric varices now align with a systemic blood pressure of **<130/80 mmHg**.
+                    <strong>March 2026 Clinical Update:</strong> Current advocacy for liver health emphasizes high-protein intake (<strong>1.2-1.5 g/kg</strong>) to prevent sarcopenia. Portal hypertension targets for esophageal or gastric varices now align with a systemic blood pressure of <strong><130/80 mmHg</strong>.
                     </div>

@@ -1,21 +1,19 @@
 ---
-layout: single
+layout: post
 title: "Exploring the Link Between Psoriasis and Sleep"
 date: 2024-01-30
 description: "How poor sleep and skin inflammation create a bidirectional cycle that affects metabolic health and quality of life."
 image: "/assets/images/sleep-psoriasis.webp"
 tags: ["Functional Fitness", "Psoriasis", "Sleep"]
-math: true
-toc: true
-last_modified_at: 2026-05-07
 ---
+
 ## The Sleep–Psoriasis Connection: A Bidirectional Cycle
 
 Psoriasis is a chronic immune-mediated inflammatory disease that commonly disrupts sleep through itch, pain, and psychological stress. Poor sleep, in turn, is associated with increased inflammation and may worsen psoriasis symptoms. This relationship creates a cycle where sleep disruption and disease activity reinforce each other. > **Medical Disclaimer:** This content is for informational purposes only. Always consult a qualified healthcare provider regarding any medical condition.
 
 ---
 
-![Woman with psoriasis experiencing nighttime discomfort]({{ site.urlimg }}{{ site.urlimg }}/assets/images/sleep-psoriasis.webp)
+![Woman with psoriasis experiencing nighttime discomfort](/assets/images/sleep-psoriasis.webp)
 *Figure 1: Inflammation and discomfort can disrupt rest, creating a feedback loop of systemic stress.*
 
 ---
@@ -60,11 +58,11 @@ Many patients report flare-ups following periods of poor sleep, likely due to in
 
 ## 📘 Related Patient Resources
 * **The Log:** Track your sleep and inflammation patterns with the [Daily Glucose Tracker](https://docs.google.com/document/d/1V-LyZEo4kh6KtSfjfhPWiGfaigwlRvmAGoYCJ2aaTdM/edit?usp=sharing).
-* **The Foundation:** New to these topics? Read the [Beginner’s Guide to Diabetes](#).
-* **Liver Health:** How [metabolic syndrome impacts liver cirrhosis](https://www.aginghealth.website/2023/09/liver-cirrhosis-what-you-need-to-know.md).
+* **The Foundation:** New to these topics? Read the [Beginner’s Guide to Diabetes](https://www.aginghealth.website/2024/01/diabetes.html).
+* **Liver Health:** How [metabolic syndrome impacts liver cirrhosis](https://www.aginghealth.website/2023/09/liver-cirrhosis-what-you-need-to-know.html).
 
 <div style="background:#fef5e7; padding:15px; border-left:5px solid #f39c12; margin-top:20px; font-family: sans-serif; color: #333;">
-**March 2026 Clinical Update:** Psoriasis is now managed as a systemic inflammatory event. Clinical targets emphasize metabolic support with high-quality protein ($1.2\text{--}1.6 \text{ g/kg}$) to maintain skin cell turnover and lean muscle mass.
+<strong>March 2026 Clinical Update:</strong> Psoriasis is now managed as a systemic inflammatory event. Clinical targets emphasize metabolic support with high-quality protein ($1.2\text{--}1.6 \text{ g/kg}$) to maintain skin cell turnover and lean muscle mass.
 </div>
 
 <script type="application/ld+json">

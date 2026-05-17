@@ -1,20 +1,18 @@
 ---
-layout: single
+layout: post
 title: "Hearing Aids: A Necessity for Cognitive Preservation"
 date: 2024-03-23
 description: "Why modern hearing technology in 2026 is a critical tool for preventing social withdrawal and slowing cognitive decline."
 image: "/assets/images/tom-hearing-aid.webp"
 tags: ["Clinical Research", "Cognitive Health", "Dementia", "Aging Well"]
-math: true
-toc: true
-last_modified_at: 2026-05-07
 ---
+
 ## Beyond the Buzz: A Senior’s Guide to Hearing Aids in 2026
 Choosing a hearing aid in 2026 can be overwhelming, but modern options offer Bluetooth, noise cancellation, and custom settings. Seniors should match features to lifestyle and budget—and consult an audiologist to stay connected and live well. 
 
 ---
 
-![Outdoor portrait showing a small, natural-looking hearing aid device]({{ site.urlimg }}{{ site.urlimg }}/assets/images/tom-hearing-aid.webp)
+![Outdoor portrait showing a small, natural-looking hearing aid device](/assets/images/tom-hearing-aid.webp)
 *Figure 1: Modern Micro Hearing Aid, A refined design blending comfort and clarity.*
 
 ---
@@ -22,7 +20,7 @@ Choosing a hearing aid in 2026 can be overwhelming, but modern options offer Blu
 ## Can Hearing Aids Really Protect Your Brain?
 A few months ago, I took the plunge and got my first pair of hearing aids. While the transition hasn't been perfect, the clarity they’ve restored to my life is undeniable. As an independent researcher, I’ve learned that hearing aids are not just about volume; they are about **cognitive preservation**.
 
-Ignoring hearing loss is a major risk factor for social withdrawal, depression, and [accelerated cognitive decline](#).
+Ignoring hearing loss is a major risk factor for social withdrawal, depression, and [accelerated cognitive decline](https://www.aginghealth.website/2024/04/making-your-home-safe-for-cognitive-decline.html).
 
 
 
@@ -57,7 +55,7 @@ If your devices aren't performing as expected, use this checklist:
 | **Johns Hopkins** | Untreated hearing loss increases fall risk by 3x. | **Standard** |
 
 <div style="background:#e8f4f8; padding:15px; border-left:5px solid #2980b9; margin-top:20px; font-family: sans-serif; color: #333;">
-**March 2026 Clinical Update:** Current advocacy for liver health emphasizes high-protein intake ($1.2\text{--}1.5 \text{ g/kg}$) to prevent sarcopenia. Portal hypertension targets for esophageal varices now align with a systemic blood pressure of $<130/80 \text{ mmHg}$.
+<strong>March 2026 Clinical Update:</strong> Current advocacy for liver health emphasizes high-protein intake ($1.2\text{--}1.5 \text{ g/kg}$) to prevent sarcopenia. Portal hypertension targets for esophageal varices now align with a systemic blood pressure of $<130/80 \text{ mmHg}$.
 </div>
 
 <script type="application/ld+json">

@@ -1,43 +1,41 @@
 ---
-layout: single
+layout: post
 title: "Avoid Norovirus: Proven Strategies for to Stay Safe"
 date: 2024-03-16T13:11:00+00:00
 description: ""
 tags: ['🧬 Clinical Research', '🌱 Senior Longevity', '⚖️ Patient Advocacy', 'Infections']
-math: true
-toc: true
-last_modified_at: 2026-05-07
 ---
-### 🔬 Scientific Updates: Why Norovirus is a "Super Bug"
+
+<h2>🔬 Scientific Updates: Why Norovirus is a "Super Bug"</h2>
 <div>
   Norovirus can affect people of any age, causing symptoms like stomach pain, nausea, diarrhea, and vomiting. It’s tough
   and can survive on surfaces for a long time, making it tricky to contain and prevent. Good hygiene is key—wash your
   hands often and quickly disinfect contaminated surfaces to help stop the spread.<table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto;"><tbody><tr><td style="text-align: center;"><img alt="Microscopic view of Norovirus structure showing non-enveloped capsid resilient to alcohol sanitizers." border="0" data-original-height="515" data-original-width="945" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXFH-I6I1di2s747tWkOdmLc_qKtrU5kSizrV_D8IWunSNLb7pTNelUTw3RvKWafwXfQ3LnMqraJZ2APXg4hgR3bdy33ZmDJq6_1NyCP9xzAV5-q-YxkVDB1LFu5a_SNsi6nyBctgtriR3biTEHrgfwThf9euLAvePASNOq-nGp6dIiWTS7wgffwlhi-1n/s16000/Norovirus.webp" loading="eager" fetchpriority="high" decoding="async"  style="display: block; margin: 0 auto;"
 title="Norovirus Environmental Resilience - Aging Health Research" /></td></tr><tr><td class="tr-caption" style="text-align: center;">The Norovirus capsid (outer shell) lacks a lipid envelope, making it 'invisible' to standard alcohol-based hand sanitizers. Mechanical handwashing remains the primary defense.</td></tr></tbody></table><br />It’s not just a "stomach flu"; it’s a master of survival.</div>
-<ul style="text-align: left;"><li><b style="font-weight: bold;">Environmental Resilience:**
-      Norovirus can survive on surfaces (like doorknobs or grocery carts) for weeks.It is also resistant to many common disinfectants, including most alcohol-based hand sanitizers.</li><li><b style="font-weight: bold;">The "Low Dose" Factor:**
+<ul style="text-align: left;"><li><b style="font-weight: bold;">Environmental Resilience:</b>
+      Norovirus can survive on surfaces (like doorknobs or grocery carts) for weeks.&nbsp;It is also resistant to many common disinfectants, including most alcohol-based hand sanitizers.</li><li><b style="font-weight: bold;">The "Low Dose" Factor:</b>
       It only takes about
       18 individual viral particles
       to make a human sick. For context, a single drop of vomit from an infected person can contain millions of
-      particles.</li><li><span style="font-weight: bold;">**Genetic Diversity:**
+      particles.</li><li><span style="font-weight: bold;"><b>Genetic Diversity:</b>
       </span>There are many different "genotypes" of Norovirus. This is why you don't develop long-term immunity;
       you can catch it again and again because the virus shifts.</li></ul>
     <p style="text-align: left;"></p>
 
-<h2 style="text-align: left;">Understanding Norovirus Transmission and Symptoms
+<h2 style="text-align: left;">Understanding Norovirus Transmission and Symptoms</h2>
 <div>
   Norovirus is a super contagious and common cause of stomach flu, bringing on a bunch of unpleasant symptoms that can
   really mess with your day. It’s not related to the flu virus and usually spreads through contaminated food, water,
   surfaces, or close contact with someone who’s infected. Outbreaks pop up in places like cruise ships, schools,
   hospitals, and restaurants, often because of poor hygiene practices.
 </div>
-<h3 style="text-align: left;">Symptoms of Norovirus
+<h3 style="text-align: left;">Symptoms of Norovirus</h3>
 Norovirus symptoms usually show up within 12 to 48 hours after exposure and can stick around for 1 to 3 days. The most
 common signs are nausea, vomiting, diarrhea, stomach cramps, and fever. These can be pretty rough and might cause
 dehydration, especially for young kids, older adults, and people with weaker immune systems. Less common symptoms can
 include a mild fever, muscle aches, and headaches.
 <br />
-<h3 style="text-align: left;">Preventing Norovirus Infection
+<h3 style="text-align: left;">Preventing Norovirus Infection</h3>
 <div>
   Preventing norovirus is key to reducing the risk of spreading it and lessening symptoms. Simple habits like washing
   hands often with soap and water go a long way in stopping the virus. It’s also smart to avoid close contact with sick
@@ -45,85 +43,85 @@ include a mild fever, muscle aches, and headaches.
   especially shellfish, is important too, since they can carry the virus.
 </div>
 <div>
-  <h2 style="text-align: left;">🛠️ The "Patient Advocate" Prevention Guide
+  <h2 style="text-align: left;">🛠️ The "Patient Advocate" Prevention Guide</h2>
   <span>
     <ul style="text-align: left;">
       <li>
-        <b style="font-weight: bold;">The Sanitizer Myth:**
-        ****
+        <b style="font-weight: bold;">The Sanitizer Myth:</b>
+        <b>&nbsp;</b>
         A
         <span>lcohol-based hand sanitizers do not kill Norovirus.</span>
-        Mechanical hand washing (friction with soap and water for 20 seconds) is the only reliable way to remove
+        &nbsp;Mechanical hand washing (friction with soap and water for 20 seconds) is the only reliable way to remove
         the virus from hands.
       </li>
       <li>
-        <b style="font-weight: bold;">Bleach is King:**
-        ****
+        <b style="font-weight: bold;">Bleach is King:</b>
+        <b>&nbsp;</b>
         For surface cleaning, standard household cleaners often fail. Advise using a chlorine bleach solution (5–25
         tablespoons of household bleach per gallon of water) for contaminated surfaces.
       </li>
       <li>
         <span style="font-weight: bold;">
-          **Laundry Care:**
-          
+          <b>Laundry Care:</b>
+          &nbsp;
         </span>
-        If a family member is sick, their clothes/linens should be washed on the
+        If a family member is sick, their clothes/linens should be washed on the&nbsp;
         <span>longest cycle at the highest heat setting</span>
-        and machine-dried at high heat.
+        &nbsp;and machine-dried at high heat.
       </li>
     </ul>
   </span>
   <p style="text-align: left;"></p>
 </div>
-<h3 style="text-align: left;">Vulnerable Populations
+<h3 style="text-align: left;">Vulnerable Populations</h3>
 <div>
   <ul style="text-align: left;">
     <li>
       Norovirus poses a heightened risk to
-      **young children, older adults, and individuals with weakened immune systems**
-      , often leading to severe symptoms such as dehydration that may require medical attention.
+      <b>young children, older adults, and individuals with weakened immune systems</b>
+      , often leading to severe symptoms such as dehydration that may require medical attention.&nbsp;&nbsp;
     </li>
     <li>
       Preventive measures for these vulnerable groups include
-      **frequent handwashing, thorough cleaning and disinfection**
-      , and avoiding close contact with sick individuals.
+      <b>frequent handwashing, thorough cleaning and disinfection</b>
+      , and avoiding close contact with sick individuals.&nbsp;&nbsp;
     </li>
     <li>
       Transmission occurs through d
-      **irect contact (e.g., shaking hands or caring for someone ill)**
+      <b>irect contact (e.g., shaking hands or caring for someone ill)</b>
       , consumption of contaminated food or water—particularly when food is improperly handled or cooked—and touching
-      contaminated surfaces, where the virus can survive for days or even weeks.
+      contaminated surfaces, where the virus can survive for days or even weeks.&nbsp;&nbsp;
     </li>
   </ul>
 </div>
 <div>
-  ### 🏥 Clinical Management for Seniors
+  <h2>🏥 Clinical Management for Seniors</h2>
   <ul>
     <li>
       <p>
-        **Dehydration Risk:**
+        <b>Dehydration Risk:</b>
         For seniors, the primary danger isn't the virus itself, but the rapid loss of electrolytes.
       </p>
     </li>
     <li>
       <p>
-        **The "Partnership" Angle:**
-        Provide a list of "Red Flags" for when a <a href="https://www.aginghealth.website/2024/03/the-importance-of-senior-home-health.md" title="The Importance Of Senior Home Health" rel="dofollow">**senior should stop home**</a> care and contact their physician (e.g.,
+        <b>The "Partnership" Angle:</b>
+        Provide a list of "Red Flags" for when a <a href="https://www.aginghealth.website/2024/03/the-importance-of-senior-home-health.html" title="The Importance Of Senior Home Health" rel="dofollow"><b>senior should stop home</b></a> care and contact their physician (e.g.,
         inability to keep down clear liquids for 12 hours, dark urine, or extreme dizziness).
       </p>
     </li>
     <li>
       <p>
-        **Post-Viral Recovery:**
+        <b>Post-Viral Recovery:</b>
         Suggest a "re-feeding" protocol. Moving from clear liquids to the
-        **BRAT diet**
+        <b>BRAT diet</b>
         (Bananas, Rice, Applesauce, Toast) is the traditional path, but emphasize the need for probiotics to restore the
         gut microbiome after the "storm" passes.
       </p>
     </li>
   </ul>
 </div>
-<h2 style="text-align: left;">Norovirus Symptoms and Treatment
+<h2 style="text-align: left;">Norovirus Symptoms and Treatment</h2>
 <div>
   Most people bounce back from norovirus without needing medical care, with treatment mainly aimed at easing symptoms
   and avoiding dehydration. Staying well-hydrated is key, so drinking plenty of fluids like water, clear broths, and
@@ -131,19 +129,19 @@ include a mild fever, muscle aches, and headaches.
   rice, bread, soups, and pasta can also help you feel better. In severe dehydration cases, medical help may be needed,
   and doctors might give intravenous fluids.
 </div>
-<h3 style="text-align: left;">Norovirus Prevention Strategies
+<h3 style="text-align: left;">Norovirus Prevention Strategies</h3>
 <div>
   Preventing norovirus involves a mix of good habits like frequent handwashing, proper cleaning, and keeping your
   distance from anyone who’s sick. Wash your hands often with soap and water, especially after using the bathroom,
-  before eating, and after handling food, since hand sanitizers aren’t as effective against norovirus.
-  **The virus can be shed in stool for two weeks or more**
+  before eating, and after handling food, since hand sanitizers aren’t as effective against norovirus.&nbsp;
+  <b>The virus can be shed in stool for two weeks or more</b>
   after symptoms resolve, reinforcing the need for long-term hand hygiene.
 </div>
 <div><br /></div>
 <div>
-  If you’ve had norovirus, avoid cooking for others for at least three days, and follow <a href="https://www.aginghealth.website/2024/05/bird-flu-outbreak-facts-and-safety-tips.md" title="Bird Flu Outbreak Facts And Safety Tips" rel="dofollow">**food safety tips**</a> like cooking
+  If you’ve had norovirus, avoid cooking for others for at least three days, and follow <a href="https://www.aginghealth.website/2024/05/bird-flu-outbreak-facts-and-safety-tips.html" title="Bird Flu Outbreak Facts And Safety Tips" rel="dofollow"><b>food safety tips</b></a> like cooking
   seafood to at least145°F (63°C), rinsing produce well, and using separate cutting boards for raw and cooked
-  foods.
+  foods.&nbsp;
 </div>
 <div><br /></div>
 <div>
@@ -153,12 +151,12 @@ include a mild fever, muscle aches, and headaches.
   staff and visitors are key to stopping the spread.
 </div>
 <div><br /></div>
-<div><h2 style="text-align: left;">Update for 2025: Norovirus on the Rise</div>
+<div><h2 style="text-align: left;">Update for 2025: Norovirus on the Rise</h2></div>
 <div>
   <div>
     Norovirus, commonly known as the Acute Gastroenteritis, is surging in the U.S. as the new year begins, causing
     severe gastrointestinal symptoms like diarrhea and vomiting. The CDC reported 91 confirmed or suspected outbreaks in
-    early December, more than double the average for this time of year and the highest since 2012.
+    early December, more than double the average for this time of year and the highest since 2012.&nbsp;
   </div>
   <div><br /></div>
   <div>
@@ -170,7 +168,7 @@ include a mild fever, muscle aches, and headaches.
   <div>
     From August to December 2024, there were 495 reported outbreaks, up from 363 in the same period in 2023. Wastewater
     monitoring shows high levels of norovirus, indicating rising cases, especially during winter months when indoor
-    gatherings occur.Wastewater surveillance is currently a more reliable metric than clinical testing, as many
+    gatherings occur.&nbsp;Wastewater surveillance is currently a more reliable metric than clinical testing, as many
     Norovirus cases go unreported to physicians
   </div>
   <div><br /></div>
@@ -181,24 +179,24 @@ include a mild fever, muscle aches, and headaches.
   </div>
 </div>
 <div>
-  ###🏥 The "Researcher Focus" Tip
+  <h3>🏥 The "Researcher Focus" Tip</h3>
   <p>
     <span>H</span>
-    **ydrogen peroxide-based cleaners**
+    <b>ydrogen peroxide-based cleaners</b>
     (like Clorox Healthcare or Oxivir) are often used in clinical settings because they are effective against Norovirus
     but less harsh on fabrics than bleach.
   </p>
-  ###📝 Strategic Content Additions
+  <h3>📝 Strategic Content Additions</h3>
   <p>Since this is an update, consider adding these two "advocacy" points to the top of your post:</p>
   <p style="text-align: left;"></p>
   <ul style="text-align: left;">
     <li>
-      **The 48-Hour Rule:**
+      <b>The 48-Hour Rule:</b>
       People are most contagious for the first two days after symptoms stop. Advocate for staying home an extra day to
       prevent community spread at senior centers or grocery stores.
     </li>
     <li>
-      **The "Vomit Radius":**
+      <b>The "Vomit Radius":</b>
       Research shows that Norovirus can become "aerosolized" (airborne) during vomiting. Advise readers to close the
       toilet lid before flushing and to vacate the immediate area for 15 minutes before cleaning.
     </li>
@@ -209,24 +207,24 @@ include a mild fever, muscle aches, and headaches.
 <div>
   <h3 style="font-family: &quot;Google Sans&quot;, sans-serif; line-height: 1.15; margin-top: 0px;">
     🛡️ Norovirus Disinfection Protocol: What Works vs. What Fails
-  
+  </h3>
   <table style="font-family: &quot;Google Sans Text&quot;, sans-serif; line-height: 1.15; margin-bottom: 32px; margin-top: 0px;">
     <thead style="line-height: 1.15; margin-top: 0px;">
       <tr style="line-height: 1.15; margin-top: 0px;">
         <td style="border: 1px solid; line-height: 1.15; margin-top: 0px;">
           <strong style="line-height: 1.15; margin-bottom: 0px; margin-top: 0px;">
             Method
-          **
+          </strong>
         </td>
         <td style="border: 1px solid; line-height: 1.15; margin-top: 0px;">
           <strong style="line-height: 1.15; margin-bottom: 0px; margin-top: 0px;">
             Effectiveness
-          **
+          </strong>
         </td>
         <td style="border: 1px solid; line-height: 1.15; margin-top: 0px;">
           <strong style="line-height: 1.15; margin-bottom: 0px; margin-top: 0px;">
             Why?
-          **
+          </strong>
         </td>
       </tr>
     </thead>
@@ -234,12 +232,12 @@ include a mild fever, muscle aches, and headaches.
       <tr style="line-height: 1.15; margin-top: 0px;">
         <td style="border: 1px solid; line-height: 1.15; margin-top: 0px;">
           <span style="line-height: 1.15; margin-top: 0px;">
-            <b style="line-height: 1.15; margin-top: 0px;">Soap &amp; Water**
+            <b style="line-height: 1.15; margin-top: 0px;">Soap &amp; Water</b>
           </span>
         </td>
         <td style="border: 1px solid; line-height: 1.15; margin-top: 0px;">
           <span style="line-height: 1.15; margin-top: 0px;">
-            <b style="line-height: 1.15; margin-top: 0px;">GOLD STANDARD**
+            <b style="line-height: 1.15; margin-top: 0px;">GOLD STANDARD</b>
           </span>
         </td>
         <td style="border: 1px solid; line-height: 1.15; margin-top: 0px;">
@@ -251,12 +249,12 @@ include a mild fever, muscle aches, and headaches.
       <tr style="line-height: 1.15; margin-top: 0px;">
         <td style="border: 1px solid; line-height: 1.15; margin-top: 0px;">
           <span style="line-height: 1.15; margin-top: 0px;">
-            <b style="line-height: 1.15; margin-top: 0px;">Chlorine Bleach**
+            <b style="line-height: 1.15; margin-top: 0px;">Chlorine Bleach</b>
           </span>
         </td>
         <td style="border: 1px solid; line-height: 1.15; margin-top: 0px;">
           <span style="line-height: 1.15; margin-top: 0px;">
-            <b style="line-height: 1.15; margin-top: 0px;">HIGHLY EFFECTIVE**
+            <b style="line-height: 1.15; margin-top: 0px;">HIGHLY EFFECTIVE</b>
           </span>
         </td>
         <td style="border: 1px solid; line-height: 1.15; margin-top: 0px;">
@@ -268,12 +266,12 @@ include a mild fever, muscle aches, and headaches.
       <tr style="line-height: 1.15; margin-top: 0px;">
         <td style="border: 1px solid; line-height: 1.15; margin-top: 0px;">
           <span style="line-height: 1.15; margin-top: 0px;">
-            <b style="line-height: 1.15; margin-top: 0px;">Alcohol Sanitizer**
+            <b style="line-height: 1.15; margin-top: 0px;">Alcohol Sanitizer</b>
           </span>
         </td>
         <td style="border: 1px solid; line-height: 1.15; margin-top: 0px;">
           <span style="line-height: 1.15; margin-top: 0px;">
-            <b style="line-height: 1.15; margin-top: 0px;">POOR / FAILS**
+            <b style="line-height: 1.15; margin-top: 0px;">POOR / FAILS</b>
           </span>
         </td>
         <td style="border: 1px solid; line-height: 1.15; margin-top: 0px;">
@@ -285,18 +283,18 @@ include a mild fever, muscle aches, and headaches.
       <tr style="line-height: 1.15; margin-top: 0px;">
         <td style="border: 1px solid; line-height: 1.15; margin-top: 0px;">
           <span style="line-height: 1.15; margin-top: 0px;">
-            <b style="line-height: 1.15; margin-top: 0px;">Steam Cleaning**
+            <b style="line-height: 1.15; margin-top: 0px;">Steam Cleaning</b>
           </span>
         </td>
         <td style="border: 1px solid; line-height: 1.15; margin-top: 0px;">
           <span style="line-height: 1.15; margin-top: 0px;">
-            <b style="line-height: 1.15; margin-top: 0px;">EFFECTIVE**
+            <b style="line-height: 1.15; margin-top: 0px;">EFFECTIVE</b>
           </span>
         </td>
         <td style="border: 1px solid; line-height: 1.15; margin-top: 0px;">
           <span style="line-height: 1.15; margin-top: 0px;">
             The virus dies when exposed to temperatures above
-            <b style="line-height: 1.15; margin-top: 0px;">170°F (77°C)**
+            <b style="line-height: 1.15; margin-top: 0px;">170°F (77°C)</b>
             .
           </span>
         </td>
@@ -304,12 +302,12 @@ include a mild fever, muscle aches, and headaches.
       <tr style="line-height: 1.15; margin-top: 0px;">
         <td style="border: 1px solid; line-height: 1.15; margin-top: 0px;">
           <span style="line-height: 1.15; margin-top: 0px;">
-            <b style="line-height: 1.15; margin-top: 0px;">Common Sprays**
+            <b style="line-height: 1.15; margin-top: 0px;">Common Sprays</b>
           </span>
         </td>
         <td style="border: 1px solid; line-height: 1.15; margin-top: 0px;">
           <span style="line-height: 1.15; margin-top: 0px;">
-            <b style="line-height: 1.15; margin-top: 0px;">UNRELIABLE**
+            <b style="line-height: 1.15; margin-top: 0px;">UNRELIABLE</b>
           </span>
         </td>
         <td style="border: 1px solid; line-height: 1.15; margin-top: 0px;">
@@ -322,7 +320,7 @@ include a mild fever, muscle aches, and headaches.
   </table>
 </div><div class="patient sources-box" style="background-color: #e3f2fd; border-left: 4px solid #00008b; border-radius: 15px; margin-top: 2rem; padding-left: 1rem;">
 <div class="clinic-trust-card">
-  ###About the Researcher
+  <h3>About the Researcher</h3>
   <p>
     Tommy T. Douglas is an independent health researcher and patient advocate. 
     A survivor of a major heart attack (2008) who manages Type 2 Diabetes with 
@@ -330,20 +328,20 @@ include a mild fever, muscle aches, and headaches.
     medical data into actionable health literacy for seniors.
   </p>
 
-  <p>**Explore more by topic:**</p>
+  <p><b>Explore more by topic:</b></p>
 
   <p class="topic-links">
-    <a href="https://www.aginghealth.website/2026/02/diabetes-heart-attack-survivor-lessons.md" target="_blank" rel="noopener noreferrer nofollow">Heart</a> |
-    <a href="https://www.aginghealth.website/2026/02/alzheimers-type-3-diabetes-insulin-resistance.md" target="_blank" rel="noopener noreferrer nofollow">Metabolism</a> |
-    <a href="https://www.aginghealth.website/2025/07/wisdom-aging-brain-cognitive-shifts.md" target="_blank" rel="noopener noreferrer nofollow">Brain</a> |
-    <a href="https://www.aginghealth.website/2023/09/liver-cirrhosis-what-you-need-to-know.md" target="_blank" rel="noopener">Liver</a>
+    <a href="https://www.aginghealth.website/2026/02/diabetes-heart-attack-survivor-lessons.html" target="_blank" rel="noopener noreferrer nofollow">Heart</a> |
+    <a href="https://www.aginghealth.website/2026/02/alzheimers-type-3-diabetes-insulin-resistance.html" target="_blank" rel="noopener noreferrer nofollow">Metabolism</a> |
+    <a href="https://www.aginghealth.website/2025/07/wisdom-aging-brain-cognitive-shifts.html" target="_blank" rel="noopener noreferrer nofollow">Brain</a> |
+    <a href="https://www.aginghealth.website/2023/09/liver-cirrhosis-what-you-need-to-know.html" target="_blank" rel="noopener">Liver</a>
   </p><br />
 </div>
 </div>
 <div class="clinical sources-box" style="background-color: #e3f2fd; border-left: 4px solid #00008b; border-radius: 15px; margin-top: 2rem; padding-left: 1rem;">
-<h3 style="text-align: left;">Sources and further information
+<h3 style="text-align: left;">Sources and further information</h3>
 <p>
-  <a href="https://www.cdc.gov/norovirus/causes/?CDC_AAref_Val=https://www.cdc.gov/norovirus/about/transmission.md">
+  <a href="https://www.cdc.gov/norovirus/causes/?CDC_AAref_Val=https://www.cdc.gov/norovirus/about/transmission.html">
     How Norovirus Spreads | Norovirus | CDC
   </a>
 </p>
@@ -357,7 +355,7 @@ include a mild fever, muscle aches, and headaches.
   </a>
 </div>
 <style>
-  /* <a href="https://www.aginghealth.website/2024/07/big-six-pillars-optimal-aging-health.md" title="Big Six Pillars Optimal Aging Health" rel="dofollow">**Aging Health Clinical**</a> Table Style */
+  /* <a href="https://www.aginghealth.website/2024/07/big-six-pillars-optimal-aging-health.html" title="Big Six Pillars Optimal Aging Health" rel="dofollow"><b>Aging Health Clinical</b></a> Table Style */
 
 
 .ah-research-table {
@@ -400,5 +398,5 @@ include a mild fever, muscle aches, and headaches.
   font-weight: bold;
 }</style>
                     <br><div style="background:#e8f4f8; padding:15px; border-left:5px solid #2980b9; margin-top:20px; font-family: sans-serif; color: #333;">
-                    **March 2026 Clinical Update:** Current advocacy for liver health emphasizes high-protein intake (**1.2-1.5 g/kg**) to prevent sarcopenia. Portal hypertension targets for esophageal or gastric varices now align with a systemic blood pressure of **<130/80 mmHg**.
+                    <strong>March 2026 Clinical Update:</strong> Current advocacy for liver health emphasizes high-protein intake (<strong>1.2-1.5 g/kg</strong>) to prevent sarcopenia. Portal hypertension targets for esophageal or gastric varices now align with a systemic blood pressure of <strong><130/80 mmHg</strong>.
                     </div>

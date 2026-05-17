@@ -1,14 +1,12 @@
 ---
-layout: single
+layout: post
 title: "Grains: Friend or Foe? Whole Grains and Health"
 date: 2023-09-04T07:54:00+00:00
 description: "If you are trying to improve gut health, brain function, blood sugar control, or weight management, learn when whole grains may help—and when they may need to be limited or avoided."
 image: "/assets/images/grains.webp"
 tags: ["Senior Longevity", "Liver & Immune Health", "Heart Health", "Functional Fitness", "Diabetes", "Nutrition"]
-math: true
-toc: true
-last_modified_at: 2026-05-07
 ---
+
 As we age, our nutritional needs change—and so do the questions we ask about what truly supports long‑term health. One of the most debated topics in senior nutrition is **grains**.
 
 Are whole grains essential for healthy aging, or can they quietly undermine gut, metabolic, and cognitive health in certain individuals?
@@ -18,7 +16,7 @@ Are whole grains essential for healthy aging, or can they quietly undermine gut,
 > **Medical Disclaimer:**  
 > This article is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider or registered dietitian before making dietary changes.
 
-![A visual representation of various bags containing different kinds of whole grains.]({{ site.urlimg }}{{ site.urlimg }}/assets/images/grains.webp)
+![A visual representation of various bags containing different kinds of whole grains.](/assets/images/grains.webp)
 *Figure 1: Whole grains are widely recommended—but are they appropriate for every senior?*
 
 ---
@@ -172,5 +170,5 @@ There is no one‑size‑fits‑all answer—only informed experimentation guide
 ---
 
 *Related reading:*  
-- [Is Alzheimer’s Really Type 3 Diabetes?](#)  
-- [Diabetes and Longevity](#)
+- [Is Alzheimer’s Really Type 3 Diabetes?](/2026/02/alzheimers-type-3-diabetes-insulin-resistance.html)  
+- [Diabetes and Longevity](/2024/01/diabetes.html)

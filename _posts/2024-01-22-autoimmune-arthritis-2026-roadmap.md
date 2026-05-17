@@ -1,21 +1,19 @@
 ---
-layout: single
+layout: post
 title: "Chasing Sunrises: New Hope for Autoimmune Arthritis Care"
 date: 2024-01-22
 description: "A 2026 roadmap exploring precision medicine, GZMK protein research, and the gut-joint axis in autoimmune arthritis."
 image: "/assets/images/ah-autoimmune-arthritis.webp"
 tags: ["Functional Fitness", "Clinical Research", "Advocacy", "Genetics", "Pain"]
-math: true
-toc: true
-last_modified_at: 2026-05-07
 ---
+
 ## The 2026 Roadmap: Precision Medicine and Cellular Breakthroughs
 
 Autoimmune arthritis—once a condition of "managing the decline"—has entered the era of **Immune Re-programming**. For those of us navigating these chronic waters, the research coming out of early 2026 represents a fundamental shift in how we understand the "self-attack" of the immune system. 
 
 ---
 
-![Autoimmune response in rheumatoid arthritis]({{ site.urlimg }}{{ site.urlimg }}/assets/images/ah-autoimmune-arthritis.webp)
+![Autoimmune response in rheumatoid arthritis](/assets/images/ah-autoimmune-arthritis.webp)
 *Figure 1: Infographic depicting the autoimmune process, emphasizing systemic inflammation and joint tissue damage.*
 
 ---
@@ -26,7 +24,7 @@ It isn't a single disease; it’s a systemic failure of **Immune Tolerance**. Un
 
 ---
 
-![Image of the immune response in a joint with rheumatoid arthritis]({{ site.urlimg }}{{ site.urlimg }}/assets/images/rheumatoid-arthritis-joint-immune-response.webp)
+![Image of the immune response in a joint with rheumatoid arthritis](/assets/images/rheumatoid-arthritis-joint-immune-response.webp)
 *Figure 2: Inflamed joint tissue in rheumatoid arthritis, with immune cells (in red and green) infiltrating the synovium, attacking the joint lining, and triggering swelling, pain, and cartilage damage. This close-up reveals the autoimmune assault underlying chronic joint destruction.*
 
 ---
@@ -76,11 +74,11 @@ While CRISPR (Gene Editing) permanently changes DNA, **RNA-Silencing** simply "m
 
 ## Related Patient Resources
 * **The Log:** Track your metabolic metrics with the [Daily Glucose Tracker](https://docs.google.com/document/d/1V-LyZEo4kh6KtSfjfhPWiGfaigwlRvmAGoYCJ2aaTdM/edit?usp=sharing).
-* **The Foundation:** New to this? Read my [Beginner’s Guide to Diabetes](#).
-* **Liver Health:** How [metabolic syndrome impacts liver cirrhosis](https://www.aginghealth.website/2023/09/liver-cirrhosis-what-you-need-to-know.md).
+* **The Foundation:** New to this? Read my [Beginner’s Guide to Diabetes](https://www.aginghealth.website/2024/01/diabetes.html).
+* **Liver Health:** How [metabolic syndrome impacts liver cirrhosis](https://www.aginghealth.website/2023/09/liver-cirrhosis-what-you-need-to-know.html).
 
 <div style="background:#e8f4f8; padding:15px; border-left:5px solid #2980b9; margin-top:20px; font-family: sans-serif; color: #333;">
-**March 2026 Clinical Update:** Current advocacy for liver health emphasizes high-protein intake ($1.2\text{--}1.5 \text{ g/kg}$) to prevent sarcopenia. Portal hypertension targets for esophageal varices now align with a systemic blood pressure of $<130/80 \text{ mmHg}$.
+<strong>March 2026 Clinical Update:</strong> Current advocacy for liver health emphasizes high-protein intake ($1.2\text{--}1.5 \text{ g/kg}$) to prevent sarcopenia. Portal hypertension targets for esophageal varices now align with a systemic blood pressure of $<130/80 \text{ mmHg}$.
 </div>
 
 <script type="application/ld+json">

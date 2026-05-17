@@ -1,19 +1,17 @@
 ---
-layout: single
+layout: post
 title: "Sustainable Living: A Green, Healthy Life That Truly Lasts"
 date: 2023-10-29
 description: "A patient-centered guide connecting green choices with better heart health, respiratory function, and metabolic stability."
 image: "/assets/images/sustainable-living.webp"
 tags: ["Liver Health", "Cardiovascular", "Stress", "Nutrition", "Environment"]
-math: true
-toc: true
-last_modified_at: 2026-05-07
 ---
+
 ## Practical Steps to Live Greener and Healthier
 
-Sustainable living isn't just about the planet—it directly improves your health, lowers long-term costs, and reduces disease risk. Small, practical changes in food, energy, and daily habits can deliver [immediate personal benefits](#) while supporting environmental sustainability. > **Medical Disclaimer:** This content is for informational and educational purposes only. Always consult a qualified healthcare provider regarding any medical condition.
+Sustainable living isn't just about the planet—it directly improves your health, lowers long-term costs, and reduces disease risk. Small, practical changes in food, energy, and daily habits can deliver [immediate personal benefits](https://www.aginghealth.website/2024/07/metformin-benefits.html) while supporting environmental sustainability. > **Medical Disclaimer:** This content is for informational and educational purposes only. Always consult a qualified healthcare provider regarding any medical condition.
 
-![Sustainable living for health and well-being]({{ site.urlimg }}{{ site.urlimg }}/assets/images/sustainable-living.webp)
+![Sustainable living for health and well-being](/assets/images/sustainable-living.webp)
 *Everyday choices that support a greener planet often support a healthier body.*
 
 ---
@@ -23,7 +21,7 @@ Sustainable living means meeting today's needs without compromising future gener
 
 ---
 
-![Image of an energy efficient home design]({{ site.urlimg }}{{ site.urlimg }}/assets/images/energy-efficient.webp)
+![Image of an energy efficient home design](/assets/images/energy‑efficient.webp)
 *Figure 2: Energy‑efficient house: insulated walls and attic, triple‑pane windows, solar panels on roof, heat‑pump HVAC, sealed ducts, and LED lighting.*
 
 ---
@@ -31,7 +29,7 @@ Sustainable living means meeting today's needs without compromising future gener
 
 ### The Health Connection:
 * **Cleaner Air, Stronger Lungs:** Reducing fossil fuel use lowers air pollution—a major contributor to asthma, heart disease, and stroke.
-* **Healthier Diets:** [Climate-smart meals](#) rich in plants are linked to lower risks of diabetes and cardiovascular disease.
+* **Healthier Diets:** [Climate-smart meals](https://www.aginghealth.website/2024/05/food-additives-and-type-2-diabetes-risk.html) rich in plants are linked to lower risks of diabetes and cardiovascular disease.
 * **Mental Well-Being:** Nature exposure and active transport (walking/cycling) improve mood and reduce anxiety.
 
 ---
@@ -49,7 +47,7 @@ Sustainable living means meeting today's needs without compromising future gener
 
 ---
 
-![Educational diagram of the sustainable food cycle with six stages—soil health, planting, harvesting, cooking, composting, and nutrient return—connected by green circular arrows.]({{ site.urlimg }}{{ site.urlimg }}/assets/images/food-cycle.webp)
+![Educational diagram of the sustainable food cycle with six stages—soil health, planting, harvesting, cooking, composting, and nutrient return—connected by green circular arrows.](/assets/images/food-cycle.webp)
 *Figure 3: Sustainable Food Cycle — A clear, eco‑friendly illustration showing how healthy soil supports planting, harvesting, cooking, and composting, returning nutrients to the earth for the next generation of growth.*
 
 ---
@@ -79,7 +77,7 @@ For patients with fluctuating energy or "brain fog," micro-habits are the ultima
 * **IEA (2024):** Energy efficiency analysis for residential buildings.
 
 <div style="background:#e8f4f8; padding:15px; border-left:5px solid #2980b9; margin-top:20px; font-family: sans-serif; color: #333;">
-**March 2026 Clinical Update:** Current advocacy for liver health emphasizes high-protein intake ($1.2\text{--}1.5 \text{ g/kg}$) to prevent sarcopenia. Portal hypertension targets for esophageal varices now align with a systemic blood pressure of $<130/80 \text{ mmHg}$.
+<strong>March 2026 Clinical Update:</strong> Current advocacy for liver health emphasizes high-protein intake ($1.2\text{--}1.5 \text{ g/kg}$) to prevent sarcopenia. Portal hypertension targets for esophageal varices now align with a systemic blood pressure of $<130/80 \text{ mmHg}$.
 </div>
 
 <script type="application/ld+json">

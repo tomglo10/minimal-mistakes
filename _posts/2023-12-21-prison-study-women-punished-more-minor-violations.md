@@ -1,16 +1,14 @@
 ---
-layout: single
+layout: post
 title: "Prison Study: Women Punished More for Minor Violations"
 date: 2023-12-21
 description: "A clinical look at behavioral health and disciplinary disparities in the correctional system."
 tags: ["Public Health", "Advocacy", "Behavioral Health"]
-math: true
-toc: true
-last_modified_at: 2026-05-07
 ---
+
 Researchers are delving into the complexities surrounding the effects of incarceration and how these impacts differ between genders. A recent study spearheaded by **Melinda Tasca, Ph.D.**, an associate professor at the University of Texas at El Paso (UTEP), examined the behaviors of more than 20,000 individuals.
 
-![Two women prisoners in orange prison clothes standing in a cell.]({{ site.urlimg }}{{ site.urlimg }}/assets/images/prison-women.webp)
+![Two women prisoners in orange prison clothes standing in a cell.](/assets/images/prison-women.webp)
 *The issue of gender disparity within the prison system is a pressing concern, as female inmates encounter distinct challenges that set them apart from their male counterparts.*
 
 ---
@@ -63,4 +61,4 @@ The disparate application of rules can lead to several negative outcomes in the 
 * **The Prison Journal:** [Gender Differences in Rule Violations](https://doi.org/10.1177/0032885514524882)
 * **Vera Institute of Justice:** [People in Prison Reports](https://www.vera.org/publications/people-in-prison-in-2018)
 * **National Institute of Justice:** [Searchable Research Database](https://nij.ojp.gov/)
-* **UTEP Newsfeed:** [Incarcerated Women Punished at Higher Rates](#)
+* **UTEP Newsfeed:** [Incarcerated Women Punished at Higher Rates](https://www.utep.edu/newsfeed/2023/incarcerated-women-punished-at-higher-rates-for-minor-infractions-than-men-utep-study-shows.html)

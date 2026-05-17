@@ -1,22 +1,20 @@
 ---
-layout: single
+layout: post
 title: "How to Stay Keto on a Budget: 17 Easy Tips"
 date: 2023-09-04T00:59:00+00:00
 description: "The ketogenic (keto) diet is a popular low-carb approach. This guide shows how to follow keto on a budget without sacrificing nutrition or flavor."
 image: "/assets/images/keto-meal.webp"
 tags: [Healthcare, Diet]
-math: true
-toc: true
-last_modified_at: 2026-05-07
 ---
+
 A ketogenic diet—low in carbohydrates and high in healthy fats—can support weight loss, improve energy levels, and enhance mental clarity. It emphasizes whole, minimally processed foods such as eggs, meat, fish, non‑starchy vegetables, nuts, and seeds. Buying these foods in bulk can help keep costs down while maintaining nutritional quality.
 
 <!--more-->
 
-![Savor a keto breakfast of crispy bacon, poached eggs, and avocado, served with mixed greens and zesty vinaigrette.]({{ site.urlimg }}{{ site.urlimg }}/assets/images/keto-meal.webp)
+![Savor a keto breakfast of crispy bacon, poached eggs, and avocado, served with mixed greens and zesty vinaigrette.](/assets/images/keto-meal.webp)
 *Figure 1: A nutrient-dense keto breakfast that is both healthy and budget‑friendly.*
 
-In addition, following a keto diet has been shown to significantly improve blood sugar regulation, making it a good option for those looking to manage conditions such as [diabetes](#) or insulin resistance.
+In addition, following a keto diet has been shown to significantly improve blood sugar regulation, making it a good option for those looking to manage conditions such as [diabetes](https://www.aginghealth.website/2024/01/diabetes.html) or insulin resistance.
 
 Furthermore, the keto diet may reduce the risk of heart disease by supporting healthy cholesterol levels and overall cardiovascular health. These benefits make keto a compelling option for people looking to improve their well‑being through dietary changes.
 

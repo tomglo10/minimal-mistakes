@@ -1,21 +1,19 @@
 ---
-layout: single
+layout: post
 title: "Watchman Device: Minimally Invasive Heart Technology"
 date: 2024-01-17
 description: "A patient-centered review of the Watchman implant as a stroke-prevention alternative for those who cannot tolerate blood thinners."
 image: "/assets/images/heart-rhythm.webp"
 tags: ["Metabolic", "Heart Health", "Patient Advocacy"]
-math: true
-toc: true
-last_modified_at: 2026-05-07
 ---
+
 ## AFib & The Watchman: A Shield Against Stroke
 
 For those of us living with Atrial Fibrillation (AFib), the fear of stroke is a constant shadow. While blood thinners have long been the gold standard for protection, they often come with a heavy "price" in side effects—especially for those of us managing complex metabolic health and liver concerns. 
 
 ---
 
-![Normal heart rhythm vs Atrial Fibrillation comparison]({{ site.urlimg }}{{ site.urlimg }}/assets/images/heart-rhythm.webp)
+![Normal heart rhythm vs Atrial Fibrillation comparison](/assets/images/heart-rhythm.webp)
 *Figure 1: Normal heart rhythm follows a steady pattern. In AFib, chaotic electrical signals in the upper chambers increase the risk of blood clots and stroke.*
 
 ---
@@ -25,7 +23,7 @@ My journey into heart technology started with an irregular heartbeat and a proce
 
 
 
-![Image of catheter ablation procedure for atrial fibrillation]({{ site.urlimg }}{{ site.urlimg }}/assets/images/assets/img/catheter-ablation.webp)
+![Image of catheter ablation procedure for atrial fibrillation](/assets/images/assets/images/catheter-ablation.webp)
 
 
 In my case, an eight-hour procedure was required to reach difficult arrhythmias. The physical toll of such an extended surgery increases the immediate risk of blood clots, often mandating a strict regimen of blood thinners—which is where the clinical conflict began.
@@ -62,11 +60,11 @@ Guided through a tiny incision in the groin, the device is deployed into the LAA
 
 ## 📘 Related Patient Resources
 * **The Log:** Track your metabolic metrics with the [Daily Glucose Tracker](https://docs.google.com/document/d/1V-LyZEo4kh6KtSfjfhPWiGfaigwlRvmAGoYCJ2aaTdM/edit?usp=sharing).
-* **The Foundation:** New to these topics? Read the [Beginner’s Guide to Diabetes](#).
-* **Liver Health:** Learn how [metabolic syndrome impacts liver cirrhosis](#).
+* **The Foundation:** New to these topics? Read the [Beginner’s Guide to Diabetes](https://www.aginghealth.website/2024/01/diabetes.html).
+* **Liver Health:** Learn how [metabolic syndrome impacts liver cirrhosis](https://www.aginghealth.website/2023/09/liver-cirrhosis-what-you-need-to-know.html).
 
 <div style="background:#e8f4f8; padding:15px; border-left:5px solid #2980b9; margin-top:20px; font-family: sans-serif; color: #333;">
-**March 2026 Clinical Update:** Current advocacy for liver health emphasizes high-protein intake ($1.2\text{--}1.5 \text{ g/kg}$) to prevent sarcopenia. Portal hypertension targets for esophageal varices now align with a systemic blood pressure of $<130/80 \text{ mmHg}$.
+<strong>March 2026 Clinical Update:</strong> Current advocacy for liver health emphasizes high-protein intake ($1.2\text{--}1.5 \text{ g/kg}$) to prevent sarcopenia. Portal hypertension targets for esophageal varices now align with a systemic blood pressure of $<130/80 \text{ mmHg}$.
 </div>
 
 <script type="application/ld+json">

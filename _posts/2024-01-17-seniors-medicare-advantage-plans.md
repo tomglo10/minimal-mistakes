@@ -1,22 +1,20 @@
----
-layout: single
-title: "Seniors: About Medicare Advantage Plans"
-date: 2024-01-17
-description: "A comprehensive clinical guide to Medicare Part C, detailing networks, supplemental benefits, and out-of-pocket maximums specifically designed for seniors."
-image: "/assets/images/discussion-medicare.webp"
+---  
+layout: post  
+title: "Seniors: About Medicare Advantage Plans"  
+date: 2024-01-17  
+description: "A comprehensive clinical guide to Medicare Part C, detailing networks, supplemental benefits, and out-of-pocket maximums specifically designed for seniors."  
+image: "/assets/images/discussion-medicare.webp"  
 image: "/assets/images/medicare.webp"
-tags: ["Longevity", "Advocacy", "Functional Fitness"]
-math: true
-toc: true
-last_modified_at: 2026-05-07
----
+tags: ["Longevity", "Advocacy", "Functional Fitness"]  
+---  
+
 ## Understanding Medicare Advantage: Essential Information for Seniors  
 
 Medicare Advantage, also known as Medicare Part C, has grown to become one of the most preferred options for older adults seeking Medicare coverage. However, the variety of rules, network restrictions, and associated costs can often be overwhelming—especially when trying to compare different plans during the open enrollment period. 
 
 ---
 
-![A healthcare advocate explaining Medicare Advantage to a senior couple]({{ site.urlimg }}{{ site.urlimg }}/assets/images/discussion-medicare.webp)  
+![A healthcare advocate explaining Medicare Advantage to a senior couple](/assets/images/discussion-medicare.webp)  
 *Figure 1: Medicare Advantage plans are provided by private insurance companies as an alternative to Original Medicare.*  
 
 ---  
@@ -35,7 +33,7 @@ Medicare Advantage is a comprehensive alternative to Original Medicare, combinin
 
 ---
 
-![Comparison image showing Original Medicare vs. Medicare Advantage side by side.]({{ site.urlimg }}{{ site.urlimg }}/assets/images/medicare.webp)
+![Comparison image showing Original Medicare vs. Medicare Advantage side by side.](/assets/images/medicare.webp)
 *Figure 1: Side‑by‑side comparison of Original Medicare and Medicare Advantage, highlighting how coverage is structured, provider access, and added benefits to help beneficiaries choose the plan that best fits their health needs.*
 
 ---  
@@ -95,15 +93,15 @@ Yes, you can switch back during the Annual Enrollment Period (October 15 to Dece
 
 <div class="ah-glossary">  
   <div class="ah-term">  
-    ###Medicare Advantage (Part C)  
+    <h3>Medicare Advantage (Part C)</h3>  
     <p>A private insurance option that combines hospital, medical, and prescription drug coverage into a single plan, often with extra benefits.</p>  
   </div>  
   <div class="ah-term">  
-    ###Formulary  
+    <h3>Formulary</h3>  
     <p>The list of prescription medications covered by a plan, organized into different cost tiers.</p>  
   </div>  
   <div class="ah-term">  
-    ###Out-of-Pocket Maximum  
+    <h3>Out-of-Pocket Maximum</h3>  
     <p>The highest amount you will pay in a year for covered healthcare services, providing essential protection against large medical bills.</p>  
   </div>  
 </div>  
@@ -119,7 +117,7 @@ Yes, you can switch back during the Annual Enrollment Period (October 15 to Dece
 ### About the Author  
 **Tommy T. Douglas** is an independent health researcher and patient advocate. Having survived a major heart attack in 2008 and managing Type 2 Diabetes, he focuses on translating complex medical information into practical health guidance tailored for seniors.  
 
-**Discover more articles:** [Heart](#) | [Metabolism](#) | [Brain](#) | [Liver](#)  
+**Discover more articles:** [Heart](/2026/02/diabetes-heart-attack-survivor-lessons.html) | [Metabolism](/2026/02/alzheimers-type-3-diabetes-insulin-resistance.html) | [Brain](/2025/07/wisdom-aging-brain-cognitive-shifts.html) | [Liver](/2023/09/liver-cirrhosis-what-you-need-to-know.html)  
 
 ---  
 
@@ -129,7 +127,7 @@ Yes, you can switch back during the Annual Enrollment Period (October 15 to Dece
 * Kaiser Family Foundation – Trends in Medicare Advantage  
 
 <div style="background:#e8f4f8; padding:15px; border-left:5px solid #2980b9; margin-top:20px; font-family: sans-serif; color: #333;">  
-**March 2026 Clinical Update:** Current recommendations for liver health emphasize a high-protein diet (1.2-1.5 g/kg) to prevent muscle loss (sarcopenia). Targets for portal hypertension related to esophageal or gastric varices now align with maintaining systemic blood pressure below 130/80 mmHg.  
+<strong>March 2026 Clinical Update:</strong> Current recommendations for liver health emphasize a high-protein diet (1.2-1.5 g/kg) to prevent muscle loss (sarcopenia). Targets for portal hypertension related to esophageal or gastric varices now align with maintaining systemic blood pressure below 130/80 mmHg.  
 </div>  
 
 <script type="application/ld+json">  

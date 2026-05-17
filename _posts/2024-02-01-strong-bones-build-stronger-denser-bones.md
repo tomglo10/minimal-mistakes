@@ -1,19 +1,17 @@
 ---
-layout: single
+layout: post
 title: "Strong Bones: Build Stronger, Denser Bones at Any Age"
 date: 2024-02-01
 description: "A clinical guide to osteogenic loading, nutrient synergy, and building bone density to preserve independence at any age."
 image: "/assets/images/strong-bones.webp"
 tags: ["Cardiovascular", "Nutrition", "Prevention", "Bones"]
-math: true
-toc: true
-last_modified_at: 2026-05-07
 ---
+
 ## Stronger, Denser Bones at Any Age
 
 Maintaining strong bones isn’t just about avoiding fractures -- it’s about preserving independence, mobility, and quality of life. Bone density naturally declines with age, but the decline is not inevitable. With the right habits, seniors can build stronger, denser bones well into their 70s and 80s. ---
 
-![Medical illustration of bone microarchitecture and density]({{ site.urlimg }}{{ site.urlimg }}/assets/images/strong-bones.webp)
+![Medical illustration of bone microarchitecture and density](/assets/images/strong-bones.webp)
 *Figure 1: Bone strength is vital for health, offering support, protecting organs, anchoring muscles, and storing calcium.*
 
 ---
@@ -90,12 +88,12 @@ Walking is excellent for heart health, but it provides only mild bone loading. A
 ### About the Researcher
 **Tommy T. Douglas** is an independent health researcher and patient advocate. A survivor of a major heart attack (2008) who manages Type 2 Diabetes, he specializes in translating complex 2026 medical data into actionable health literacy for seniors.
 
-**Explore more:** [Heart](#) | [Metabolism](https://www.aginghealth.website/2026/02/alzheimers-type-3-diabetes-insulin-resistance.md) | [Brain](#) | [Liver](https://www.aginghealth.website/2023/09/liver-cirrhosis-what-you-need-to-know.md)
+**Explore more:** [Heart](https://www.aginghealth.website/2026/02/diabetes-heart-attack-survivor-lessons.html) | [Metabolism](https://www.aginghealth.website/2026/02/alzheimers-type-3-diabetes-insulin-resistance.html) | [Brain](https://www.aginghealth.website/2025/07/wisdom-aging-brain-cognitive-shifts.html) | [Liver](https://www.aginghealth.website/2023/09/liver-cirrhosis-what-you-need-to-know.html)
 
 ---
 
 <div style="background:#e8f4f8; padding:15px; border-left:5px solid #2980b9; margin-top:20px; font-family: sans-serif; color: #333;">
-**March 2026 Clinical Update:** Current advocacy for liver health emphasizes high-protein intake (1.2-1.5 g/kg) to prevent sarcopenia. Portal hypertension targets for esophageal or gastric varices now align with a systemic blood pressure of <130/80 mmHg.
+<strong>March 2026 Clinical Update:</strong> Current advocacy for liver health emphasizes high-protein intake (1.2-1.5 g/kg) to prevent sarcopenia. Portal hypertension targets for esophageal or gastric varices now align with a systemic blood pressure of <130/80 mmHg.
 </div>
 
 <script type="application/ld+json">

@@ -1,14 +1,12 @@
 ---
-layout: single
+layout: post
 title: "Family Health Vaccines: Choosing Pharmacies or Clinics for Care"
 date: 2023-08-30
 description: "Learn how pharmacies and clinics support family vaccination needs, including safety, convenience, eligibility, and how to choose the right setting for each family member."
-image: "/assets/images/vaccination.webp"
+image:  "/assets/images/vaccination.webp"
 tags: ["Immune", "Public-Health", "Prevention", "Senior-Longevity"]
-math: true
-toc: true
-last_modified_at: 2026-05-07
 ---
+
 ## A Complete Guide to Vaccine Access, Safety, and Smart Family Decision‑Making
 
 Families today rely on a mix of pharmacies and **medical clinics to stay healthy**, but navigating these options can sometimes feel overwhelming. From routine flu shots to childhood immunizations and senior boosters, choosing the right setting matters.
@@ -18,7 +16,7 @@ This guide explains how pharmacies and clinics differ, when each is most appropr
 > **Medical Disclaimer:**  
 > This content is for informational and educational purposes only. It is not a substitute for professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider regarding vaccination decisions and health conditions.
 
-![A smiling senior receiving a vaccination at a local pharmacy]({{ site.urlimg }}{{ site.urlimg }}/assets/images/vaccination.webp)
+![A smiling senior receiving a vaccination at a local pharmacy](/assets/images/vaccination.webp)
 *Figure 1: Vaccinations strengthen immunity, reduce disease spread, and protect individuals and communities across all age groups.*
 
 ---

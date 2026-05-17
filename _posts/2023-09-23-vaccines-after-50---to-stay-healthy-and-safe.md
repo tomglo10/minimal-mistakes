@@ -1,19 +1,17 @@
 ---
-layout: single
+layout: post
 title: "Vaccines After 50: The Essential Guide to Senior Immunity"
 date: 2023-09-23
 description: "As we age, our 'immune memory' fades. Learn which vaccines are critical for adults over 50 to maintain longevity and prevent complications."
 image: "/assets/images/the-jab.webp"
 tags: ["Immune Health", "Senior Longevity", "Prevention", "Metabolic Health"]
-math: true
-toc: true
-last_modified_at: 2026-05-07
 ---
+
 Vaccinations are a crucial safeguard for adults over 50. As we age, our immune system undergoes a process called **immunosenescence**, making us more susceptible to infections and reducing our ability to recover from common illnesses. 
 
 This guide breaks down the essential boosters and new vaccines—like RSV and Shingrix—that serve as a powerful defense for your long-term wellness. > **Medical Disclaimer:** This content is for informational purposes only and does not replace professional medical advice. Always consult a qualified healthcare provider regarding your specific health status.
 
-![An oil painting of a healthy senior receiving a vaccination.]({{ site.urlimg }}{{ site.urlimg }}/assets/images/the-jab.webp)
+![An oil painting of a healthy senior receiving a vaccination.](/assets/images/the-jab.webp)
 *Figure 1: Preventative care through vaccination is a cornerstone of healthy aging.*
 
 
@@ -46,19 +44,19 @@ Vaccines do more than just prevent a "fever." For the senior population, they pr
 ###  Senior Vaccine Dashboard
 <div class="vaccine-card-grid">
   <div class="vaccine-card">
-    ###Influenza
-    <p>**Frequency:** Annually (Fall)</p>
-    <p>**Benefit:** Prevents secondary pneumonia.</p>
+    <h3>Influenza</h3>
+    <p><strong>Frequency:</strong> Annually (Fall)</p>
+    <p><strong>Benefit:</strong> Prevents secondary pneumonia.</p>
   </div>
   <div class="vaccine-card">
-    ###Shingrix
-    <p>**Frequency:** 2-dose series (Once)</p>
-    <p>**Benefit:** Protects against debilitating nerve pain.</p>
+    <h3>Shingrix</h3>
+    <p><strong>Frequency:</strong> 2-dose series (Once)</p>
+    <p><strong>Benefit:</strong> Protects against debilitating nerve pain.</p>
   </div>
   <div class="vaccine-card">
-    ###Tdap
-    <p>**Frequency:** Every 10 Years</p>
-    <p>**Benefit:** Protects against Tetanus and Pertussis.</p>
+    <h3>Tdap</h3>
+    <p><strong>Frequency:</strong> Every 10 Years</p>
+    <p><strong>Benefit:</strong> Protects against Tetanus and Pertussis.</p>
   </div>
 </div>
 

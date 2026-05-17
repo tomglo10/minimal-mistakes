@@ -1,21 +1,19 @@
 ---
-layout: single
+layout: post
 title: "Psoriasis: Personal Advocacy and Systemic Research"
 date: 2023-09-27
 description: "A 4-year journey through plaque psoriasis and the transition to psoriatic arthritis, combined with a guide to navigating the biologic paywall."
 image: "/assets/images/psoriasis-elbow.webp"
 tags: ["Clinical Research", "Immune Health", "Functional Fitness", "Genetics"]
-math: true
-toc: true
-last_modified_at: 2026-05-07
 ---
+
 <div style="background-color: #f0fdfa; border-left: 6px solid rgb(13, 148, 136); border-radius: 8px; margin-bottom: 30px; padding: 25px;">
-  <h2 style="color: #003333; margin-top: 0px;">Living Research: My 4-Year Psoriasis Journey
-  <p>I don't just study psoriasis; I live it. For over four years, I have managed flare-ups primarily on my feet and legs. Recently, my journey took a turn as I began developing symptoms of **Psoriatic Arthritis**—a challenging progression where the immune system moves from the skin to the joints.</p>
-  <p>**The Cost of Care:** Two years ago, when my insurance stopped covering Humira, I turned to **AbbVie Assist**. Without manufacturer patient assistance, the biologic therapy that keeps my symptoms stable would be inaccessible. This guide combines personal advocacy with clinical data to help you navigate both the physical and financial hurdles of this condition.</p>
+  <h2 style="color: #003333; margin-top: 0px;">Living Research: My 4-Year Psoriasis Journey</h2>
+  <p>I don't just study psoriasis; I live it. For over four years, I have managed flare-ups primarily on my feet and legs. Recently, my journey took a turn as I began developing symptoms of <b>Psoriatic Arthritis</b>—a challenging progression where the immune system moves from the skin to the joints.</p>
+  <p><b>The Cost of Care:</b> Two years ago, when my insurance stopped covering Humira, I turned to <b>AbbVie Assist</b>. Without manufacturer patient assistance, the biologic therapy that keeps my symptoms stable would be inaccessible. This guide combines personal advocacy with clinical data to help you navigate both the physical and financial hurdles of this condition.</p>
 </div>
 
-![Close-up of plaque psoriasis on a patient's elbow, illustrating silvery scales and inflammation.]({{ site.urlimg }}{{ site.urlimg }}/assets/images/psoriasis-elbow.webp)
+![Close-up of plaque psoriasis on a patient's elbow, illustrating silvery scales and inflammation.](/assets/images/psoriasis-elbow.webp)
 *Figure 1: Psoriasis is a systemic autoimmune disorder; early detection and intervention are essential for preventing joint damage.*
 
 

@@ -1,14 +1,12 @@
 ---
-layout: single
+layout: post
 title: "Don't Ignore the Warning Signs of Type 2 Diabetes"
 date: 2023-10-10
 description: "How identifying early insulin resistance and losing abdominal fat can improve long-term metabolic health."
 image: "/assets/images/prediabetes.webp"
 tags: ["Cardiovascular", "Senior Longevity", "Cognitive Health", "Diabetes"]
-math: true
-toc: true
-last_modified_at: 2026-05-07
 ---
+
 <style>
   /* Build-Safe CSS for Interactive Components */
   .symptom-card-grid, .shopping-card-grid, .tracker-card-grid {
@@ -47,16 +45,10 @@ last_modified_at: 2026-05-07
 
 ## Don't Ignore the Warning Signs
 
-Type 2 diabetes often develops slowly, and many people miss the early clues. Catching symptoms early facilitates more [productive conversations with your healthcare team](#) and clarifies which lifestyle changes are necessary. 
+Type 2 diabetes often develops slowly, and many people miss the early clues. Catching symptoms early facilitates more [productive conversations with your healthcare team](https://www.aginghealth.website/2025/07/ai-in-healthcare.html) and clarifies which lifestyle changes are necessary. > **Medical Disclaimer:** This content is for informational purposes only. Always consult a qualified healthcare provider regarding any medical condition.
 
----
-
-**Medical Disclaimer:** This content is for informational purposes only. Always consult a qualified healthcare provider regarding any medical condition.
-
----
-
-![Belly fat contributes to developing diabetes]({{ site.urlimg }}{{ site.urlimg }}/assets/images/prediabetes.webp)
-*Reducing abdominal fat is a key strategy to [lower the likelihood](#) of developing prediabetes.*
+![Belly fat contributes to developing diabetes](/assets/images/prediabetes.webp)
+*Reducing abdominal fat is a key strategy to [lower the likelihood](https://www.aginghealth.website/2023/11/foods-raise-lower-testosterone.html) of developing prediabetes.*
 
 ---
 
@@ -69,7 +61,7 @@ Type 2 diabetes often develops slowly, and many people miss the early clues. Cat
 
 <div class="symptom-card-grid">
   <div class="symptom-card">
-    <h3 class="symptom-title">Metabolic Signs
+    <h3 class="symptom-title">Metabolic Signs</h3>
     <ul>
       <li>Unexplained hunger</li>
       <li>Slow wound healing</li>
@@ -77,7 +69,7 @@ Type 2 diabetes often develops slowly, and many people miss the early clues. Cat
     </ul>
   </div>
   <div class="symptom-card">
-    <h3 class="symptom-title">Neurological Signs
+    <h3 class="symptom-title">Neurological Signs</h3>
     <ul>
       <li>Tingling in hands/feet</li>
       <li>Balance issues</li>
@@ -90,19 +82,19 @@ Type 2 diabetes often develops slowly, and many people miss the early clues. Cat
 
 ## 🛠️ Interactive Decision Tree
 <div class="decision-tree">
-  ###Should I Ask My Doctor About Testing?
-  <p>**1. Do you experience frequent urination?**<br>Yes → See Step 3 | No → Continue</p>
-  <p>**2. Do you feel unusually tired after eating?**<br>Yes → See Step 3 | No → Continue</p>
-  <p>**3. Result:** Testing may be appropriate. Bring these specific observations to your next clinical appointment.</p>
+  <h3>Should I Ask My Doctor About Testing?</h3>
+  <p><strong>1. Do you experience frequent urination?</strong><br>Yes → See Step 3 | No → Continue</p>
+  <p><strong>2. Do you feel unusually tired after eating?</strong><br>Yes → See Step 3 | No → Continue</p>
+  <p><strong>3. Result:</strong> Testing may be appropriate. Bring these specific observations to your next clinical appointment.</p>
 </div>
 
 ---
 
 ## 📖 Clinical Glossary
 <div class="glossary-block">
-  <p>**A1C:** A blood test measuring average glucose levels over the past 2-3 months.</p>
-  <p>**Insulin Resistance:** When the body's cells do not respond effectively to insulin, causing glucose to rise.</p>
-  <p>**Neuropathy:** Nerve damage that can cause tingling or numbness, often in the extremities.</p>
+  <p><strong>A1C:</strong> A blood test measuring average glucose levels over the past 2-3 months.</p>
+  <p><strong>Insulin Resistance:</strong> When the body's cells do not respond effectively to insulin, causing glucose to rise.</p>
+  <p><strong>Neuropathy:</strong> Nerve damage that can cause tingling or numbness, often in the extremities.</p>
 </div>
 
 <script type="application/ld+json">

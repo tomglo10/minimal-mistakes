@@ -1,21 +1,19 @@
 ---
-layout: single
+layout: post
 title: "How to Fix a Frozen Shoulder - Treatment Options"
 date: 2024-01-21
 description: "A 10-year thaw perspective on Adhesive Capsulitis, exploring GZMK protein research and 2026 clinical breakthroughs."
 image: "/assets/images/frozen-shoulder-pain.webp"
 tags: ["Functional Fitness", "Immune Health", "Advocacy", "Pain", "Inflammation"]
-math: true
-toc: true
-last_modified_at: 2026-05-07
 ---
+
 ## Frozen Shoulder: The 10-Year Thaw & 2026 Breakthroughs
 
 If you’ve lived with a "Frozen Shoulder" (Adhesive Capsulitis), you know it’s not just stiffness—it’s a biological seizure of the joint. I’ve battled this for over a decade, navigating multiple rounds of physical therapy and ultrasound-guided precision injections. > **Medical Disclaimer:** This content is for informational purposes only. Always consult a qualified healthcare provider regarding any medical condition.
 
 ---
 
-![Cinematic illustration of shoulder pain and resolve]({{ site.urlimg }}{{ site.urlimg }}/assets/images/frozen-shoulder-pain.webp)
+![Cinematic illustration of shoulder pain and resolve](/assets/images/frozen-shoulder-pain.webp)
 *Figure 1: Frozen shoulder causes severe pain and a biological "thickening" of the joint capsule.*
 
 ---
@@ -78,11 +76,11 @@ One of the biggest hurdles in recovering from conditions like adhesive capsuliti
 
 ## Related Patient Resources
 * **The Log:** Track your sleep and clarity with the [Daily Glucose Tracker](https://docs.google.com/document/d/1V-LyZEo4kh6KtSfjfhPWiGfaigwlRvmAGoYCJ2aaTdM/edit?usp=sharing).
-* **The Bridge:** Is Alzheimer's Really [Type 3 Diabetes](#)?
-* **Liver Health:** How [metabolic syndrome impacts liver cirrhosis](#).
+* **The Bridge:** Is Alzheimer's Really [Type 3 Diabetes](/2026/02/alzheimers-type-3-diabetes-insulin-resistance.html)?
+* **Liver Health:** How [metabolic syndrome impacts liver cirrhosis](/2023/09/liver-cirrhosis-what-you-need-to-know.html).
 
 <div style="background:#e8f4f8; padding:15px; border-left:5px solid #2980b9; margin-top:20px; font-family: sans-serif; color: #333;">
-**March 2026 Clinical Update:** Current advocacy for liver health emphasizes high-protein intake (1.2-1.5 g/kg) to prevent sarcopenia. Portal hypertension targets for esophageal varices now align with a systemic blood pressure of less than 130/80 mmHg.
+<strong>March 2026 Clinical Update:</strong> Current advocacy for liver health emphasizes high-protein intake (1.2-1.5 g/kg) to prevent sarcopenia. Portal hypertension targets for esophageal varices now align with a systemic blood pressure of less than 130/80 mmHg.
 </div>
 
 ---
@@ -93,7 +91,7 @@ One of the biggest hurdles in recovering from conditions like adhesive capsuliti
 * **AAOS:** American Academy of Orthopedic Surgeons.
 
 <div style="background:#e8f4f8; padding:15px; border-left:5px solid #2980b9; margin-top:20px; font-family: sans-serif; color: #333;">
-**March 2026 Clinical Update:** Current advocacy for liver health emphasizes high-protein intake ($1.2\text{--}1.5 \text{ g/kg}$) to prevent sarcopenia. Portal hypertension targets now align with a systemic blood pressure of $<130/80 \text{ mmHg}$.
+<strong>March 2026 Clinical Update:</strong> Current advocacy for liver health emphasizes high-protein intake ($1.2\text{--}1.5 \text{ g/kg}$) to prevent sarcopenia. Portal hypertension targets now align with a systemic blood pressure of $<130/80 \text{ mmHg}$.
 </div>
 
 <script type="application/ld+json">

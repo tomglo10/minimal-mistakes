@@ -1,14 +1,12 @@
 ---
-layout: single
+layout: post
 title: "Should Seniors Take Vitamins? Evidence‑Based Guidance"
 date: 2023-09-13T12:22:00+00:00
 description: "An evidence‑based, senior‑friendly guide to vitamins, safe supplementation, medication interactions, and the best time of day to take them."
 image: "/assets/images/pharmacy.webp"
 tags: ["Senior Longevity", "Liver Health","Immune Health", "Nutrition", "Prevention"]
-math: true
-toc: true
-last_modified_at: 2026-05-07
 ---
+
 ## A clinical, senior‑friendly guide to essential vitamins, safe supplementation, and optimal timing
 
 As we age, **nutrient absorption becomes less efficient**, appetite may decline, and commonly prescribed medications can interfere with vitamin levels. While a balanced diet remains the foundation of good nutrition, many older adults benefit from **targeted vitamin supplementation**—particularly vitamin D, vitamin B12, calcium, and magnesium.
@@ -18,7 +16,7 @@ As we age, **nutrient absorption becomes less efficient**, appetite may decline,
 > **Medical Disclaimer:**  
 > This content is for informational and educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult your healthcare provider before starting or changing supplements.
 
-![In a small mid-western town, a smiling senior couple at a drug store asking the local pharmacist about vitamins.]({{ site.urlimg }}{{ site.urlimg }}/assets/images/pharmacy.webp)
+![In a small mid-western town, a smiling senior couple at a drug store asking the local pharmacist about vitamins.](/assets/images/pharmacy.webp)
 *Figure 1: When buying vitamins check a healthcare provider to ensure there will not be any drug interactions.*
 
 
@@ -123,9 +121,9 @@ Yes. Fat‑soluble vitamins can accumulate and cause toxicity when taken in exce
 
 ## Related Resources
 - Beginner’s Guide to Diabetes  
-  /2024/01/diabetes.md  
+  /2024/01/diabetes.html  
 - Liver Health and Metabolic Risk  
-  /2023/09/liver-cirrhosis-what-you-need-to-know.md  
+  /2023/09/liver-cirrhosis-what-you-need-to-know.html  
 
 ---
 

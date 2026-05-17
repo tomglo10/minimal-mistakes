@@ -1,21 +1,19 @@
 ---
-layout: single
+layout: post
 title: "Autoimmune Arthritis: Types, Symptoms, and Therapy"
 date: 2024-01-20
 description: "A clinical guide to identifying and managing various forms of autoimmune arthritis, including RA, PsA, and Lupus-related joint pain."
 image: "/assets/images/senior-walks-with-pain.webp"
 tags: ["Longevity", "Functional Fitness", "Cognitive Health", "Nutrition", "Pain"]
-math: true
-toc: true
-last_modified_at: 2026-05-07
 ---
+
 ## Understanding Autoimmune Arthritis
 
 Autoimmune arthritis occurs when the immune system mistakenly attacks the body’s own joints, leading to inflammation, stiffness, and long-term joint changes. While symptoms vary by type, early recognition and proactive care can significantly impact daily mobility and long-term healthspan. 
 
 ---
 
-![A middle-aged man using a cane due to joint pain]({{ site.urlimg }}{{ site.urlimg }}/assets/images/senior-walks-with-pain.webp)
+![A middle-aged man using a cane due to joint pain](/assets/images/senior-walks-with-pain.webp)
 *Autoimmune arthritis is a chronic condition characterized by joint inflammation and pain caused by immune dysfunction.*
 
 ---
@@ -32,7 +30,7 @@ Identifying the specific type of arthritis is the first step in creating a targe
 
 ---
 
-![Image of a normal joint vs a joint with rheumatoid arthritis]({{ site.urlimg }}{{ site.urlimg }}/assets/images/rheumatoid-arthritis.webp)
+![Image of a normal joint vs a joint with rheumatoid arthritis](/assets/images/rheumatoid-arthritis.webp)
 *Figure 2: Left: A healthy knee with smooth cartilage and no inflammation. Right: A knee affected by rheumatoid arthritis, showing inflamed tissue, swollen synovium, and early joint damage.*
 
 ---
@@ -75,7 +73,7 @@ Treatment focuses on reducing systemic inflammation, protecting joint integrity,
 * **Mayo Clinic:** [Psoriatic Arthritis Symptoms](https://www.mayoclinic.org/diseases-conditions/psoriatic-arthritis/symptoms-causes/syc-20354076)
 
 <div style="background:#fef5e7; padding:15px; border-left:5px solid #f39c12; margin-top:20px; font-family: sans-serif; color: #333;">
-**March 2026 Clinical Update:** Psoriasis and PsA are now managed as systemic inflammatory events. Clinical targets emphasize metabolic support with high-quality protein ($1.2\text{--}1.6 \text{ g/kg}$) to maintain skin cell turnover and protect lean muscle mass.
+<strong>March 2026 Clinical Update:</strong> Psoriasis and PsA are now managed as systemic inflammatory events. Clinical targets emphasize metabolic support with high-quality protein ($1.2\text{--}1.6 \text{ g/kg}$) to maintain skin cell turnover and protect lean muscle mass.
 </div>
 
 <script type="application/ld+json">
