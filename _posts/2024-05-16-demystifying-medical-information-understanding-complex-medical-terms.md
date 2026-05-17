@@ -1,13 +1,11 @@
 ---
-layout: single
+layout: post
 title: "Demystifying Medical Information: Understanding Complex Medical Terms"
 date: 2024-05-16T19:41:00+00:00
 description: ""
 tags: ['🛡️ Liver & Immune Health', '❤️ Cardiovascular & T2D']
-math: true
-toc: true
-last_modified_at: 2026-05-07
 ---
+
 <style>
 /* Aging Health Unified Style Guide */
 .ah-container { font-family: 'Roboto', sans-serif; line-height: 1.6; color: #333; max-width: 935px; margin: auto; }
@@ -22,12 +20,12 @@ last_modified_at: 2026-05-07
 </style>
 
 <div class="ah-container">
-  <h2 style="text-align: left;">Medical Jargon: Your 2026 Guide to Clinical Health Literacy
+  <h2 style="text-align: left;">Medical Jargon: Your 2026 Guide to Clinical Health Literacy</h2>
 
   <p>Navigating modern medical information can feel like trying to find your way through a maze of Latin roots and cryptic abbreviations. In my journey as an independent researcher, I’ve found that "feeling overwhelmed" is the most common reason patients stop advocating for themselves. This guide is designed to strip away the mystery and provide you with the resources to speak the language of your clinical team.</p>
 
   <div class="ah-disclaimer">
-    **Medical Disclaimer:** This guide is for educational purposes. Understanding jargon is a tool for communication, not a substitute for professional diagnosis or the advice of your medical partner.
+    <strong>Medical Disclaimer:</strong> This guide is for educational purposes. Understanding jargon is a tool for communication, not a substitute for professional diagnosis or the advice of your medical partner.
   </div>
 
   <div style="text-align: center; margin: 30px 0;">
@@ -36,23 +34,23 @@ last_modified_at: 2026-05-07
   </div>
 
   <div class="ah-card">
-    <h2 class="ah-title">Why is Medical Language So Confusing?
-    <p>Medical terminology isn't designed to be secretive; it's designed for **precision**. Most terms are rooted in Greek or Latin to ensure that a doctor in Tokyo and a doctor in Missouri mean the exact same thing when they say "Myocardial Infarction."</p>
+    <h2 class="ah-title">Why is Medical Language So Confusing?</h2>
+    <p>Medical terminology isn't designed to be secretive; it's designed for <strong>precision</strong>. Most terms are rooted in Greek or Latin to ensure that a doctor in Tokyo and a doctor in Missouri mean the exact same thing when they say "Myocardial Infarction."</p>
     <ul>
-      <li>**Standardization:** Using specific codes ensures your insurance and specialists are on the same page.</li>
-      <li>**The Evolution Gap:** Medical science moves faster than our everyday vocabulary. Terms like "Systemic Inflammatory Event" or "Metabolic Flexibility" are 2026 concepts that haven't hit the mainstream dictionary yet.</li>
+      <li><strong>Standardization:</strong> Using specific codes ensures your insurance and specialists are on the same page.</li>
+      <li><strong>The Evolution Gap:</strong> Medical science moves faster than our everyday vocabulary. Terms like "Systemic Inflammatory Event" or "Metabolic Flexibility" are 2026 concepts that haven't hit the mainstream dictionary yet.</li>
     </ul>
   </div>
 
   <div class="ah-card">
-    <h2 class="ah-title">The Douglas Method for Clinical Literacy
+    <h2 class="ah-title">The Douglas Method for Clinical Literacy</h2>
     <p>When you sit down with your doctor, use these four tactical strategies to stay in control:</p>
     <div class="ah-accent-card">
       <ol>
-        <li>**Leverage the Portal:** Request access to your Patient Portal <em>before</em> the follow-up. Read the "Assessment and Plan" section while you are at home and calm.</li>
-        <li>**Request "Standard English":** If a doctor uses a term like "Etiology," ask: "What is the primary cause in plain English?"</li>
-        <li>**Record the High-Frequency Terms:** Write down any word ending in "-itis" (inflammation), "-opathy" (disease), or "-osis" (condition).</li>
-        <li>**The 10-Minute Recap:** At the end of the visit, say: "To ensure I have clinical literacy on my case, can I summarize my understanding back to you?"</li>
+        <li><strong>Leverage the Portal:</strong> Request access to your Patient Portal <em>before</em> the follow-up. Read the "Assessment and Plan" section while you are at home and calm.</li>
+        <li><strong>Request "Standard English":</strong> If a doctor uses a term like "Etiology," ask: "What is the primary cause in plain English?"</li>
+        <li><strong>Record the High-Frequency Terms:</strong> Write down any word ending in "-itis" (inflammation), "-opathy" (disease), or "-osis" (condition).</li>
+        <li><strong>The 10-Minute Recap:</strong> At the end of the visit, say: "To ensure I have clinical literacy on my case, can I summarize my understanding back to you?"</li>
       </ol>
     </div>
   </div>
@@ -60,71 +58,71 @@ last_modified_at: 2026-05-07
   
 
   <div class="ah-card">
-    <h2 class="ah-title">2026 High-Frequency Glossary
+    <h2 class="ah-title">2026 High-Frequency Glossary</h2>
     <table class="ah-table-grid">
       <tr class="ah-table-header">
         <th>Medical Term</th>
         <th>The Plain-English Translation</th>
       </tr>
       <tr>
-        <td>**Acute vs. Chronic**</td>
+        <td><strong>Acute vs. Chronic</strong></td>
         <td>Happening suddenly/now vs. Long-term/ongoing.</td>
       </tr>
       <tr>
-        <td>**Benign vs. Malignant**</td>
+        <td><strong>Benign vs. Malignant</strong></td>
         <td>Non-cancerous vs. Cancerous.</td>
       </tr>
       <tr>
-        <td>**Comorbidity**</td>
+        <td><strong>Comorbidity</strong></td>
         <td>Having two or more conditions at once (e.g., T2D and Cirrhosis).</td>
       </tr>
       <tr>
-        <td>**Prognosis**</td>
+        <td><strong>Prognosis</strong></td>
         <td>The likely "weather report" for your health over time.</td>
       </tr>
       <tr>
-        <td>**Metastasis**</td>
+        <td><strong>Metastasis</strong></td>
         <td>Cancer that has moved from its original home to a new site.</td>
       </tr>
       <tr>
-        <td>**HFrEF vs. HFpEF**</td>
+        <td><strong>HFrEF vs. HFpEF</strong></td>
         <td>Heart failure where the heart is "too weak to squeeze" vs. "too stiff to fill."</td>
       </tr>
     </table>
   </div>
 
   <div class="ah-card" style="border: 2px dashed #0d9488; background: #fdfcfb;">
-    <h2 class="ah-title" style="border-bottom: 2px solid #0d9488;">🗣️ The Patient Translation: Advocacy in Action
+    <h2 class="ah-title" style="border-bottom: 2px solid #0d9488;">🗣️ The Patient Translation: Advocacy in Action</h2>
     <div class="ah-accent-card" style="margin-top: 15px; background: #fff5f5; border-left-color: #e53e3e;">
-      **⚠️ The "Red Flag" Translation:** If a doctor says your symptoms are "atypical" or "psychosomatic," translate that to: <em>"We haven't found the biological trigger yet."</em> In 2026, we look for **Systemic Inflammation** or **Metabolic Lag**. Don't let your symptoms be dismissed as "all in your head."
+      <strong>⚠️ The "Red Flag" Translation:</strong> If a doctor says your symptoms are "atypical" or "psychosomatic," translate that to: <em>"We haven't found the biological trigger yet."</em> In 2026, we look for <strong>Systemic Inflammation</strong> or <strong>Metabolic Lag</strong>. Don't let your symptoms be dismissed as "all in your head."
     </div>
   </div>
   <div class="ah-update-box">
-    <h3 class="ah-title" style="color:#f39c12;">🔬 March 2026 Clinical Synthesis: Inflammation & Protein
+    <h3 class="ah-title" style="color:#f39c12;">🔬 March 2026 Clinical Synthesis: Inflammation & Protein</h3>
     <p>As an advocate, I am tracking two critical shifts in 2026 care standards that you should discuss with your doctor:</p>
     <ul>
-      <li>**Psoriasis is Systemic:** We no longer treat Psoriasis as a "skin thing." It is a systemic inflammatory event. To manage this, target high-quality protein intake (**1.2–1.6 g/kg**) to support skin turnover without losing muscle mass.</li>
-      <li>**The Liver/Vascular Link:** If you are managing Cirrhosis or Portal Hypertension, your target systemic blood pressure is now strictly **&lt;130 mmHg**. This protects the delicate vessels in the esophagus and stomach.</li>
+      <li><strong>Psoriasis is Systemic:</strong> We no longer treat Psoriasis as a "skin thing." It is a systemic inflammatory event. To manage this, target high-quality protein intake (<strong>1.2–1.6 g/kg</strong>) to support skin turnover without losing muscle mass.</li>
+      <li><strong>The Liver/Vascular Link:</strong> If you are managing Cirrhosis or Portal Hypertension, your target systemic blood pressure is now strictly <strong>&lt;130 mmHg</strong>. This protects the delicate vessels in the esophagus and stomach.</li>
     </ul>
   </div>
 
   <div class="ah-card" style="background:#f1f5f9;">
-    <h3 class="ah-title">About the Researcher
-    <p>**Tommy T. Douglas** is an independent health researcher and patient advocate. A survivor of a major heart attack (2008) who manages Type 2 Diabetes with Metformin and GLP-1 therapy, he specializes in translating complex medical data into actionable health literacy.</p>
-    <p>**Explore more by topic:** 
-      <a href="https://www.aginghealth.website/2026/02/diabetes-heart-attack-survivor-lessons.md">Heart</a> | 
-      <a href="https://www.aginghealth.website/2026/02/alzheimers-type-3-diabetes-insulin-resistance.md">Metabolism</a> | 
-      <a href="https://www.aginghealth.website/2025/07/wisdom-aging-brain-cognitive-shifts.md">Brain</a> | 
-      <a href="https://www.aginghealth.website/2023/09/liver-cirrhosis-what-you-need-to-know.md">Liver</a>
+    <h3 class="ah-title">About the Researcher</h3>
+    <p><strong>Tommy T. Douglas</strong> is an independent health researcher and patient advocate. A survivor of a major heart attack (2008) who manages Type 2 Diabetes with Metformin and GLP-1 therapy, he specializes in translating complex medical data into actionable health literacy.</p>
+    <p><strong>Explore more by topic:</strong> 
+      <a href="https://www.aginghealth.website/2026/02/diabetes-heart-attack-survivor-lessons.html">Heart</a> | 
+      <a href="https://www.aginghealth.website/2026/02/alzheimers-type-3-diabetes-insulin-resistance.html">Metabolism</a> | 
+      <a href="https://www.aginghealth.website/2025/07/wisdom-aging-brain-cognitive-shifts.html">Brain</a> | 
+      <a href="https://www.aginghealth.website/2023/09/liver-cirrhosis-what-you-need-to-know.html">Liver</a>
     </p>
   </div>
 
   <div class="ah-card" style="background:#f1f5f9;">
-    <h3 class="ah-title">Trustworthy 2026 Resources
+    <h3 class="ah-title">Trustworthy 2026 Resources</h3>
     <ul>
-      <li>**National Institutes of Health (NIH):** For the latest peer-reviewed science.</li>
-      <li>**MedlinePlus:** Excellent for basic drug and condition summaries.</li>
-      <li>**The Douglas Daily Glucose Tracker:** <a href="https://docs.google.com/document/d/1V-LyZEo4kh6KtSfjfhPWiGfaigwlRvmAGoYCJ2aaTdM/edit?usp=sharing">Track your "Mental Clarity" score here.</a></li>
+      <li><strong>National Institutes of Health (NIH):</strong> For the latest peer-reviewed science.</li>
+      <li><strong>MedlinePlus:</strong> Excellent for basic drug and condition summaries.</li>
+      <li><strong>The Douglas Daily Glucose Tracker:</strong> <a href="https://docs.google.com/document/d/1V-LyZEo4kh6KtSfjfhPWiGfaigwlRvmAGoYCJ2aaTdM/edit?usp=sharing">Track your "Mental Clarity" score here.</a></li>
     </ul>
   </div>
 

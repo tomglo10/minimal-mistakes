@@ -1,14 +1,12 @@
----
-layout: single
-title: "Celiac Disease: Unveiling the Gluten Connection"
-date: 2024-07-16
-description: "An in-depth clinical exploration of the autoimmune processes involved in Celiac disease, the challenges of delayed diagnosis, and approaches to relief specifically for seniors."
-image: "/assets/images/bread-pasta.webp"
-tags: ["Cognitive Health", "Immune Health", "Nutrition", "Liver", "Digestive"]
-math: true
-toc: true
-last_modified_at: 2026-05-07
----
+---  
+layout: post  
+title: "Celiac Disease: Unveiling the Gluten Connection"  
+date: 2024-07-16  
+description: "An in-depth clinical exploration of the autoimmune processes involved in Celiac disease, the challenges of delayed diagnosis, and approaches to relief specifically for seniors."  
+image: "/assets/images/bread-pasta.webp"  
+tags: ["Cognitive Health", "Immune Health", "Nutrition", "Liver", "Digestive"]  
+---  
+
 ## Unveiling the Gluten Connection and Path to Relief  
 
 For certain individuals, consuming even a simple slice of bread or a bowl of pasta can trigger a cascade of uncomfortable symptoms. This reaction may be due to Celiac disease, an autoimmune disorder activated by gluten, a protein present in grains such as wheat, barley, and rye.  
@@ -17,7 +15,7 @@ Frequently mistaken for a mere food intolerance, Celiac disease interferes with 
 
 ---  
 
-![Bread and pasta potential triggers]({{ site.urlimg }}{{ site.urlimg }}/assets/images/bread-pasta.webp)  
+![Bread and pasta potential triggers](/assets/images/bread-pasta.webp)  
 *Figure 1: Foods containing gluten can cause Celiac disease in susceptible people, a condition first identified in the 1940s by Dr. Willem Dicke.*  
 
 ---  
@@ -81,7 +79,7 @@ Currently, there is no cure for Celiac disease; however, the only effective trea
 **Tommy T. Douglas** is an independent health researcher and patient advocate. Having survived a major heart attack in 2008 and managing Type 2 Diabetes, he focuses on translating complex medical information into practical health knowledge for seniors.  
 
 <div style="background:#e8f4f8; padding:15px; border-left:5px solid #2980b9; margin-top:20px; font-family: sans-serif; color: #333;">  
-**March 2026 Clinical Update:</strong> Current liver health advocacy highlights the importance of high protein intake (1.2-1.5 g/kg) to prevent muscle loss (sarcopenia). For individuals with Celiac disease, proper healing of the intestine is essential to ensure that this protein is absorbed and used effectively for metabolic stability.  
+<strong>March 2026 Clinical Update:</strong> Current liver health advocacy highlights the importance of high protein intake (1.2-1.5 g/kg) to prevent muscle loss (sarcopenia). For individuals with Celiac disease, proper healing of the intestine is essential to ensure that this protein is absorbed and used effectively for metabolic stability.  
 </div>  
 
 <script type="application/ld+json">  

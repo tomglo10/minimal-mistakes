@@ -1,13 +1,11 @@
 ---
-layout: single
+layout: post
 title: "Do Ultra-Processed Foods Affect Brain Function?"
 date: 2024-05-25T20:20:00+00:00
 description: ""
 tags: ['⚖️ Patient Advocacy', '🧠 Cognitive Health', '❤️ Cardiovascular & T2D', '🛡️ Liver & Immune Health', 'Dementia', 'Diabetes', 'Nutrition', 'Environment']
-math: true
-toc: true
-last_modified_at: 2026-05-07
 ---
+
 <style>
 /* Aging Health Unified Style Guide */
 .ah-container { font-family: 'Roboto', sans-serif; line-height: 1.6; color: #333; max-width: 940px; margin: auto; }
@@ -36,12 +34,12 @@ last_modified_at: 2026-05-07
 </script>
 
 <div class="ah-container">
-  <h2 style="text-align: left;">Vascular Integrity vs. Industrial Food: The 2026 Brain Health Protocol
+  <h2 style="text-align: left;">Vascular Integrity vs. Industrial Food: The 2026 Brain Health Protocol</h2>
 
-  <p>In our modern food landscape, "convenience" is often a mask for **Metabolic Disruption**. As an independent researcher and heart survivor (2008), I’ve learned that every ultra-processed bite is a biological signal. In 2026, the clinical data is undeniable: diets high in ultra-processed foods (UPF) act as a primary driver for stroke and cognitive decline. For those of us managing Type 2 Diabetes, these foods don't just spike our sugar—they corrode our neural and vascular integrity.</p>
+  <p>In our modern food landscape, "convenience" is often a mask for <strong>Metabolic Disruption</strong>. As an independent researcher and heart survivor (2008), I’ve learned that every ultra-processed bite is a biological signal. In 2026, the clinical data is undeniable: diets high in ultra-processed foods (UPF) act as a primary driver for stroke and cognitive decline. For those of us managing Type 2 Diabetes, these foods don't just spike our sugar—they corrode our neural and vascular integrity.</p>
 
   <div class="ah-disclaimer">
-    **Medical Disclaimer:** This guide provides clinical health literacy for prevention. Cognitive decline and stroke risk are multifactorial. Consult your neurology or cardiology team to establish your baseline risk markers.
+    <strong>Medical Disclaimer:</strong> This guide provides clinical health literacy for prevention. Cognitive decline and stroke risk are multifactorial. Consult your neurology or cardiology team to establish your baseline risk markers.
   </div>
 
   <div style="margin: 30px 0px; text-align: center;">
@@ -50,29 +48,29 @@ last_modified_at: 2026-05-07
   </div>
 
   <div class="ah-card">
-    <h2 class="ah-title">The Science: Dissecting the REGARDS Study
-    <p>A landmark study published in <em>Neurology</em> (via Massachusetts General Hospital) followed over 20,000 participants to track the impact of **Ultra-Processed Foods (UPF)**. The numbers provide a sobering look at our biological cost:</p>
+    <h2 class="ah-title">The Science: Dissecting the REGARDS Study</h2>
+    <p>A landmark study published in <em>Neurology</em> (via Massachusetts General Hospital) followed over 20,000 participants to track the impact of <strong>Ultra-Processed Foods (UPF)</strong>. The numbers provide a sobering look at our biological cost:</p>
     <ul>
-      <li>**The 10% Rule:** Every 10% increase in UPF intake correlates with a **16% higher risk** of cognitive impairment.</li>
-      <li>**Stroke Risk:** High UPF consumption was linked to an **8% increased risk** of stroke.</li>
-      <li>**The Minimally Processed Shield:** Conversely, increasing minimally processed foods reduced stroke risk by **9%**.</li>
+      <li><strong>The 10% Rule:</strong> Every 10% increase in UPF intake correlates with a <strong>16% higher risk</strong> of cognitive impairment.</li>
+      <li><strong>Stroke Risk:</strong> High UPF consumption was linked to an <strong>8% increased risk</strong> of stroke.</li>
+      <li><strong>The Minimally Processed Shield:</strong> Conversely, increasing minimally processed foods reduced stroke risk by <strong>9%</strong>.</li>
     </ul>
     
   </div>
 
   <div class="ah-update-box">
-    <h3 class="ah-title" style="color: #1d4ed8;">🔬 March 2026 Clinical Synthesis: Racial Disparities &amp; Vascular Health
+    <h3 class="ah-title" style="color: #1d4ed8;">🔬 March 2026 Clinical Synthesis: Racial Disparities &amp; Vascular Health</h3>
     <p>The 2026 data highlights a critical disparity: the impact of UPFs is not uniform across all groups. </p>
     <ul>
-      <li>**Black Participants:** In the study, Black participants showed an **11% higher correlation** between UPF intake and stroke compared to the general population. This underscores the need for targeted **Vascular Advocacy** and equitable access to minimally processed foods.</li>
-      <li>**The 130/80 mmHg Rule:** Because UPFs drive systemic inflammation, heart survivors must maintain a blood pressure target of **&lt;130/80 mmHg** to counteract the industrial "scuffing" of arterial walls.</li>
-      <li>**Protein Target ($1.2\text{--}1.6 \text{ g/kg}$):** To support brain and skin health (especially for those of us with psoriasis), we aim for **1.2–1.6 g/kg** of high-quality protein to maintain metabolic turnover.</li>
+      <li><strong>Black Participants:</strong> In the study, Black participants showed an <strong>11% higher correlation</strong> between UPF intake and stroke compared to the general population. This underscores the need for targeted <strong>Vascular Advocacy</strong> and equitable access to minimally processed foods.</li>
+      <li><strong>The 130/80 mmHg Rule:</strong> Because UPFs drive systemic inflammation, heart survivors must maintain a blood pressure target of <strong>&lt;130/80 mmHg</strong> to counteract the industrial "scuffing" of arterial walls.</li>
+      <li><strong>Protein Target ($1.2\text{--}1.6 \text{ g/kg}$):</strong> To support brain and skin health (especially for those of us with psoriasis), we aim for <strong>1.2–1.6 g/kg</strong> of high-quality protein to maintain metabolic turnover.</li>
     </ul>
   </div>
 
   <div class="ah-card">
-    <h2 class="ah-title">The Biological Driver: The Gut-Brain Axis
-    <p>How does a packaged snack damage your brain? Through the **Gut-Brain Axis**. UPFs disrupt the delicate balance of your microbiome, leading to "Leaky Gut" and chronic systemic fire.</p>
+    <h2 class="ah-title">The Biological Driver: The Gut-Brain Axis</h2>
+    <p>How does a packaged snack damage your brain? Through the <strong>Gut-Brain Axis</strong>. UPFs disrupt the delicate balance of your microbiome, leading to "Leaky Gut" and chronic systemic fire.</p>
     
     <table class="ah-table-grid">
       <tbody><tr class="ah-table-header">
@@ -81,25 +79,25 @@ last_modified_at: 2026-05-07
         <th>The MPF Benefit</th>
       </tr>
       <tr>
-        <td>**Inflammation**</td>
+        <td><strong>Inflammation</strong></td>
         <td>High sugar and additives trigger a permanent "emergency" response.</td>
         <td>Antioxidants in fruits/veg neutralize free radicals.</td>
       </tr>
       <tr>
-        <td>**SCFA Production**</td>
+        <td><strong>SCFA Production</strong></td>
         <td>UPFs lack fiber, starving the bacteria that produce Short-Chain Fatty Acids.</td>
         <td>Whole grains and beans boost SCFAs, protecting the blood-brain barrier.</td>
       </tr>
       <tr>
-        <td>**Nutrient Density**</td>
+        <td><strong>Nutrient Density</strong></td>
         <td>"Empty calories" lead to neural starvation.</td>
-        <td>Vitamins and Omega-3s (from fish) support **Synaptic Flexibility**.</td>
+        <td>Vitamins and Omega-3s (from fish) support <strong>Synaptic Flexibility</strong>.</td>
       </tr>
     </tbody></table>
   </div>
 
   <div class="ah-card" style="background: rgb(253, 252, 251); border: 2px dashed rgb(13, 148, 136);">
-    <h2 class="ah-title" style="border-bottom: 2px solid rgb(13, 148, 136);">🗣️ The Patient Translation: Food Literacy
+    <h2 class="ah-title" style="border-bottom: 2px solid rgb(13, 148, 136);">🗣️ The Patient Translation: Food Literacy</h2>
     <table class="ah-table-grid">
       <tbody><tr class="ah-table-header">
         <th>The Term</th>
@@ -107,50 +105,50 @@ last_modified_at: 2026-05-07
         <th>Advocacy Action</th>
       </tr>
       <tr>
-        <td>**Ultra-Processed (UPF)**</td>
+        <td><strong>Ultra-Processed (UPF)</strong></td>
         <td>Industrial "edible substances" that don't exist in nature.</td>
-        <td>Scan for **Emulsifiers** and **Maltodextrin** on the label.</td>
+        <td>Scan for <strong>Emulsifiers</strong> and <strong>Maltodextrin</strong> on the label.</td>
       </tr>
       <tr>
-        <td>**Cognitive Decline**</td>
+        <td><strong>Cognitive Decline</strong></td>
         <td>The slowing of your brain's processing speed and memory.</td>
-        <td>Use your <a href="https://www.aginghealth.website/2026/04/seniors-biohacking-2026.md" target="_blank">Smart Tech</a> to track **HRV** and **Sleep Quality**.</td>
+        <td>Use your <a href="https://www.aginghealth.website/2026/04/seniors-biohacking-2026.html" target="_blank">Smart Tech</a> to track <strong>HRV</strong> and <strong>Sleep Quality</strong>.</td>
       </tr>
       <tr>
-        <td>**Vascular Scuffing**</td>
+        <td><strong>Vascular Scuffing</strong></td>
         <td>The micro-damage to your arteries caused by high salt and sugar.</td>
-        <td>**Red Flag:** If your doctor only checks weight, ask: "What are my **Inflammatory Markers** (hs-CRP) showing?"</td>
+        <td><strong>Red Flag:</strong> If your doctor only checks weight, ask: "What are my <strong>Inflammatory Markers</strong> (hs-CRP) showing?"</td>
       </tr>
     </tbody></table>
 
     <div class="ah-accent-card" style="background: rgb(255, 245, 245); border-left-color: rgb(229, 62, 62); margin-top: 15px;">
-      **⚠️ The "Red Flag" Translation:** If a product is marketed as "Healthy" but contains more than five ingredients you can't pronounce, translate that to: <em>"This is a ultra-processed food with a health halo."</em> Don't be fooled by the packaging—trust the **Ingredient List**.
+      <strong>⚠️ The "Red Flag" Translation:</strong> If a product is marketed as "Healthy" but contains more than five ingredients you can't pronounce, translate that to: <em>"This is a ultra-processed food with a health halo."</em> Don't be fooled by the packaging—trust the <strong>Ingredient List</strong>.
     </div>
   </div>
   <div class="ah-card" style="text-align: left;">
-    <h2 class="ah-title">Tactical Steps for Brain Preservation
-    <ul style="text-align: left;"><li><input type="checkbox" /> **The 90/10 Rule:** Aim for 90% minimally processed foods (fresh fish, leafy greens, whole grains). Save the other 10% for the rare convenience item.</li><li><input type="checkbox" /> **The Fiber Bridge:** Prioritize beans, lentils, and nuts to feed your "Cleanup Crew" (the gut microbiome).</li><li><input type="checkbox" /> **Hydration Resilience:** Drink water as your primary beverage to flush metabolic waste and maintain vascular volume.</li></ul><ul class="ah-checklist">
+    <h2 class="ah-title">Tactical Steps for Brain Preservation</h2>
+    <ul style="text-align: left;"><li><input type="checkbox" /> <strong>The 90/10 Rule:</strong> Aim for 90% minimally processed foods (fresh fish, leafy greens, whole grains). Save the other 10% for the rare convenience item.</li><li><input type="checkbox" /> <strong>The Fiber Bridge:</strong> Prioritize beans, lentils, and nuts to feed your "Cleanup Crew" (the gut microbiome).</li><li><input type="checkbox" /> <strong>Hydration Resilience:</strong> Drink water as your primary beverage to flush metabolic waste and maintain vascular volume.</li></ul><ul class="ah-checklist">
     </ul>
   </div>
 
   <div class="ah-card" style="background: rgb(241, 245, 249);">
-    <h3 class="ah-title">About the Researcher
-    <p>**Tommy T. Douglas** is an independent health researcher and survivor of a major heart attack (2008). He manages Type 2 Diabetes and specializes in translating complex data into actionable health literacy for seniors.</p>
-    <p>**Explore more by topic:** 
-      <a href="https://www.aginghealth.website/2025/11/taking-ozempic-good-bad-seniors-guide.md">Pathology</a> | 
-      <a href="https://www.aginghealth.website/2025/11/taking-ozempic-good-bad-seniors-guide.md">GLP-1/Ozempic</a> | 
-      <a href="https://www.aginghealth.website/2024/05/heart-attack-prevention-signs-and-what-to-do.md" target="_blank">Heart Attack Awareness</a> | 
-      <a href="https://www.aginghealth.website/2024/10/cortisol-stress-hormone-effects-management.md" target="_blank">Stress &amp; Metabolism</a>
+    <h3 class="ah-title">About the Researcher</h3>
+    <p><strong>Tommy T. Douglas</strong> is an independent health researcher and survivor of a major heart attack (2008). He manages Type 2 Diabetes and specializes in translating complex data into actionable health literacy for seniors.</p>
+    <p><strong>Explore more by topic:</strong> 
+      <a href="https://www.aginghealth.website/2025/11/taking-ozempic-good-bad-seniors-guide.html">Pathology</a> | 
+      <a href="https://www.aginghealth.website/2025/11/taking-ozempic-good-bad-seniors-guide.html">GLP-1/Ozempic</a> | 
+      <a href="https://www.aginghealth.website/2024/05/heart-attack-prevention-signs-and-what-to-do.html" target="_blank">Heart Attack Awareness</a> | 
+      <a href="https://www.aginghealth.website/2024/10/cortisol-stress-hormone-effects-management.html" target="_blank">Stress &amp; Metabolism</a>
     </p>
   </div>
 
   <div class="ah-card" style="background: rgb(241, 245, 249);">
-    <h3 class="ah-title">Sources &amp; Clinical Resources
+    <h3 class="ah-title">Sources &amp; Clinical Resources</h3>
     <ul>
-      <li>**Neurology (2024):** Ultra-processed food consumption and brain health outcomes.</li>
-      <li>**Massachusetts General Hospital:** REGARDS Study findings on UPF and Stroke.</li>
-      <li>**ScienceDaily:** New Study Links Heavily Processed Diets to Stroke.</li>
-      <li>**Harvard Health:** More evidence that ultra-processed foods harm health.</li>
+      <li><strong>Neurology (2024):</strong> Ultra-processed food consumption and brain health outcomes.</li>
+      <li><strong>Massachusetts General Hospital:</strong> REGARDS Study findings on UPF and Stroke.</li>
+      <li><strong>ScienceDaily:</strong> New Study Links Heavily Processed Diets to Stroke.</li>
+      <li><strong>Harvard Health:</strong> More evidence that ultra-processed foods harm health.</li>
     </ul>
   </div>
 

@@ -1,13 +1,11 @@
 ---
-layout: single
+layout: post
 title: "Aging & Hormones: How an Endocrinologist Helps You Thrive"
 date: 2024-05-07T00:15:00+00:00
 description: "A patient-friendly guide to explain the role of an endocrinologist, the impact of hormonal changes on aging, when to seek care, and potential therapy."
 tags: ['⚖️ Patient Advocacy', '🛡️ Liver & Immune Health', '❤️ Cardiovascular & T2D', 'Metabolic', 'Kidney', 'Aging Well']
-math: true
-toc: true
-last_modified_at: 2026-05-07
 ---
+
 <style>
 /* Aging Health Unified Style Guide */
 .ah-container { font-family: 'Roboto', sans-serif; line-height: 1.6; color: #333; max-width: 940px; margin: auto; }
@@ -24,12 +22,12 @@ last_modified_at: 2026-05-07
 </style>
 
 <div class="ah-container">
-  <h2 style="text-align: left;">Endocrine Advocacy: Navigating Hormone Shifts for Longevity in 2026
+  <h2 style="text-align: left;">Endocrine Advocacy: Navigating Hormone Shifts for Longevity in 2026</h2>
 
-  <p>As we age, our hormones don't just "slow down"—they transition into a new biological phase. As an independent researcher, I’ve found that many seniors dismiss symptoms like fatigue and muscle loss as "normal aging," when they are actually treatable **Endocrine Disruptions**. In 2026, the goal is to move beyond survival and toward **Hormonal Optimization**.</p>
+  <p>As we age, our hormones don't just "slow down"—they transition into a new biological phase. As an independent researcher, I’ve found that many seniors dismiss symptoms like fatigue and muscle loss as "normal aging," when they are actually treatable <strong>Endocrine Disruptions</strong>. In 2026, the goal is to move beyond survival and toward <strong>Hormonal Optimization</strong>.</p>
 
   <div class="ah-disclaimer">
-    **Medical Disclaimer:** This content is for educational health literacy. Hormone therapy is a complex, individualized clinical decision. Consult your endocrinologist for formal blood-work and evaluation.
+    <strong>Medical Disclaimer:</strong> This content is for educational health literacy. Hormone therapy is a complex, individualized clinical decision. Consult your endocrinologist for formal blood-work and evaluation.
   </div>
 
   <div style="text-align: center; margin: 30px 0;">
@@ -40,27 +38,27 @@ last_modified_at: 2026-05-07
   
 
   <div class="ah-card">
-    <h2 class="ah-title">The Role of the Endocrinologist
+    <h2 class="ah-title">The Role of the Endocrinologist</h2>
     <p>An endocrinologist is the "Thermostat Specialist" of the human body. They manage the glands that produce the chemical messengers (hormones) controlling your energy, mood, and bone strength. In 2026, their expertise is vital for:</p>
     <ul>
-      <li>**Thyroid Regulation:** Managing the metabolism "accelerator."</li>
-      <li>**Pancreatic Health:** Fine-tuning insulin sensitivity for Type 2 Diabetes.</li>
-      <li>**Bone Bioenergetics:** Balancing the minerals needed to prevent Osteoporosis.</li>
+      <li><strong>Thyroid Regulation:</strong> Managing the metabolism "accelerator."</li>
+      <li><strong>Pancreatic Health:</strong> Fine-tuning insulin sensitivity for Type 2 Diabetes.</li>
+      <li><strong>Bone Bioenergetics:</strong> Balancing the minerals needed to prevent Osteoporosis.</li>
     </ul>
   </div>
 
   <div class="ah-update-box">
-    <h3 class="ah-title" style="color:#1d4ed8;">🔬 March 2026 Clinical Synthesis: Hormones & Sarcopenia
-    <p>A major breakthrough in 2026 advocacy is recognizing that hormone declines (specifically Testosterone, Growth Hormone, and Estrogen) are the primary drivers of **Sarcopenia** (muscle loss).</p>
+    <h3 class="ah-title" style="color:#1d4ed8;">🔬 March 2026 Clinical Synthesis: Hormones & Sarcopenia</h3>
+    <p>A major breakthrough in 2026 advocacy is recognizing that hormone declines (specifically Testosterone, Growth Hormone, and Estrogen) are the primary drivers of <strong>Sarcopenia</strong> (muscle loss).</p>
     <ul>
-      <li>**The Protein Shield:** To resist hormone-driven muscle wasting, we aim for a protein intake of **1.2–1.5 g/kg**.</li>
-      <li>**Vascular Stability:** Endocrine health is heart health. Maintaining a systemic blood pressure of **&lt;130 mmHg** prevents additional stress on the adrenal and pituitary glands.</li>
+      <li><strong>The Protein Shield:</strong> To resist hormone-driven muscle wasting, we aim for a protein intake of <strong>1.2–1.5 g/kg</strong>.</li>
+      <li><strong>Vascular Stability:</strong> Endocrine health is heart health. Maintaining a systemic blood pressure of <strong>&lt;130 mmHg</strong> prevents additional stress on the adrenal and pituitary glands.</li>
     </ul>
   </div>
 
   <div class="ah-card">
-    <h2 class="ah-title">Interactive Decision Tree: Is it Time for a Specialist?
-    <p>If you check **two or more** of these "Phase 1" symptoms, specialty care may be required.</p>
+    <h2 class="ah-title">Interactive Decision Tree: Is it Time for a Specialist?</h2>
+    <p>If you check <strong>two or more</strong> of these "Phase 1" symptoms, specialty care may be required.</p>
     <table class="ah-table-grid">
       <tr class="ah-table-header">
         <th>Phase 1: The Symptoms</th>
@@ -71,13 +69,13 @@ last_modified_at: 2026-05-07
         <td>Diagnosed Diabetes, Thyroid disease, or unexplained bone fractures.</td>
       </tr>
       <tr>
-        <td colspan="2" style="text-align: center; background: #f0f7ff;">**Decision Point:** If symptoms are worsening despite lifestyle changes, request an Endocrine referral.</td>
+        <td colspan="2" style="text-align: center; background: #f0f7ff;"><strong>Decision Point:</strong> If symptoms are worsening despite lifestyle changes, request an Endocrine referral.</td>
       </tr>
     </table>
   </div>
 
   <div class="ah-card" style="border: 2px dashed #0d9488; background: #fdfcfb;">
-    <h2 class="ah-title" style="border-bottom: 2px solid #0d9488;">🗣️ The Patient Translation: Endocrine Literacy
+    <h2 class="ah-title" style="border-bottom: 2px solid #0d9488;">🗣️ The Patient Translation: Endocrine Literacy</h2>
     <table class="ah-table-grid">
       <tr class="ah-table-header">
         <th>The Term</th>
@@ -85,52 +83,52 @@ last_modified_at: 2026-05-07
         <th>Advocacy Action</th>
       </tr>
       <tr>
-        <td>**Insulin Resistance**</td>
+        <td><strong>Insulin Resistance</strong></td>
         <td>Your body's cells have "ignored" the sugar-regulating hormone.</td>
-        <td>Monitor your **A1C** and use a **CGM** to see your daily metabolic score.</td>
+        <td>Monitor your <strong>A1C</strong> and use a <strong>CGM</strong> to see your daily metabolic score.</td>
       </tr>
       <tr>
-        <td>**Hypothyroidism**</td>
+        <td><strong>Hypothyroidism</strong></td>
         <td>The thyroid "engine" is idling too low, slowing your metabolism.</td>
-        <td>Ask for a **Full Thyroid Panel** (TSH, Free T3, Free T4)—don't settle for TSH alone.</td>
+        <td>Ask for a <strong>Full Thyroid Panel</strong> (TSH, Free T3, Free T4)—don't settle for TSH alone.</td>
       </tr>
       <tr>
-        <td>**Bone Resorption**</td>
+        <td><strong>Bone Resorption</strong></td>
         <td>Your body is "stealing" minerals from your bones to use in the blood.</td>
-        <td>Ask for a **DEXA Scan** and check your **Vitamin D3/K2** levels.</td>
+        <td>Ask for a <strong>DEXA Scan</strong> and check your <strong>Vitamin D3/K2</strong> levels.</td>
       </tr>
     </table>
 
     <div class="ah-accent-card" style="margin-top: 15px; background: #fff5f5; border-left-color: #e53e3e;">
-      **⚠️ The "Red Flag" Translation:** If a doctor says your low energy is "just part of being 70," translate that to: <em>"We aren't looking for the biological cause of my fatigue."</em> Ask: **"Can we rule out hormonal dysregulation with a comprehensive endocrine lab panel?"**
+      <strong>⚠️ The "Red Flag" Translation:</strong> If a doctor says your low energy is "just part of being 70," translate that to: <em>"We aren't looking for the biological cause of my fatigue."</em> Ask: <strong>"Can we rule out hormonal dysregulation with a comprehensive endocrine lab panel?"</strong>
     </div>
   </div>
   <div class="ah-card">
-    <h2 class="ah-title">Hormone Health Glossary
+    <h2 class="ah-title">Hormone Health Glossary</h2>
     <ul class="ah-checklist">
-      <li>**HPA Axis:** The communication loop between your brain and adrenals that manages **Cortisol**.</li>
-      <li>**Metabolic Stability:** The ability of your body to switch between burning fat and sugar efficiently.</li>
-      <li>**Anabolic State:** When your hormones are optimized to **build muscle** rather than break it down.</li>
+      <li><strong>HPA Axis:</strong> The communication loop between your brain and adrenals that manages <strong>Cortisol</strong>.</li>
+      <li><strong>Metabolic Stability:</strong> The ability of your body to switch between burning fat and sugar efficiently.</li>
+      <li><strong>Anabolic State:</strong> When your hormones are optimized to <strong>build muscle</strong> rather than break it down.</li>
     </ul>
   </div>
 
   <div class="ah-card" style="background:#f1f5f9;">
-    <h3 class="ah-title">About the Researcher
-    <p>**Tommy T. Douglas** is an independent health researcher and survivor of a major heart attack (2008). He manages Type 2 Diabetes and specializes in translating clinical endocrine data into actionable health literacy for seniors.</p>
-    <p>**Explore more by topic:** 
-      <a href="https://www.aginghealth.website/2024/05/what-is-a-pathologist.md">Pathology</a> | 
-      <a href="https://www.aginghealth.website/2025/11/taking-ozempic-good-bad-seniors-guide.md">GLP-1/Ozempic</a> | 
-      <a href="https://www.aginghealth.website/2024/10/cortisol-stress-hormone-effects-management.md">Stress/Cortisol</a> | 
-      <a href="https://www.aginghealth.website/2023/09/liver-cirrhosis-what-you-need-to-know.md">Liver</a>
+    <h3 class="ah-title">About the Researcher</h3>
+    <p><strong>Tommy T. Douglas</strong> is an independent health researcher and survivor of a major heart attack (2008). He manages Type 2 Diabetes and specializes in translating clinical endocrine data into actionable health literacy for seniors.</p>
+    <p><strong>Explore more by topic:</strong> 
+      <a href="https://www.aginghealth.website/2024/05/what-is-a-pathologist.html">Pathology</a> | 
+      <a href="https://www.aginghealth.website/2025/11/taking-ozempic-good-bad-seniors-guide.html">GLP-1/Ozempic</a> | 
+      <a href="https://www.aginghealth.website/2024/10/cortisol-stress-hormone-effects-management.html">Stress/Cortisol</a> | 
+      <a href="https://www.aginghealth.website/2023/09/liver-cirrhosis-what-you-need-to-know.html">Liver</a>
     </p>
   </div>
 
   <div class="ah-card" style="background:#f1f5f9;">
-    <h3 class="ah-title">Sources and Clinical Resources
+    <h3 class="ah-title">Sources and Clinical Resources</h3>
     <ul>
-      <li>**Endocrine Society (2026):** Clinical Guidance for Hormone Health in Aging.</li>
-      <li>**American Thyroid Association:** Thyroid Management in Seniors (2025 Update).</li>
-      <li>**NIH/NIA:** Understanding Age-Related Hormonal Decline.</li>
+      <li><strong>Endocrine Society (2026):</strong> Clinical Guidance for Hormone Health in Aging.</li>
+      <li><strong>American Thyroid Association:</strong> Thyroid Management in Seniors (2025 Update).</li>
+      <li><strong>NIH/NIA:</strong> Understanding Age-Related Hormonal Decline.</li>
     </ul>
   </div>
 
