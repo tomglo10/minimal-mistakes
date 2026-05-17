@@ -61,22 +61,27 @@ kramdown:
 
 # Plugins (Fixed and Complete)
 plugins:
-  - jekyll-paginate
+  - jekyll-paginate-v2  # <--- Changed this line
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
 
 whitelist:
-  - jekyll-paginate
+  - jekyll-paginate-v2  # <--- Changed this line
   - jekyll-sitemap
   - jekyll-feed
 
-paginate: 12
-paginate_path: "/page:num/"
-paginate_layout: home
-# URL Structure
-permalink: /posts/:title/
+# Updated Pagination V2 configuration block
+pagination:
+  enabled: true
+  per_page: 12
+  permalink: "/page/:num/"
+  title: ":title - Page :num"
+  limit: 0
+  sort_field: "date"
+  sort_reverse: true
+
 
 # Front Matter Defaults (Global Settings for all 330 posts)
 defaults:
