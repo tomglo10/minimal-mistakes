@@ -74,7 +74,7 @@ whitelist:
 
 paginate: 12
 paginate_path: "/page:num/"
-
+paginate_layout: home
 # URL Structure
 permalink: /posts/:title/
 
